@@ -51,10 +51,10 @@
 72,Devilman: Crybaby,Action,AvantGarde,Horror
 73,Tokyo Revengers,Action,Drama,Supernatural
 75,Goblin Slayer,Action,Adventure,Fantasy
-76,Fate/stay night: Unlimited Blade Works,Action,Fantasy,Supernatural
-77,Mahouka Koukou no Rettousei,Action,Romance,Sci-Fi
+77,Fate/stay night: Unlimited Blade Works,Action,Fantasy,Supernatural
 78,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,Action,Adventure,Comedy
-79,Gintama,Action,Comedy,Sci-Fi
+79,Mahouka Koukou no Rettousei,Action,Romance,Sci-Fi
+80,Gintama,Action,Comedy,Sci-Fi
 81,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,Action,Adventure,Drama
 82,Magi: The Labyrinth of Magic,Action,Adventure,Fantasy
 85,Sword Art Online: Alicization,Action,Adventure,Fantasy
@@ -75,8 +75,8 @@
 4,Overlord III,Action,Fantasy,Supernatural
 5,Boruto: Naruto Next Generations,Action,Adventure,Fantasy
 6,Trinity Seven,Action,Comedy,Fantasy
-7,Akatsuki no Yona,Action,Adventure,Comedy
-8,Tensei shitara Slime Datta Ken 2nd Season,Action,Adventure,Comedy
+7,Tensei shitara Slime Datta Ken 2nd Season,Action,Adventure,Comedy
+8,Akatsuki no Yona,Action,Adventure,Comedy
 9,Zero no Tsukaima,Action,Adventure,Comedy
 10,Tokyo Ghoul:re 2nd Season,Action,Fantasy,Horror
 12,Akira,Action,Adventure,Horror
@@ -119,8 +119,8 @@
 55,Log Horizon 2nd Season,Action,Adventure,Fantasy
 57,86,Action,Drama,Sci-Fi
 59,Zetsuen no Tempest,Action,Drama,Fantasy
-61,Kenpuu Denki Berserk,Action,Adventure,Drama
-62,Great Pretender,Action,Adventure,Mystery
+61,Great Pretender,Action,Adventure,Mystery
+62,Kenpuu Denki Berserk,Action,Adventure,Drama
 63,Beelzebub,Action,Comedy,Supernatural
 64,Gintama°,Action,Comedy,Sci-Fi
 65,Ajin,Action,Horror,Mystery
@@ -128,7 +128,7 @@
 67,Hunter x Hunter,Action,Adventure,Fantasy
 68,The Last: Naruto the Movie,Action,Adventure,Fantasy
 70,Kuroshitsuji II,Action,Comedy,Supernatural
-72,Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru,Action,Adventure,Comedy
+71,Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru,Action,Adventure,Comedy
 73,Katanagatari,Action,Adventure,Romance
 74,Sword Art Online: Alicization - War of Underworld 2nd Season,Action,Adventure,Fantasy
 75,Absolute Duo,Action,Romance,Supernatural
@@ -142,1729 +142,1827 @@
 83,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III,Action,Adventure,Comedy
 84,Musaigen no Phantom World,Action,Comedy,Fantasy
 86,Gintama',Action,Comedy,Sci-Fi
-87,Ichiban Ushiro no Daimaou,Action,Comedy,Fantasy
+88,Ichiban Ushiro no Daimaou,Action,Comedy,Fantasy
 89,Evangelion: 2.0 You Can (Not) Advance,Action,Drama,Sci-Fi
 90,Darwin's Game,Action,Mystery,Sci-Fi
-91,Zero no Tsukaima: Futatsuki no Kishi,Action,Adventure,Comedy
-93,Sousei no Onmyouji,Action,Fantasy,Romance
-95,Full Metal Panic!,Action,Comedy,Sci-Fi
+92,Zero no Tsukaima: Futatsuki no Kishi,Action,Adventure,Comedy
+94,Sousei no Onmyouji,Action,Fantasy,Romance
+96,Full Metal Panic!,Action,Comedy,Sci-Fi
 98,Rurouni Kenshin: Meiji Kenkaku Romantan,Action,Adventure,Comedy
 99,Dorohedoro,Action,Comedy,Fantasy
-0,Tokyo Ravens,Action,Comedy,Romance
-1,Durarara!!x2 Shou,Action,Mystery,Supernatural
-3,Fairy Tail: Final Series,Action,Adventure,Fantasy
-4,High School DxD Hero,Action,Comedy,Romance
-5,Re:Creators,Action,Fantasy,Sci-Fi
-6,Magi: Sinbad no Bouken (TV),Action,Adventure,Fantasy
-7,Vivy: Fluorite Eye's Song,Action,Sci-Fi,Suspense
-8,Fate/Apocrypha,Action,Drama,Fantasy
-9,Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,Action,Adventure,Comedy
-11,Kaze no Stigma,Action,Romance,Supernatural
-12,Boruto: Naruto the Movie,Action,Adventure,Fantasy
-13,Zero no Tsukaima: Princesses no Rondo,Action,Adventure,Comedy
-14,Gleipnir,Action,Mystery,Supernatural
-17,Kizumonogatari III: Reiketsu-hen,Action,Mystery,Supernatural
-18,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,Action,Adventure,Fantasy
-19,No.6,Action,Drama,Mystery
-20,Kizumonogatari II: Nekketsu-hen,Action,Mystery,Supernatural
-21,Houseki no Kuni (TV),Action,Drama,Fantasy
-22,Fate/stay night Movie: Heaven's Feel - I. Presage Flower,Action,Fantasy,Supernatural
-23,Kara no Kyoukai Movie 1: Fukan Fuukei,Action,Mystery,Supernatural
-24,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",Action,Drama,Fantasy
-25,Darker than Black: Ryuusei no Gemini,Action,Mystery,Sci-Fi
-26,Kekkai Sensen & Beyond,Action,Comedy,Fantasy
-27,Evangelion: 3.0 You Can (Not) Redo,Action,Drama,Sci-Fi
-28,Hagure Yuusha no Aesthetica,Action,Fantasy,Ecchi
-29,Shingeki no Bahamut: Genesis,Action,Adventure,Fantasy
-30,Sekirei,Action,Comedy,Ecchi
-31,Digimon Adventure,Action,Adventure,Comedy
-32,World Trigger,Action,Sci-Fi,Supernatural
-34,Durarara!!x2 Ten,Action,Mystery,Supernatural
-35,Kuroshitsuji: Book of Circus,Action,Comedy,Mystery
-36,IS: Infinite Stratos 2,Action,Comedy,Sci-Fi
-37,Yu☆Gi☆Oh! Duel Monsters,Action,Adventure,Fantasy
-38,Kore wa Zombie Desu ka? of the Dead,Action,Comedy,Supernatural
-39,Shinmai Maou no Testament Burst,Action,Fantasy,Romance
-41,Saijaku Muhai no Bahamut,Action,Fantasy,Romance
-44,Nanatsu no Taizai: Fundo no Shinpan,Action,Adventure,Fantasy
-45,Hitsugi no Chaika,Action,Adventure,Comedy
-46,Blood+,Action,Drama,Horror
-47,Hidan no Aria,Action,Comedy,Romance
-48,Durarara!!x2 Ketsu,Action,Mystery,Supernatural
-49,Plunderer,Action,Fantasy,Ecchi
-50,Panty & Stocking with Garterbelt,Action,Comedy,Supernatural
-51,Arslan Senki (TV),Action,Adventure,Drama
-52,"Kumo Desu ga, Nani ka?",Action,Adventure,Comedy
-53,Dragon Ball Kai,Action,Adventure,Comedy
-54,Shaman King,Action,Adventure,Comedy
-59,Hundred,Action,Romance,Sci-Fi
-60,Seireitsukai no Blade Dance,Action,Comedy,Fantasy
-62,86 Part 2,Action,Drama,Sci-Fi
-66,Gantz,Action,Drama,Horror
-67,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,Action,Fantasy,Supernatural
-68,Blood-C,Action,Horror,Mystery
-69,Dragon Ball Super: Broly,Action,Adventure,Fantasy
-70,Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,Action,Horror,Mystery
-72,Berserk,Action,Adventure,Drama
-73,Kishuku Gakkou no Juliet,Action,Comedy,Romance
-76,Suisei no Gargantia,Action,Adventure,Sci-Fi
-78,Kemono Jihen,Action,Mystery,Supernatural
-79,B: The Beginning,Action,Mystery,Supernatural
-80,Phantom: Requiem for the Phantom,Action,Drama,Suspense
-81,Ore dake Haireru Kakushi Dungeon,Action,Adventure,Fantasy
-82,"Sentouin, Hakenshimasu!",Action,Comedy,Fantasy
-84,Code:Breaker,Action,Comedy,Supernatural
-85,Wolf's Rain,Action,Adventure,Drama
-86,Naruto: Shippuuden Movie 6 - Road to Ninja,Action,Adventure,Fantasy
-87,Ben-To,Action,Comedy,Gourmet
-89,Tales of Zestiria the Cross,Action,Adventure,Fantasy
-90,Seikon no Qwaser,Action,Supernatural,Ecchi
-91,Machine-Doll wa Kizutsukanai,Action,Fantasy,Ecchi
-92,Evangelion: 3.0+1.0 Thrice Upon a Time,Action,Drama,Sci-Fi
-93,Freezing,Action,Drama,Romance
-94,Mahouka Koukou no Rettousei: Raihousha-hen,Action,Romance,Sci-Fi
-95,Witch Craft Works,Action,Fantasy,Supernatural
-96,Genjitsu Shugi Yuusha no Oukoku Saikenki,Action,Fantasy,Romance
-97,Nanbaka,Action,Comedy,Drama
-99,Tsuki ga Michibiku Isekai Douchuu,Action,Adventure,Comedy
-0,Shakugan no Shana II (Second),Action,Drama,Fantasy
-1,Overlord IV,Action,Fantasy,Supernatural
-3,Fate/stay night: Unlimited Blade Works Prologue,Action,Fantasy,Supernatural
-4,Nejimaki Seirei Senki: Tenkyou no Alderamin,Action,Adventure,Fantasy
-6,Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,Action,Horror,Mystery
-8,Gintama': Enchousen,Action,Comedy,Sci-Fi
-10,C: The Money of Soul and Possibility Control,Action,Mystery,Suspense
-11,Taimadou Gakuen 35 Shiken Shoutai,Action,Fantasy,Romance
-12,Fate/stay night Movie: Heaven's Feel - III. Spring Song,Action,Fantasy,Supernatural
-13,Seiken Tsukai no World Break,Action,Fantasy,Romance
-14,Code Geass: Fukkatsu no Lelouch,Action,Drama,Sci-Fi
-16,Arifureta Shokugyou de Sekai Saikyou 2nd Season,Action,Adventure,Fantasy
-19,Kino no Tabi: The Beautiful World,Action,Adventure,SliceofLife
-20,Densetsu no Yuusha no Densetsu,Action,Adventure,Fantasy
-21,Grancrest Senki,Action,Drama,Fantasy
-22,Gintama.,Action,Comedy,Sci-Fi
-23,Isekai Cheat Magician,Action,Adventure,Fantasy
-25,Ajin Part 2,Action,Horror,Mystery
-26,Deca-Dence,Action,Adventure,Sci-Fi
-28,Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito,Action,Adventure,Fantasy
-29,Naruto: Shippuuden Movie 1,Action,Adventure,Fantasy
-30,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,Action,Adventure,Fantasy
-31,Seirei Gensouki,Action,Adventure,Drama
-32,Kämpfer,Action,Comedy,GirlsLove
-37,Taboo Tattoo,Action,Mystery,Supernatural
-38,Masou Gakuen HxH,Action,Comedy,Fantasy
-39,Tenkuu Shinpan,Action,Horror,Mystery
-40,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,Action,Drama,Romance
-41,InuYasha: Kanketsu-hen,Action,Adventure,Comedy
-42,Servamp,Action,Comedy,Drama
-43,Bleach Movie 1: Memories of Nobody,Action,Adventure,Fantasy
-44,Fate/kaleid liner Prisma☆Illya,Action,Comedy,Fantasy
-49,Persona 4 the Animation,Action,Adventure,Mystery
-52,Zero kara Hajimeru Mahou no Sho,Action,Adventure,Fantasy
-54,Darker than Black: Kuro no Keiyakusha Gaiden,Action,Mystery,Sci-Fi
-55,Princess Connect! Re:Dive,Action,Adventure,Comedy
-56,Pokemon Movie 01: Mewtwo no Gyakushuu,Action,Adventure,Comedy
-57,Fate/Grand Order: Zettai Majuu Sensen Babylonia,Action,Fantasy,Supernatural
-58,Naruto: Shippuuden Movie 2 - Kizuna,Action,Adventure,Fantasy
-59,One Piece Film: Z,Action,Adventure,Fantasy
-61,Devils Line,Action,Drama,Romance
-62,Tate no Yuusha no Nariagari Season 3,Action,Adventure,Drama
-63,100-man no Inochi no Ue ni Ore wa Tatteiru,Action,Drama,Fantasy
-64,Psycho-Pass 3,Action,Sci-Fi,Suspense
-65,Kuusen Madoushi Kouhosei no Kyoukan,Action,Drama,Fantasy
-67,"Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",Action,Fantasy,Romance
-69,Medaka Box,Action,Comedy,Ecchi
-70,"Tokyo Ghoul: ""Jack""",Action,Fantasy,Horror
-71,Persona 5 the Animation,Action,Fantasy,Supernatural
-73,Saihate no Paladin,Action,Adventure,Fantasy
+0,Fullmetal Alchemist: Brotherhood,Action,Adventure,Drama
+1,Sword Art Online,Action,Adventure,Fantasy
+2,Naruto,Action,Adventure,Fantasy
+3,Hunter x Hunter (2011),Action,Adventure,Fantasy
+4,Naruto: Shippuuden,Action,Adventure,Fantasy
+5,One Piece,Action,Adventure,Fantasy
+6,Nanatsu no Taizai,Action,Adventure,Fantasy
+7,Sword Art Online II,Action,Adventure,Fantasy
+8,Kono Subarashii Sekai ni Shukufuku wo!,Adventure,Comedy,Fantasy
+9,Bleach,Action,Adventure,Fantasy
+10,Sen to Chihiro no Kamikakushi,Adventure,AwardWinning,Supernatural
+11,Fairy Tail,Action,Adventure,Fantasy
+12,Dr. Stone,Adventure,Comedy,Sci-Fi
+13,Tengen Toppa Gurren Lagann,Action,Adventure,Comedy
+14,JoJo no Kimyou na Bouken (TV),Action,Adventure,Supernatural
+15,Overlord,Action,Adventure,Fantasy
+16,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,Action,Adventure,Comedy
+17,Tate no Yuusha no Nariagari,Action,Adventure,Drama
+18,Fullmetal Alchemist,Action,Adventure,Drama
+19,Kono Subarashii Sekai ni Shukufuku wo! 2,Adventure,Comedy,Fantasy
+20,Tensei shitara Slime Datta Ken,Action,Adventure,Comedy
+21,Made in Abyss,Adventure,Drama,Fantasy
+22,Howl no Ugoku Shiro,Adventure,Drama,Fantasy
+23,Vinland Saga,Action,Adventure,Drama
+24,Samurai Champloo,Action,Adventure,Comedy
+25,Mononoke Hime,Action,Adventure,Fantasy
+26,Dragon Ball Z,Action,Adventure,Comedy
+27,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,Action,Adventure,Drama
+28,Dororo,Action,Adventure,Supernatural
+29,Log Horizon,Action,Adventure,Fantasy
+30,Nanatsu no Taizai: Imashime no Fukkatsu,Action,Adventure,Fantasy
+31,Goblin Slayer,Action,Adventure,Fantasy
+32,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,Action,Adventure,Comedy
+33,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,Action,Adventure,Drama
+34,Magi: The Labyrinth of Magic,Action,Adventure,Fantasy
+36,Dragon Ball,Adventure,Comedy,Fantasy
+37,Sword Art Online: Alicization,Action,Adventure,Fantasy
+38,Fairy Tail (2014),Action,Adventure,Fantasy
+39,Overlord II,Action,Adventure,Fantasy
+41,Dr. Stone: Stone Wars,Adventure,Comedy,Sci-Fi
+42,Kami no Tou,Action,Adventure,Drama
+43,Magi: The Kingdom of Magic,Action,Adventure,Fantasy
+44,Boruto: Naruto Next Generations,Action,Adventure,Fantasy
+45,Tensei shitara Slime Datta Ken 2nd Season,Action,Adventure,Comedy
+46,Akatsuki no Yona,Action,Adventure,Comedy
+47,Zero no Tsukaima,Action,Adventure,Comedy
+48,Mushishi,Adventure,Fantasy,Mystery
+49,Ookami to Koushinryou,Adventure,Fantasy,Romance
+50,Akira,Action,Adventure,Horror
+51,Banana Fish,Action,Adventure,Drama
+52,Dragon Ball Super,Action,Adventure,Comedy
+53,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri",Action,Adventure,Fantasy
+54,InuYasha,Action,Adventure,Comedy
+55,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,Action,Adventure,Comedy
+56,Fumetsu no Anata e,Adventure,Drama,Supernatural
+57,Trigun,Action,Adventure,Comedy
+58,Hai to Gensou no Grimgar,Action,Adventure,Drama
+59,Sword Art Online Movie: Ordinal Scale,Action,Adventure,Fantasy
+60,Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,Adventure,Comedy,Fantasy
+61,Nanatsu no Taizai: Seisen no Shirushi,Action,Adventure,Fantasy
+62,Sword Art Online: Alicization - War of Underworld,Action,Adventure,Fantasy
+63,D.Gray-man,Action,Adventure,Comedy
+64,Nanatsu no Taizai: Kamigami no Gekirin,Action,Adventure,Fantasy
+65,Claymore,Action,Adventure,Fantasy
+66,Tate no Yuusha no Nariagari Season 2,Action,Adventure,Drama
+67,Rokka no Yuusha,Action,Adventure,Fantasy
+68,Little Witch Academia (TV),Adventure,Comedy,Fantasy
+69,Satsuriku no Tenshi,Adventure,Horror,Suspense
+70,Arifureta Shokugyou de Sekai Saikyou,Action,Adventure,Fantasy
+71,Dragon Ball GT,Action,Adventure,Comedy
+72,Pokemon,Action,Adventure,Comedy
+73,Tensei shitara Slime Datta Ken 2nd Season Part 2,Action,Adventure,Comedy
+74,Log Horizon 2nd Season,Action,Adventure,Fantasy
+75,Great Pretender,Action,Adventure,Mystery
+76,Kenpuu Denki Berserk,Action,Adventure,Drama
+77,Hunter x Hunter,Action,Adventure,Fantasy
+78,The Last: Naruto the Movie,Action,Adventure,Fantasy
+79,Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru,Action,Adventure,Comedy
+80,Katanagatari,Action,Adventure,Romance
+81,Sword Art Online: Alicization - War of Underworld 2nd Season,Action,Adventure,Fantasy
+82,Drifters,Action,Adventure,Comedy
+83,Majo no Takkyuubin,Adventure,Comedy,Drama
+84,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2",Action,Adventure,Fantasy
+86,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III,Action,Adventure,Comedy
+87,Kaifuku Jutsushi no Yarinaoshi,Adventure,Drama,Fantasy
+88,Isekai wa Smartphone to Tomo ni.,Adventure,Comedy,Fantasy
+89,Zero no Tsukaima: Futatsuki no Kishi,Action,Adventure,Comedy
+91,Rurouni Kenshin: Meiji Kenkaku Romantan,Action,Adventure,Comedy
+92,Ookami to Koushinryou II,Adventure,Fantasy,Romance
+94,Sora yori mo Tooi Basho,Adventure,Comedy,Drama
+95,Fairy Tail: Final Series,Action,Adventure,Fantasy
+96,Magi: Sinbad no Bouken (TV),Action,Adventure,Fantasy
+97,Maoyuu Maou Yuusha,Adventure,Fantasy,Romance
+99,Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,Action,Adventure,Comedy
+0,Tenkuu no Shiro Laputa,Adventure,Fantasy,Romance
+1,Boruto: Naruto the Movie,Action,Adventure,Fantasy
+2,Zero no Tsukaima: Princesses no Rondo,Action,Adventure,Comedy
+3,Koukyoushihen Eureka Seven,Adventure,Drama,Romance
+4,Pandora Hearts,Adventure,Fantasy,Mystery
+5,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,Action,Adventure,Fantasy
+6,Cardcaptor Sakura,Adventure,Comedy,Drama
+7,Zero no Tsukaima F,Adventure,Fantasy,Romance
+9,Shingeki no Bahamut: Genesis,Action,Adventure,Fantasy
+10,Digimon Adventure,Action,Adventure,Comedy
+11,Yu☆Gi☆Oh! Duel Monsters,Action,Adventure,Fantasy
+13,Nanatsu no Taizai: Fundo no Shinpan,Action,Adventure,Fantasy
+14,Hitsugi no Chaika,Action,Adventure,Comedy
+15,Made in Abyss Movie 3: Fukaki Tamashii no Reimei,Adventure,Drama,Fantasy
+16,Arslan Senki (TV),Action,Adventure,Drama
+17,"Kumo Desu ga, Nani ka?",Action,Adventure,Comedy
+18,Dragon Ball Kai,Action,Adventure,Comedy
+19,Shaman King,Action,Adventure,Comedy
+22,Golden Boy,Adventure,Comedy,Ecchi
+24,Dragon Ball Super: Broly,Action,Adventure,Fantasy
+25,Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!,Adventure,Comedy,Fantasy
+27,Madan no Ou to Vanadis,Adventure,Fantasy,Romance
+28,Berserk,Action,Adventure,Drama
+30,Suisei no Gargantia,Action,Adventure,Sci-Fi
+31,Detective Conan,Adventure,Comedy,Mystery
+32,Ore dake Haireru Kakushi Dungeon,Action,Adventure,Fantasy
+33,Naruto: Shippuuden Movie 6 - Road to Ninja,Action,Adventure,Fantasy
+34,Wolf's Rain,Action,Adventure,Drama
+36,Tales of Zestiria the Cross,Action,Adventure,Fantasy
+38,Shoujo Shuumatsu Ryokou,Adventure,Mystery,Sci-Fi
+39,Tsuki ga Michibiku Isekai Douchuu,Action,Adventure,Comedy
+40,Little Witch Academia,Adventure,Comedy,Fantasy
+41,Nejimaki Seirei Senki: Tenkyou no Alderamin,Action,Adventure,Fantasy
+42,Soredemo Sekai wa Utsukushii,Adventure,Fantasy,Romance
+43,Arifureta Shokugyou de Sekai Saikyou 2nd Season,Action,Adventure,Fantasy
+44,Kino no Tabi: The Beautiful World,Action,Adventure,SliceofLife
+45,Densetsu no Yuusha no Densetsu,Action,Adventure,Fantasy
+46,Isekai Cheat Magician,Action,Adventure,Fantasy
+47,Mushishi Zoku Shou,Adventure,Fantasy,Mystery
+48,Deca-Dence,Action,Adventure,Sci-Fi
+49,Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito,Action,Adventure,Fantasy
+50,Seirei Gensouki,Action,Adventure,Drama
+51,Naruto: Shippuuden Movie 1,Action,Adventure,Fantasy
+52,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,Action,Adventure,Fantasy
+53,Kanata no Astra,Adventure,Mystery,Sci-Fi
+55,Somali to Mori no Kamisama,Adventure,Drama,Fantasy
+56,InuYasha: Kanketsu-hen,Action,Adventure,Comedy
+57,Black Cat (TV),Adventure,Comedy,Sci-Fi
+58,Bleach Movie 1: Memories of Nobody,Action,Adventure,Fantasy
+59,Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?,Adventure,Comedy,Fantasy
+60,Persona 4 the Animation,Action,Adventure,Mystery
+61,Zero kara Hajimeru Mahou no Sho,Action,Adventure,Fantasy
+62,Made in Abyss: Retsujitsu no Ougonkyou,Adventure,Drama,Fantasy
+63,Princess Connect! Re:Dive,Action,Adventure,Comedy
+64,Pokemon Movie 01: Mewtwo no Gyakushuu,Action,Adventure,Comedy
+65,Naruto: Shippuuden Movie 2 - Kizuna,Action,Adventure,Fantasy
+66,Mushishi Zoku Shou 2nd Season,Adventure,Fantasy,Mystery
+67,One Piece Film: Z,Action,Adventure,Fantasy
+68,Neko no Ongaeshi,Adventure,Drama,Fantasy
+69,Tate no Yuusha no Nariagari Season 3,Action,Adventure,Drama
+71,"Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",Adventure,Fantasy,Romance
+72,Saihate no Paladin,Action,Adventure,Fantasy
+73,Shaman King (2021),Adventure,Comedy,Supernatural
 74,Naruto: Shippuuden Movie 4 - The Lost Tower,Action,Adventure,Fantasy
-75,Omamori Himari,Action,Comedy,Fantasy
-76,Ga-Rei: Zero,Action,Supernatural,Suspense
-77,11eyes,Action,Supernatural,Ecchi
-78,Shakugan no Shana III (Final),Action,Drama,Fantasy
-80,Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru,Action,Adventure,Fantasy
-82,Sekirei: Pure Engagement,Action,Comedy,Ecchi
-83,Bungou Stray Dogs: Dead Apple,Action,Comedy,Mystery
-84,Kuroshitsuji: Book of Murder,Action,Comedy,Mystery
-85,Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen),Action,Mystery,Romance
-86,Texhnolyze,Action,Drama,Sci-Fi
-87,Shingeki no Bahamut: Virgin Soul,Action,Adventure,Fantasy
-88,Goblin Slayer: Goblin's Crown,Action,Adventure,Fantasy
-89,Kara no Kyoukai Movie 5: Mujun Rasen,Action,Drama,Mystery
-90,Mob Psycho 100 III,Action,Comedy,Supernatural
-91,Yu☆Gi☆Oh!,Action,Comedy,Fantasy
-92,One Piece Film: Strong World,Action,Adventure,Fantasy
-94,Naruto: Shippuuden Movie 5 - Blood Prison,Action,Adventure,Fantasy
-96,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,Action,Adventure,Fantasy
-97,Kurenai no Buta,Action,Adventure,Comedy
-98,Tsubasa Chronicle,Action,Adventure,Fantasy
-99,Terra Formars,Action,Drama,Horror
-0,Chrno Crusade,Action,Romance,Supernatural
-1,Dance in the Vampire Bund,Action,Drama,Romance
-2,Pokemon: The Origin,Action,Adventure,Comedy
-3,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,Action,Comedy,Sci-Fi
-4,Hayate no Gotoku!,Action,Comedy,Romance
-5,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,Action,Adventure,Fantasy
-6,Tiger & Bunny,Action,Comedy,Mystery
-7,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,Action,Mystery,Sci-Fi
-8,Canaan,Action,Sci-Fi,Supernatural
-10,Kara no Kyoukai Movie 3: Tsuukaku Zanryuu,Action,Drama,Mystery
-11,Ushio to Tora (TV),Action,Adventure,Comedy
-12,Log Horizon: Entaku Houkai,Action,Adventure,Fantasy
-13,Digimon Adventure 02,Action,Adventure,Comedy
-14,Mobile Suit Gundam: Iron-Blooded Orphans,Action,Drama,Sci-Fi
-15,"Maou-sama, Retry!",Action,Adventure,Fantasy
-16,Fate/stay night Movie: Unlimited Blade Works,Action,Fantasy,Supernatural
-17,Kantai Collection: KanColle,Action,Sci-Fi,SliceofLife
-18,Mobile Suit Gundam 00,Action,Drama,Sci-Fi
-20,Karneval (TV),Action,Fantasy,Mystery
-21,Berserk: Ougon Jidai-hen I - Haou no Tamago,Action,Adventure,Fantasy
-22,Shuumatsu no Walküre,Action,Drama,Fantasy
-23,Seirei no Moribito,Action,Adventure,Fantasy
-27,Chrome Shelled Regios,Action,Adventure,Fantasy
+75,Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru,Action,Adventure,Fantasy
+76,Ryuugajou Nanana no Maizoukin,Adventure,Comedy,Mystery
+77,Xian Wang de Richang Shenghuo,Adventure,Comedy,Fantasy
+78,Shingeki no Bahamut: Virgin Soul,Action,Adventure,Fantasy
+79,Goblin Slayer: Goblin's Crown,Action,Adventure,Fantasy
+80,One Piece Film: Strong World,Action,Adventure,Fantasy
+81,Naruto: Shippuuden Movie 5 - Blood Prison,Action,Adventure,Fantasy
+82,Kurenai no Buta,Action,Adventure,Comedy
+83,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,Action,Adventure,Fantasy
+84,Tsubasa Chronicle,Action,Adventure,Fantasy
+85,Pokemon: The Origin,Action,Adventure,Comedy
+86,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,Action,Adventure,Fantasy
+87,Ushio to Tora (TV),Action,Adventure,Comedy
+88,Log Horizon: Entaku Houkai,Action,Adventure,Fantasy
+89,Digimon Adventure 02,Action,Adventure,Comedy
+90,Kamisama no Inai Nichiyoubi,Adventure,Fantasy,Mystery
+91,"Maou-sama, Retry!",Action,Adventure,Fantasy
+92,Berserk: Ougon Jidai-hen I - Haou no Tamago,Action,Adventure,Fantasy
+93,Seirei no Moribito,Action,Adventure,Fantasy
+94,Chrome Shelled Regios,Action,Adventure,Fantasy
+95,Edens Zero,Adventure,Comedy,Fantasy
+96,Sabikui Bisco,Action,Adventure,Fantasy
+97,Fairy Tail Movie 1: Houou no Miko,Action,Adventure,Fantasy
+98,Berserk: Ougon Jidai-hen III - Kourin,Action,Adventure,Drama
+99,Mo Dao Zu Shi,Action,Adventure,Fantasy
+1,No Game No Life,Comedy,Fantasy,Ecchi
+3,Mob Psycho 100,Action,Comedy,Supernatural
+4,Kono Subarashii Sekai ni Shukufuku wo!,Adventure,Comedy,Fantasy
+5,Kill la Kill,Action,Comedy,Ecchi
+6,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,Comedy,Drama,Romance
+7,Soul Eater,Action,Comedy,Fantasy
+8,Dr. Stone,Adventure,Comedy,Sci-Fi
+10,Tengen Toppa Gurren Lagann,Action,Adventure,Comedy
+12,Hataraku Maou-sama!,Comedy,Fantasy,Romance
+13,Black Clover,Action,Comedy,Fantasy
+14,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,Action,Adventure,Comedy
+15,Kono Subarashii Sekai ni Shukufuku wo! 2,Adventure,Comedy,Fantasy
+16,High School DxD,Comedy,Romance,Ecchi
+18,Mob Psycho 100 II,Action,Comedy,Supernatural
+21,Tensei shitara Slime Datta Ken,Action,Adventure,Comedy
+22,Bungou Stray Dogs,Action,Comedy,Mystery
+25,Samurai Champloo,Action,Adventure,Comedy
+26,Dragon Ball Z,Action,Adventure,Comedy
+27,Kuroshitsuji,Action,Comedy,Mystery
+33,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,Action,Adventure,Comedy
+34,Gintama,Action,Comedy,Sci-Fi
+37,Date A Live,Comedy,Romance,Sci-Fi
+38,Dragon Ball,Adventure,Comedy,Fantasy
+39,Golden Time,Comedy,Drama,Romance
+40,Prison School,Comedy,Romance,Ecchi
+41,Suzumiya Haruhi no Yuuutsu,Comedy,Mystery,Sci-Fi
+43,Dr. Stone: Stone Wars,Adventure,Comedy,Sci-Fi
+44,Baccano!,Action,Comedy,Mystery
+45,High School DxD New,Action,Comedy,Romance
+49,Kekkai Sensen,Action,Comedy,Fantasy
+50,Trinity Seven,Action,Comedy,Fantasy
+51,Tensei shitara Slime Datta Ken 2nd Season,Action,Adventure,Comedy
+52,Akatsuki no Yona,Action,Adventure,Comedy
+53,Zero no Tsukaima,Action,Adventure,Comedy
+55,Boku wa Tomodachi ga Sukunai,Comedy,Romance,Ecchi
+57,FLCL,Action,AvantGarde,Comedy
+59,High School DxD BorN,Action,Comedy,Romance
+60,Dragon Ball Super,Action,Adventure,Comedy
+62,InuYasha,Action,Adventure,Comedy
+63,Yamada-kun to 7-nin no Majo,Comedy,Mystery,Romance
+64,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,Action,Adventure,Comedy
+67,Nisemonogatari,Comedy,Mystery,Supernatural
+68,Monster Musume no Iru Nichijou,Comedy,Fantasy,Romance
+70,Trigun,Action,Adventure,Comedy
+72,NHK ni Youkoso!,Comedy,Drama,Romance
+74,Eromanga-sensei,Comedy,Drama,Romance
+75,Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,Adventure,Comedy,Fantasy
+77,D.Gray-man,Action,Adventure,Comedy
+79,Blood Lad,Action,Comedy,Supernatural
+81,Rosario to Vampire,Comedy,Fantasy,Romance
+84,Isekai Maou to Shoukan Shoujo no Dorei Majutsu,Comedy,Fantasy,Ecchi
+87,Monogatari Series: Second Season,Comedy,Mystery,Romance
+88,Yuu☆Yuu☆Hakusho,Action,Comedy,Supernatural
+92,Gakusen Toshi Asterisk,Action,Comedy,Fantasy
+95,Amagi Brilliant Park,Comedy,Drama,Fantasy
+97,Saenai Heroine no Sodatekata,Comedy,Romance,Ecchi
+98,IS: Infinite Stratos,Action,Comedy,Sci-Fi
+0,Kore wa Zombie Desu ka?,Action,Comedy,Supernatural
+2,To LOVE-Ru,Comedy,Romance,Sci-Fi
+4,Kami nomi zo Shiru Sekai,Comedy,Romance,Supernatural
+5,Little Witch Academia (TV),Adventure,Comedy,Fantasy
+6,Kamisama Hajimemashita,Comedy,Fantasy,Romance
+7,Date A Live II,Comedy,Romance,Sci-Fi
+8,Bakuman.,Comedy,Drama,Romance
+9,Dragon Ball GT,Action,Adventure,Comedy
+10,Pokemon,Action,Adventure,Comedy
+11,Tensei shitara Slime Datta Ken 2nd Season Part 2,Action,Adventure,Comedy
+12,Sankarea,Comedy,Horror,Romance
+14,Beelzebub,Action,Comedy,Supernatural
+15,Gintama°,Action,Comedy,Sci-Fi
+16,Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,Action,Comedy,Fantasy
+17,Kiss x Sis (TV),Comedy,Romance,Ecchi
+20,Kuroshitsuji II,Action,Comedy,Supernatural
+21,Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru,Action,Adventure,Comedy
+23,Nekomonogatari: Kuro,Comedy,Romance,Supernatural
+24,Drifters,Action,Adventure,Comedy
+26,Majo no Takkyuubin,Adventure,Comedy,Drama
+29,Kenja no Mago,Action,Comedy,Fantasy
+30,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III,Action,Adventure,Comedy
+31,Suzumiya Haruhi no Yuuutsu (2009),Comedy,Mystery,Sci-Fi
+32,Musaigen no Phantom World,Action,Comedy,Fantasy
+34,Gintama',Action,Comedy,Sci-Fi
+35,Ichiban Ushiro no Daimaou,Action,Comedy,Fantasy
+36,Netoge no Yome wa Onnanoko ja Nai to Omotta?,Comedy,Romance,Ecchi
+37,Isekai wa Smartphone to Tomo ni.,Adventure,Comedy,Fantasy
+38,Inu x Boku SS,Comedy,Romance,Supernatural
+39,Hajimete no Gal,Comedy,Romance,Ecchi
+40,Zero no Tsukaima: Futatsuki no Kishi,Action,Adventure,Comedy
+41,Full Metal Panic!,Action,Comedy,Sci-Fi
+42,Mayo Chiki!,Comedy,Romance,Ecchi
+45,Rurouni Kenshin: Meiji Kenkaku Romantan,Action,Adventure,Comedy
+46,Dorohedoro,Action,Comedy,Fantasy
+47,Chobits,Comedy,Drama,Romance
+48,Tokyo Ravens,Action,Comedy,Romance
+49,Sora yori mo Tooi Basho,Adventure,Comedy,Drama
+50,Sora no Otoshimono,Comedy,Romance,Sci-Fi
+52,High School DxD Hero,Action,Comedy,Romance
+54,Owarimonogatari,Comedy,Mystery,Supernatural
+55,Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,Action,Adventure,Comedy
+57,Hentai Ouji to Warawanai Neko.,Comedy,Romance,Supernatural
+58,Ishuzoku Reviewers,Comedy,Fantasy,Ecchi
+59,Mekakucity Actors,Comedy,Sci-Fi,Supernatural
+61,Zero no Tsukaima: Princesses no Rondo,Action,Adventure,Comedy
+71,Yojouhan Shinwa Taikei,Comedy,Mystery,Romance
+72,Cardcaptor Sakura,Adventure,Comedy,Drama
+74,Hanamonogatari,Comedy,Mystery,Supernatural
+75,Gakusen Toshi Asterisk 2nd Season,Comedy,Fantasy,Romance
+76,Rosario to Vampire Capu2,Comedy,Fantasy,Romance
+77,Kekkai Sensen & Beyond,Action,Comedy,Fantasy
+79,Tsukimonogatari,Comedy,Mystery,Supernatural
+80,"Dakara Boku wa, H ga Dekinai.",Comedy,Romance,Supernatural
+83,Mieruko-chan,Comedy,Horror,Supernatural
+86,Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...,Comedy,Drama,Fantasy
+88,Sekirei,Action,Comedy,Ecchi
+89,Mairimashita! Iruma-kun,Comedy,Fantasy,Supernatural
+90,Digimon Adventure,Action,Adventure,Comedy
+92,Kuroshitsuji: Book of Circus,Action,Comedy,Mystery
+93,Kami nomi zo Shiru Sekai II,Comedy,Romance,Supernatural
+94,B-gata H-kei,Comedy,Romance,Ecchi
+97,IS: Infinite Stratos 2,Action,Comedy,Sci-Fi
+98,Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou,Comedy,Fantasy,Romance
+0,Neon Genesis Evangelion,Action,AvantGarde,Drama
+1,Devilman: Crybaby,Action,AvantGarde,Horror
+2,Neon Genesis Evangelion: The End of Evangelion,AvantGarde,Drama,Sci-Fi
+3,FLCL,Action,AvantGarde,Comedy
+4,Serial Experiments Lain,AvantGarde,Drama,Mystery
+5,Perfect Blue,AvantGarde,Drama,Horror
+6,Paprika,AvantGarde,Fantasy,Horror
+7,Mousou Dairinin,AvantGarde,Drama,Mystery
+8,Mawaru Penguindrum,AvantGarde,Comedy,Drama
+9,Boogiepop wa Warawanai (2019),AvantGarde,Drama,Horror
+10,Tenshi no Tamago,AvantGarde,Drama,Fantasy
+11,FLCL Progressive,Action,AvantGarde,Comedy
+12,Boogiepop wa Warawanai,AvantGarde,Drama,Horror
+13,Yami Shibai,AvantGarde,Horror,Supernatural
+14,Higurashi no Naku Koro ni Sotsu,AvantGarde,Horror,Mystery
+15,FLCL Alternative,Action,AvantGarde,Comedy
+16,Uzumaki,AvantGarde,Drama,Horror
+17,Mind Game,Adventure,AvantGarde,Comedy
+19,Shoujo Kakumei Utena: Adolescence Mokushiroku,AvantGarde,Drama,Fantasy
+20,Yami Shibai 2,AvantGarde,Horror,Supernatural
+22,Nihon Animator Mihonichi,Action,AvantGarde,Fantasy
+24,Panty & Stocking in Sanitarybox,Action,AvantGarde,Comedy
+25,Genius Party,Action,AvantGarde,Fantasy
+26,Yami Shibai 3,AvantGarde,Horror,Supernatural
+27,Yami Shibai 4,AvantGarde,Horror,Supernatural
+28,Yami Shibai 5,AvantGarde,Horror,Supernatural
+32,Yami Shibai 6,AvantGarde,Horror,Supernatural
+33,Genius Party Beyond,AvantGarde,Fantasy,Sci-Fi
+34,Yami Shibai 7,AvantGarde,Horror,Supernatural
+35,Kaze no Na wa Amnesia,Action,AvantGarde,Drama
+36,FLCL: Grunge,Action,AvantGarde,Comedy
+38,Yami Shibai 8,AvantGarde,Horror,Supernatural
+39,1001 Nights,AvantGarde,Fantasy,Romance
+40,Tsukuyomi: Moon Phase Special,AvantGarde,Comedy,SliceofLife
+41,Re:cycle of the Penguindrum,AvantGarde,Comedy,Drama
+42,Koroshiya 1 The Animation: Episode 0,Action,AvantGarde,Drama
+43,Yami Shibai 9,AvantGarde,Horror,Supernatural
+45,Tamala 2010: A Punk Cat in Space,AvantGarde,Comedy,Sci-Fi
+49,Gosenzo-sama Banbanzai!,AvantGarde,Comedy,Drama
+50,Atama Yama,AvantGarde,Comedy,Fantasy
+51,Yami Shibai 10,AvantGarde,Horror,Supernatural
+53,Kago Shintarou Anime Sakuhin Shuu,AvantGarde,Comedy,Horror
+54,FLCL: Shoegaze,Action,AvantGarde,Comedy
+57,Airy Me,AvantGarde,Drama,Horror
+58,Extra,Action,AvantGarde,Horror
+59,Ryokunohara Meikyuu,AvantGarde,BoysLove,Drama
+66,Seisai,AvantGarde,Fantasy,Horror
+69,Survival,AvantGarde,Drama,Supernatural
+70,X Densha de Ikou,AvantGarde,Mystery,Supernatural
+85,Alexander Senki Movie,Action,Adventure,AvantGarde
+89,Alice in Dreamland,Adventure,AvantGarde,Fantasy
+12,Flying Luna Clipper,AvantGarde,Comedy,Ecchi
+17,Shui Naodai,AvantGarde,Fantasy,Sci-Fi
+41,Alice in Voodooland,AvantGarde,Fantasy,Horror
+90,Animation!,Adventure,AvantGarde,Comedy
+1,Yakusoku no Neverland,Mystery,Sci-Fi,Suspense
+2,Another,Horror,Mystery,Supernatural
+4,Durarara!!,Action,Mystery,Supernatural
+5,Bakemonogatari,Mystery,Romance,Supernatural
+7,Bungou Stray Dogs,Action,Comedy,Mystery
+8,Made in Abyss,Adventure,Drama,Fantasy
+9,Kuroshitsuji,Action,Comedy,Mystery
+11,Monster,Drama,Mystery,Suspense
+12,Darker than Black: Kuro no Keiyakusha,Action,Mystery,Sci-Fi
+14,Suzumiya Haruhi no Yuuutsu,Comedy,Mystery,Sci-Fi
+15,Black Bullet,Action,Mystery,Sci-Fi
+16,Baccano!,Action,Comedy,Mystery
+17,Kami no Tou,Action,Adventure,Drama
+18,Mushishi,Adventure,Fantasy,Mystery
+19,Higurashi no Naku Koro ni,Horror,Mystery,Supernatural
+20,Shinsekai yori,Drama,Horror,Mystery
+21,Bungou Stray Dogs 2nd Season,Action,Mystery,Supernatural
+22,Yamada-kun to 7-nin no Majo,Comedy,Mystery,Romance
+23,K,Action,Mystery,Supernatural
+24,Nisemonogatari,Comedy,Mystery,Supernatural
+26,Serial Experiments Lain,AvantGarde,Drama,Mystery
+27,Monogatari Series: Second Season,Comedy,Mystery,Romance
+28,Rokka no Yuusha,Action,Adventure,Fantasy
+30,Suzumiya Haruhi no Shoushitsu,Mystery,Sci-Fi,Supernatural
+31,Vampire Knight,Drama,Mystery,Romance
+32,Zetsuen no Tempest,Action,Drama,Fantasy
+33,Great Pretender,Action,Adventure,Mystery
+34,Shiki,Horror,Mystery,Supernatural
+35,Ajin,Action,Horror,Mystery
+36,Higashi no Eden,Mystery,Romance,Sci-Fi
+37,Bungou Stray Dogs 3rd Season,Action,Mystery,Supernatural
+38,Gosick,Drama,Mystery,Romance
+39,Suzumiya Haruhi no Yuuutsu (2009),Comedy,Mystery,Sci-Fi
+40,Darwin's Game,Action,Mystery,Sci-Fi
+41,Paprika,AvantGarde,Fantasy,Horror
+42,Durarara!!x2 Shou,Action,Mystery,Supernatural
+43,Higurashi no Naku Koro ni Kai,Mystery,Supernatural,Suspense
+44,Owarimonogatari,Comedy,Mystery,Supernatural
+45,Gleipnir,Action,Mystery,Supernatural
+46,Kizumonogatari III: Reiketsu-hen,Action,Mystery,Supernatural
+47,Gakkougurashi!,Horror,Mystery,SliceofLife
+48,Pandora Hearts,Adventure,Fantasy,Mystery
+49,No.6,Action,Drama,Mystery
+50,Kizumonogatari II: Nekketsu-hen,Action,Mystery,Supernatural
+51,Houseki no Kuni,Action,Drama,Fantasy
+52,Yojouhan Shinwa Taikei,Comedy,Mystery,Romance
+53,Hanamonogatari,Comedy,Mystery,Supernatural
+54,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",Action,Drama,Fantasy
+55,Kara no Kyoukai Movie 1: Fukan Fuukei,Action,Mystery,Supernatural
+56,Darker than Black: Ryuusei no Gemini,Action,Mystery,Sci-Fi
+57,Tsukimonogatari,Comedy,Mystery,Supernatural
+58,Kyokou Suiri,Mystery,Romance,Supernatural
+59,Tasogare Otome x Amnesia,Horror,Mystery,Romance
+61,Durarara!!x2 Ten,Action,Mystery,Supernatural
+62,Mousou Dairinin,AvantGarde,Drama,Mystery
+63,Kuroshitsuji: Book of Circus,Action,Comedy,Mystery
+64,Owarimonogatari 2nd Season,Comedy,Mystery,Supernatural
+65,Blood+,Action,Drama,Horror
+66,Made in Abyss Movie 3: Fukaki Tamashii no Reimei,Adventure,Drama,Fantasy
+67,Durarara!!x2 Ketsu,Action,Mystery,Supernatural
+68,Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou,Horror,Mystery,Supernatural
+69,"Kumo Desu ga, Nani ka?",Action,Adventure,Comedy
+70,Vampire Knight: Guilty,Drama,Mystery,Romance
+71,Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari,Drama,Mystery,Suspense
+73,Jigoku Shoujo,Horror,Mystery,Supernatural
+74,Blood-C,Action,Horror,Mystery
+76,Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,Action,Horror,Mystery
+77,Gokukoku no Brynhildr,Drama,Mystery,Sci-Fi
+78,Kemono Jihen,Action,Mystery,Supernatural
+79,Detective Conan,Adventure,Comedy,Mystery
+80,B: The Beginning,Action,Mystery,Supernatural
+82,"Tantei wa Mou, Shindeiru.",Comedy,Drama,Mystery
+83,Wolf's Rain,Action,Adventure,Drama
+84,Shoujo Shuumatsu Ryokou,Adventure,Mystery,Sci-Fi
+85,xxxHOLiC,Comedy,Drama,Mystery
+86,Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,Action,Horror,Mystery
+87,C: The Money of Soul and Possibility Control,Action,Mystery,Suspense
+88,Hamatora The Animation,Comedy,Drama,Mystery
+89,Mononoke,Fantasy,Horror,Mystery
+90,Mawaru Penguindrum,AvantGarde,Comedy,Drama
+91,Amnesia,Fantasy,Mystery,Romance
+92,ChäoS;HEAd,Mystery,Sci-Fi,Supernatural
+93,Mushishi Zoku Shou,Adventure,Fantasy,Mystery
+94,Ajin Part 2,Action,Horror,Mystery
+95,Kanata no Astra,Adventure,Mystery,Sci-Fi
+96,Taboo Tattoo,Action,Mystery,Supernatural
+97,Tenkuu Shinpan,Action,Horror,Mystery
+99,Summertime Render,Mystery,Supernatural,Suspense
+0,Haibane Renmei,Drama,Fantasy,Mystery
+1,Persona 4 the Animation,Action,Adventure,Mystery
+2,Darker than Black: Kuro no Keiyakusha Gaiden,Action,Mystery,Sci-Fi
+3,Made in Abyss: Retsujitsu no Ougonkyou,Adventure,Drama,Fantasy
+4,ef: A Tale of Memories.,Drama,Mystery,Romance
+5,Higurashi no Naku Koro ni Gou,Horror,Mystery,Supernatural
+6,Mushishi Zoku Shou 2nd Season,Adventure,Fantasy,Mystery
+8,Gankutsuou,Drama,Mystery,Sci-Fi
+10,Koyomimonogatari,Comedy,Mystery,Supernatural
+11,Ryuugajou Nanana no Maizoukin,Adventure,Comedy,Mystery
+12,Bungou Stray Dogs: Dead Apple,Action,Comedy,Mystery
+13,Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen),Action,Mystery,Romance
+14,Kuroshitsuji: Book of Murder,Action,Comedy,Mystery
+15,Ousama Game The Animation,Drama,Horror,Mystery
+16,Kara no Kyoukai Movie 5: Mujun Rasen,Action,Drama,Mystery
+17,Ghost Hunt,Horror,Mystery,Supernatural
+18,Tiger & Bunny,Action,Comedy,Mystery
+19,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,Action,Mystery,Sci-Fi
+20,Kara no Kyoukai Movie 3: Tsuukaku Zanryuu,Action,Drama,Mystery
+21,Boogiepop wa Warawanai (2019),AvantGarde,Drama,Horror
+22,Kamisama no Inai Nichiyoubi,Adventure,Fantasy,Mystery
+23,Kujira no Kora wa Sajou ni Utau,Drama,Fantasy,Mystery
+24,Mayoiga,Drama,Horror,Mystery
+25,Umineko no Naku Koro ni,Horror,Mystery,Supernatural
+26,Karneval (TV),Action,Fantasy,Mystery
+27,Zoku Owarimonogatari,Comedy,Mystery,Supernatural
+28,Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru,Drama,Mystery,Suspense
 29,Kara no Kyoukai Movie 4: Garan no Dou,Action,Mystery,Supernatural
-31,Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara,Action,Comedy,Fantasy
-32,Fairy Tail Movie 1: Houou no Miko,Action,Adventure,Fantasy
-33,Berserk: Ougon Jidai-hen III - Kourin,Action,Adventure,Drama
-35,Sabikui Bisco,Action,Adventure,Fantasy
-37,Yu☆Gi☆Oh!: Duel Monsters GX,Action,Comedy,Fantasy
-38,Mo Dao Zu Shi,Action,Adventure,Fantasy
-41,Rewrite,Action,Comedy,Romance
-42,Dragon Ball Z Movie 14: Kami to Kami,Action,Adventure,Fantasy
-43,Arcana Famiglia,Action,Fantasy,Romance
-44,"Yuusha, Yamemasu",Action,Adventure,Comedy
-45,"Tokyo Ghoul: ""Pinto""",Action,Fantasy,Horror
-46,Soul Eater NOT!,Action,Comedy,Supernatural
-48,Tensei shitara Slime Datta Ken OVA,Action,Adventure,Comedy
-49,Rozen Maiden,Action,Comedy,Drama
-50,Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go),Action,Mystery,Romance
-51,Hitsugi no Chaika: Avenging Battle,Action,Adventure,Comedy
-52,Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!,Action,Adventure,Fantasy
-53,Fate/Grand Order: First Order,Action,Fantasy,Supernatural
-54,Bleach Movie 4: Jigoku-hen,Action,Adventure,Fantasy
-55,Berserk: Ougon Jidai-hen II - Doldrey Kouryaku,Action,Adventure,Drama
-57,Radiant,Action,Adventure,Fantasy
-58,Kill la Kill Specials,Action,Comedy,Ecchi
-59,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya,Action,Adventure,Comedy
-60,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen,Action,Adventure,Comedy
-61,Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono,Action,Adventure,Fantasy
-64,Isekai no Seikishi Monogatari,Action,Comedy,Fantasy
-66,Kino no Tabi: The Beautiful World - The Animated Series,Action,Adventure,SliceofLife
-67,UQ Holder!: Mahou Sensei Negima! 2,Action,Fantasy,Sci-Fi
-69,Gintama.: Shirogane no Tamashii-hen,Action,Comedy,Sci-Fi
-71,Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria,Action,Adventure,Fantasy
-73,Dog Days,Action,Adventure,Fantasy
-75,Strike the Blood II,Action,Fantasy,Supernatural
-76,Kara no Kyoukai Movie 6: Boukyaku Rokuon,Action,Mystery,Romance
-78,D.N.Angel,Action,Comedy,Fantasy
-80,Gunslinger Girl,Action,Drama,Sci-Fi
-81,Tenjou Tenge,Action,Comedy,Ecchi
-82,Gintama.: Porori-hen,Action,Comedy,Sci-Fi
-83,No Guns Life,Action,Drama,Sci-Fi
-84,One Piece Film: Gold,Action,Adventure,Fantasy
-85,Tsugumomo,Action,Comedy,Supernatural
-86,Hunter x Hunter Movie 1: Phantom Rouge,Action,Adventure,Fantasy
-87,Nanatsu no Taizai OVA,Action,Adventure,Fantasy
-89,Gungrave,Action,Drama,Sci-Fi
-91,Basilisk: Kouga Ninpou Chou,Action,Adventure,Fantasy
-92,Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2,Action,Fantasy,Romance
-93,Kyousou Giga (TV),Action,Fantasy,Supernatural
-94,Kuroshitsuji Movie: Book of the Atlantic,Action,Comedy,Mystery
-96,Fullmetal Alchemist: The Sacred Star of Milos,Action,Adventure,Drama
-98,Pokemon Advanced Generation,Action,Adventure,Comedy
+30,Mo Dao Zu Shi,Action,Adventure,Fantasy
+31,"Kono Naka ni Hitori, Imouto ga Iru!",Comedy,Mystery,Romance
+33,Shoujo Kakumei Utena,Comedy,Drama,Fantasy
+34,Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go),Action,Mystery,Romance
+37,Higurashi no Naku Koro ni Rei,Mystery,Supernatural,Suspense
+38,Another: The Other - Inga,Horror,Mystery,Suspense
+39,Kara no Kyoukai Movie 6: Boukyaku Rokuon,Action,Mystery,Romance
+40,Gakkou no Kaidan,Horror,Mystery,Supernatural
+41,Kuroshitsuji Movie: Book of the Atlantic,Action,Comedy,Mystery
+43,.hack//Sign,Adventure,Fantasy,Mystery
+44,Kokkoku,Drama,Mystery,Supernatural
+45,Robotics;Notes,Drama,Mystery,Sci-Fi
+46,Baccano! Specials,Action,Comedy,Mystery
+47,Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen,Action,Horror,Mystery
+48,Higashi no Eden Movie I: The King of Eden,Mystery,Romance,Sci-Fi
+49,Re:␣Hamatora,Comedy,Drama,Mystery
+51,ef: A Tale of Melodies.,Drama,Mystery,Romance
+52,Shingetsutan Tsukihime,Action,Horror,Mystery
+53,Princess Tutu,Comedy,Drama,Fantasy
+54,Jigoku Shoujo Futakomori,Horror,Mystery,Supernatural
+55,ACCA: 13-ku Kansatsu-ka,Drama,Fantasy,Mystery
+56,Bungou Stray Dogs: Hitori Ayumu,Action,Mystery,Supernatural
+57,Itou Junji: Collection,Drama,Horror,Mystery
+61,Dantalian no Shoka,Action,Mystery,Supernatural
+62,Shinreigari,Mystery,Sci-Fi,Supernatural
+63,Higashi no Eden Movie II: Paradise Lost,Mystery,Romance,Sci-Fi
+64,Kaiba,Adventure,Mystery,Romance
+65,Dennou Coil,Adventure,Comedy,Drama
+66,Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note,Fantasy,Mystery,Supernatural
+68,Loveless,Action,BoysLove,Drama
+70,xxxHOLiC: Kei,Comedy,Drama,Mystery
+71,Mushishi: Hihamukage,Adventure,Fantasy,Mystery
+72,Kishibe Rohan wa Ugokanai,Action,Mystery,Supernatural
+73,Shinrei Tantei Yakumo,Horror,Mystery,Supernatural
+74,"Gyakuten Saiban: Sono ""Shinjitsu"", Igi Ari!",Comedy,Drama,Mystery
+75,ChäoS;Child,Mystery,Sci-Fi,Supernatural
+76,Boogiepop wa Warawanai,AvantGarde,Drama,Horror
+77,7 Seeds,Adventure,Drama,Mystery
+78,Mushishi Zoku Shou: Suzu no Shizuku,Adventure,Fantasy,Mystery
+79,GetBackers,Action,Comedy,Drama
+80,Karakuri Circus,Action,Adventure,Drama
+81,Tsubasa Chronicle 2nd Season,Action,Adventure,Drama
+82,RahXephon,Action,Drama,Mystery
+85,Makai Ouji: Devils and Realist,Comedy,Fantasy,Mystery
+86,"Trickster: Edogawa Ranpo ""Shounen Tanteidan"" yori",Drama,Mystery,Sci-Fi
+88,Witch Hunter Robin,Action,Drama,Mystery
+89,Kara no Kyoukai Movie: Mirai Fukuin,Drama,Mystery,Supernatural
+91,Lupin III: Cagliostro no Shiro,Action,Adventure,Comedy
+93,Noir,Action,Drama,Mystery
+94,Urasekai Picnic,Adventure,Fantasy,GirlsLove
+96,Made in Abyss Movie 2: Hourou Suru Tasogare,Adventure,Drama,Fantasy
+97,Made in Abyss Movie 1: Tabidachi no Yoake,Adventure,Drama,Fantasy
+98,Seikimatsu Occult Gakuin,Comedy,Mystery,Sci-Fi
 1,Fullmetal Alchemist: Brotherhood,Action,Adventure,Drama
-3,Sword Art Online,Action,Adventure,Fantasy
-5,Tokyo Ghoul,Action,Fantasy,Horror
-6,Naruto,Action,Adventure,Fantasy
-8,Hunter x Hunter (2011),Action,Adventure,Fantasy
-11,Naruto: Shippuuden,Action,Adventure,Fantasy
-12,Code Geass: Hangyaku no Lelouch,Action,Drama,Sci-Fi
-16,One Piece,Action,Adventure,Fantasy
-20,Nanatsu no Taizai,Action,Adventure,Fantasy
-21,Mirai Nikki (TV),Action,Supernatural,Suspense
-22,Sword Art Online II,Action,Adventure,Fantasy
-24,Mob Psycho 100,Action,Comedy,Supernatural
-26,Bleach,Action,Adventure,Fantasy
-27,Kiseijuu: Sei no Kakuritsu,Action,Horror,Sci-Fi
-30,Tokyo Ghoul √A,Action,Fantasy,Horror
-31,Fairy Tail,Action,Adventure,Fantasy
-32,Code Geass: Hangyaku no Lelouch R2,Action,Drama,Sci-Fi
-33,Neon Genesis Evangelion,Action,AvantGarde,Drama
-34,Kill la Kill,Action,Comedy,Ecchi
-36,Soul Eater,Action,Comedy,Fantasy
-37,Psycho-Pass,Action,Sci-Fi,Suspense
-38,Tengen Toppa Gurren Lagann,Action,Adventure,Comedy
-40,Darling in the FranXX,Action,Drama,Romance
-41,JoJo no Kimyou na Bouken (TV),Action,Adventure,Supernatural
-42,Elfen Lied,Action,Drama,Horror
-43,Black Clover,Action,Comedy,Fantasy
-44,Overlord,Action,Adventure,Fantasy
-45,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,Action,Adventure,Comedy
-46,Fate/Zero,Action,Fantasy,Supernatural
-47,Highschool of the Dead,Action,Horror,Supernatural
-48,Tate no Yuusha no Nariagari,Action,Adventure,Drama
-49,Fullmetal Alchemist,Action,Adventure,Drama
-51,Durarara!!,Action,Mystery,Supernatural
-52,Mob Psycho 100 II,Action,Comedy,Supernatural
-55,Tensei shitara Slime Datta Ken,Action,Adventure,Comedy
-56,Owari no Seraph,Action,Drama,Supernatural
-57,Bungou Stray Dogs,Action,Comedy,Mystery
-58,Vinland Saga,Action,Adventure,Drama
-59,Deadman Wonderland,Action,Horror,Sci-Fi
-60,Guilty Crown,Action,Drama,Sci-Fi
-62,Samurai Champloo,Action,Adventure,Comedy
-63,Mononoke Hime,Action,Adventure,Fantasy
-64,Dragon Ball Z,Action,Adventure,Comedy
-65,Kuroshitsuji,Action,Comedy,Mystery
-66,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,Action,Adventure,Drama
-67,Dororo,Action,Adventure,Supernatural
-68,Tokyo Ghoul:re,Action,Fantasy,Horror
-69,Log Horizon,Action,Adventure,Fantasy
-70,Fate/Zero 2nd Season,Action,Fantasy,Supernatural
-71,Nanatsu no Taizai: Imashime no Fukkatsu,Action,Adventure,Fantasy
-72,Devilman: Crybaby,Action,AvantGarde,Horror
-73,Tokyo Revengers,Action,Drama,Supernatural
-75,Goblin Slayer,Action,Adventure,Fantasy
-76,Fate/stay night: Unlimited Blade Works,Action,Fantasy,Supernatural
-77,Mahouka Koukou no Rettousei,Action,Romance,Sci-Fi
-78,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,Action,Adventure,Comedy
-79,Gintama,Action,Comedy,Sci-Fi
-81,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,Action,Adventure,Drama
-82,Magi: The Labyrinth of Magic,Action,Adventure,Fantasy
-85,Sword Art Online: Alicization,Action,Adventure,Fantasy
-86,Fairy Tail (2014),Action,Adventure,Fantasy
-88,Overlord II,Action,Adventure,Fantasy
-89,Fate/stay night,Action,Fantasy,Romance
-90,Darker than Black: Kuro no Keiyakusha,Action,Mystery,Sci-Fi
-92,Black Bullet,Action,Mystery,Sci-Fi
-93,Rakudai Kishi no Cavalry,Action,Fantasy,Romance
-94,Baccano!,Action,Comedy,Mystery
-95,High School DxD New,Action,Comedy,Romance
-96,Hellsing Ultimate,Action,Horror,Supernatural
-99,Kami no Tou,Action,Adventure,Drama
-0,Kekkai Sensen,Action,Comedy,Fantasy
-1,The God of High School,Action,Fantasy,Sci-Fi
-2,Fate/stay night: Unlimited Blade Works 2nd Season,Action,Fantasy,Supernatural
-3,Magi: The Kingdom of Magic,Action,Adventure,Fantasy
-4,Overlord III,Action,Fantasy,Supernatural
-5,Boruto: Naruto Next Generations,Action,Adventure,Fantasy
-6,Trinity Seven,Action,Comedy,Fantasy
-7,Akatsuki no Yona,Action,Adventure,Comedy
-8,Tensei shitara Slime Datta Ken 2nd Season,Action,Adventure,Comedy
-9,Zero no Tsukaima,Action,Adventure,Comedy
-10,Tokyo Ghoul:re 2nd Season,Action,Fantasy,Horror
-12,Akira,Action,Adventure,Horror
-13,FLCL,Action,AvantGarde,Comedy
+4,Steins;Gate,Drama,Sci-Fi,Suspense
+5,Code Geass: Hangyaku no Lelouch,Action,Drama,Sci-Fi
+10,Re:Zero kara Hajimeru Isekai Seikatsu,Drama,Fantasy,Suspense
+14,Code Geass: Hangyaku no Lelouch R2,Action,Drama,Sci-Fi
+15,Neon Genesis Evangelion,Action,AvantGarde,Drama
+16,Death Parade,Drama,Supernatural,Suspense
+17,Violet Evergarden,Drama,Fantasy,SliceofLife
+18,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,Comedy,Drama,Romance
+19,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,Drama,SliceofLife,Supernatural
+20,Darling in the FranXX,Action,Drama,Romance
+22,Elfen Lied,Action,Drama,Horror
+23,Tate no Yuusha no Nariagari,Action,Adventure,Drama
+24,Fullmetal Alchemist,Action,Adventure,Drama
+25,Clannad,Drama,Romance,Supernatural
+27,Owari no Seraph,Action,Drama,Supernatural
+28,Made in Abyss,Adventure,Drama,Fantasy
+30,Howl no Ugoku Shiro,Adventure,Drama,Fantasy
+31,Vinland Saga,Action,Adventure,Drama
+33,Guilty Crown,Action,Drama,Sci-Fi
+34,Clannad: After Story,Drama,Romance,Supernatural
+35,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,Action,Adventure,Drama
+36,Tokyo Revengers,Action,Drama,Supernatural
+37,Mushoku Tensei: Isekai Ittara Honki Dasu,Drama,Fantasy,Ecchi
+39,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,Action,Adventure,Comedy
+40,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,Action,Adventure,Drama
+41,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season,Drama,Fantasy,Suspense
+42,ReLIFE,Drama,Romance,SliceofLife
+44,Golden Time,Comedy,Drama,Romance
+45,Monster,Drama,Mystery,Suspense
+46,Byousoku 5 Centimeter,Drama,Romance,SliceofLife
+47,Plastic Memories,Drama,Romance,Sci-Fi
+48,Tenki no Ko,Drama,Fantasy,Romance
+49,Ao Haru Ride,Drama,Romance,SliceofLife
+50,Kimi ni Todoke,Drama,Romance,SliceofLife
+51,Neon Genesis Evangelion: The End of Evangelion,AvantGarde,Drama,Sci-Fi
+52,Kimi no Suizou wo Tabetai,Drama,Romance,SliceofLife
+53,Kami no Tou,Action,Adventure,Drama
+54,No Game No Life: Zero,Drama,Fantasy,Romance
+55,Steins;Gate 0,Drama,Sci-Fi,Suspense
+56,Kokoro Connect,Drama,Romance,Supernatural
+57,Kotonoha no Niwa,Drama,Romance,SliceofLife
+59,Hotarubi no Mori e,Drama,Romance,Supernatural
+60,Orange,Drama,Romance,Sci-Fi
+62,Koutetsujou no Kabaneri,Action,Drama,Fantasy
+63,Banana Fish,Action,Adventure,Drama
+64,Toki wo Kakeru Shoujo,Drama,Romance,Sci-Fi
+65,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,Drama,Fantasy,Suspense
+66,Shinsekai yori,Drama,Horror,Mystery
+67,Owari no Seraph: Nagoya Kessen-hen,Action,Drama,Supernatural
+68,Fumetsu no Anata e,Adventure,Drama,Supernatural
+69,Fruits Basket 1st Season,Drama,Fantasy,Romance
+71,Kiznaiver,Drama,Romance,Sci-Fi
+72,Trigun,Action,Adventure,Comedy
+73,NHK ni Youkoso!,Comedy,Drama,Romance
+74,Hai to Gensou no Grimgar,Action,Adventure,Drama
+75,Eromanga-sensei,Comedy,Drama,Romance
+76,Serial Experiments Lain,AvantGarde,Drama,Mystery
+80,Mushoku Tensei: Isekai Ittara Honki Dasu Part 2,Drama,Fantasy,Ecchi
+84,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,Drama,Romance,Supernatural
+85,Akagami no Shirayuki-hime,Drama,Fantasy,Romance
+86,Amagi Brilliant Park,Comedy,Drama,Fantasy
+88,Tate no Yuusha no Nariagari Season 2,Action,Adventure,Drama
+90,Perfect Blue,AvantGarde,Drama,Horror
+91,Bakuman.,Comedy,Drama,Romance
+92,Inuyashiki,Action,Drama,Sci-Fi
+93,Vampire Knight,Drama,Mystery,Romance
+94,86,Action,Drama,Sci-Fi
+95,Nana,Drama,Romance,SliceofLife
+96,Nagi no Asu kara,Drama,Fantasy,Romance
+98,Zetsuen no Tempest,Action,Drama,Fantasy
+99,Kenpuu Denki Berserk,Action,Adventure,Drama
+3,Shakugan no Shana,Action,Drama,Fantasy
+4,Fruits Basket,Drama,Fantasy,Romance
+5,Majo no Takkyuubin,Adventure,Comedy,Drama
+6,Gosick,Drama,Mystery,Romance
+7,Evangelion: 1.0 You Are (Not) Alone,Action,Drama,Sci-Fi
+8,Kaifuku Jutsushi no Yarinaoshi,Adventure,Drama,Fantasy
+9,Natsume Yuujinchou,Drama,SliceofLife,Supernatural
+10,Given,BoysLove,Drama,Romance
+11,Evangelion: 2.0 You Can (Not) Advance,Action,Drama,Sci-Fi
+12,Citrus,Drama,GirlsLove,Romance
+13,Violet Evergarden Movie,Drama,Fantasy,SliceofLife
+14,"Yosuga no Sora: In Solitude, Where We Are Least Alone.",Drama,Romance,Ecchi
+15,Chobits,Comedy,Drama,Romance
+16,Sora yori mo Tooi Basho,Adventure,Comedy,Drama
+17,Fate/Apocrypha,Action,Drama,Fantasy
+18,Chihayafuru,Drama,SliceofLife,Sports
+19,Fruits Basket 2nd Season,Drama,Romance,Supernatural
+21,Koukyoushihen Eureka Seven,Adventure,Drama,Romance
+23,Kimi ni Todoke 2nd Season,Drama,Romance,SliceofLife
+25,No.6,Action,Drama,Mystery
+26,Houseki no Kuni,Action,Drama,Fantasy
+27,Cardcaptor Sakura,Adventure,Comedy,Drama
+28,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",Action,Drama,Fantasy
+29,Evangelion: 3.0 You Can (Not) Redo,Action,Drama,Sci-Fi
+30,Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...,Comedy,Drama,Fantasy
+34,Mousou Dairinin,AvantGarde,Drama,Mystery
+35,Fruits Basket: The Final,Drama,Romance,Supernatural
+39,Ano Natsu de Matteru,Drama,Romance,Sci-Fi
+41,Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,Drama,Fantasy,Romance
+42,Blood+,Action,Drama,Horror
+43,Made in Abyss Movie 3: Fukaki Tamashii no Reimei,Adventure,Drama,Fantasy
+44,Nakitai Watashi wa Neko wo Kaburu,Comedy,Drama,Romance
+46,Arslan Senki (TV),Action,Adventure,Drama
+48,Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou,Drama,Fantasy,SliceofLife
+49,Vampire Knight: Guilty,Drama,Mystery,Romance
+50,Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari,Drama,Mystery,Suspense
+51,86 Part 2,Action,Drama,Sci-Fi
+53,Gantz,Action,Drama,Horror
+54,Bakuman. 2nd Season,Comedy,Drama,Romance
+56,Akagami no Shirayuki-hime 2nd Season,Drama,Fantasy,Romance
+57,Berserk,Action,Adventure,Drama
+59,Gokukoku no Brynhildr,Drama,Mystery,Sci-Fi
+60,Kotoura-san,Comedy,Drama,Romance
+61,Josee to Tora to Sakana-tachi,Drama,Romance,SliceofLife
+62,Phantom: Requiem for the Phantom,Action,Drama,Suspense
+63,Fullmetal Alchemist: The Conqueror of Shamballa,Comedy,Drama,Fantasy
+65,"Tantei wa Mou, Shindeiru.",Comedy,Drama,Mystery
+66,Bakuman. 3rd Season,Comedy,Drama,Romance
+67,Beck,Comedy,Drama,SliceofLife
+68,Mimi wo Sumaseba,Drama,Romance,SliceofLife
+69,Wolf's Rain,Action,Adventure,Drama
+70,Evangelion: 3.0+1.0 Thrice Upon a Time,Action,Drama,Sci-Fi
+71,Freezing,Action,Drama,Romance
+72,Nanbaka,Action,Comedy,Drama
+76,Ballroom e Youkoso,Comedy,Drama,Romance
+77,Nodame Cantabile,Comedy,Drama,Romance
+79,Shakugan no Shana II (Second),Action,Drama,Fantasy
+80,xxxHOLiC,Comedy,Drama,Mystery
+81,Araburu Kisetsu no Otome-domo yo.,Comedy,Drama,Romance
+82,Yagate Kimi ni Naru,Drama,GirlsLove,Romance
+85,Hamatora The Animation,Comedy,Drama,Mystery
+87,Air,Drama,Romance,SliceofLife
+88,"Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou",Drama,Fantasy,SliceofLife
+89,Code Geass: Fukkatsu no Lelouch,Action,Drama,Sci-Fi
+90,Mawaru Penguindrum,AvantGarde,Comedy,Drama
+92,Yesterday wo Utatte,Drama,Romance,SliceofLife
+93,Grancrest Senki,Action,Drama,Fantasy
+94,Bokutachi no Remake,Drama,Romance,SliceofLife
+95,Little Busters!,Comedy,Drama,SliceofLife
+96,Just Because!,Drama,Romance,SliceofLife
+98,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie,Drama,SliceofLife,Supernatural
+99,Fuuka,Drama,Romance,Ecchi
+0,Fullmetal Alchemist: Brotherhood,Action,Adventure,Drama
+1,Sword Art Online,Action,Adventure,Fantasy
+2,Tokyo Ghoul,Action,Fantasy,Horror
+3,Naruto,Action,Adventure,Fantasy
+5,Hunter x Hunter (2011),Action,Adventure,Fantasy
+6,No Game No Life,Comedy,Fantasy,Ecchi
+7,Naruto: Shippuuden,Action,Adventure,Fantasy
+9,Re:Zero kara Hajimeru Isekai Seikatsu,Drama,Fantasy,Suspense
+11,One Piece,Action,Adventure,Fantasy
+13,Nanatsu no Taizai,Action,Adventure,Fantasy
+14,Sword Art Online II,Action,Adventure,Fantasy
+16,Kono Subarashii Sekai ni Shukufuku wo!,Adventure,Comedy,Fantasy
+17,Bleach,Action,Adventure,Fantasy
+18,Tokyo Ghoul √A,Action,Fantasy,Horror
+19,Fairy Tail,Action,Adventure,Fantasy
+20,Violet Evergarden,Drama,Fantasy,SliceofLife
+21,Soul Eater,Action,Comedy,Fantasy
+22,Hataraku Maou-sama!,Comedy,Fantasy,Romance
+23,Black Clover,Action,Comedy,Fantasy
+24,Overlord,Action,Adventure,Fantasy
+25,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,Action,Adventure,Comedy
+26,Fate/Zero,Action,Fantasy,Supernatural
+27,Tate no Yuusha no Nariagari,Action,Adventure,Drama
+28,Fullmetal Alchemist,Action,Adventure,Drama
+29,Kono Subarashii Sekai ni Shukufuku wo! 2,Adventure,Comedy,Fantasy
+32,Tensei shitara Slime Datta Ken,Action,Adventure,Comedy
+33,Made in Abyss,Adventure,Drama,Fantasy
+34,Howl no Ugoku Shiro,Adventure,Drama,Fantasy
+35,Mononoke Hime,Action,Adventure,Fantasy
+36,Dragon Ball Z,Action,Adventure,Comedy
+38,Kyoukai no Kanata,Fantasy,SliceofLife,Supernatural
+39,Tokyo Ghoul:re,Action,Fantasy,Horror
+40,Log Horizon,Action,Adventure,Fantasy
+41,Fate/Zero 2nd Season,Action,Fantasy,Supernatural
+42,Nanatsu no Taizai: Imashime no Fukkatsu,Action,Adventure,Fantasy
+43,Mushoku Tensei: Isekai Ittara Honki Dasu,Drama,Fantasy,Ecchi
+44,Goblin Slayer,Action,Adventure,Fantasy
+46,Fate/stay night: Unlimited Blade Works,Action,Fantasy,Supernatural
+47,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season,Drama,Fantasy,Suspense
+48,Magi: The Labyrinth of Magic,Action,Adventure,Fantasy
+49,Dragon Ball,Adventure,Comedy,Fantasy
+50,Sword Art Online: Alicization,Action,Adventure,Fantasy
+51,Fairy Tail (2014),Action,Adventure,Fantasy
+52,Overlord II,Action,Adventure,Fantasy
+53,Fate/stay night,Action,Fantasy,Romance
+54,Rakudai Kishi no Cavalry,Action,Fantasy,Romance
+55,Tenki no Ko,Drama,Fantasy,Romance
+57,Kami no Tou,Action,Adventure,Drama
+58,Kekkai Sensen,Action,Comedy,Fantasy
+59,No Game No Life: Zero,Drama,Fantasy,Romance
+60,The God of High School,Action,Fantasy,Sci-Fi
+61,Fate/stay night: Unlimited Blade Works 2nd Season,Action,Fantasy,Supernatural
+62,Magi: The Kingdom of Magic,Action,Adventure,Fantasy
+63,Overlord III,Action,Fantasy,Supernatural
+64,Boruto: Naruto Next Generations,Action,Adventure,Fantasy
+65,Trinity Seven,Action,Comedy,Fantasy
+66,Tensei shitara Slime Datta Ken 2nd Season,Action,Adventure,Comedy
+67,Akatsuki no Yona,Action,Adventure,Comedy
+68,Zero no Tsukaima,Action,Adventure,Comedy
+69,Tokyo Ghoul:re 2nd Season,Action,Fantasy,Horror
+70,Mushishi,Adventure,Fantasy,Mystery
+71,Ookami to Koushinryou,Adventure,Fantasy,Romance
+73,Koutetsujou no Kabaneri,Action,Drama,Fantasy
+74,Dragon Ball Super,Action,Adventure,Comedy
+75,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri",Action,Adventure,Fantasy
+76,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,Drama,Fantasy,Suspense
+77,InuYasha,Action,Adventure,Comedy
+78,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,Action,Adventure,Comedy
+79,Fruits Basket 1st Season,Drama,Fantasy,Romance
+81,Monster Musume no Iru Nichijou,Comedy,Fantasy,Romance
+82,Hai to Gensou no Grimgar,Action,Adventure,Drama
+83,Sword Art Online Movie: Ordinal Scale,Action,Adventure,Fantasy
+84,Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,Adventure,Comedy,Fantasy
+85,Nanatsu no Taizai: Seisen no Shirushi,Action,Adventure,Fantasy
+86,Sword Art Online: Alicization - War of Underworld,Action,Adventure,Fantasy
+88,Nanatsu no Taizai: Kamigami no Gekirin,Action,Adventure,Fantasy
+90,Rosario to Vampire,Comedy,Fantasy,Romance
+91,Mushoku Tensei: Isekai Ittara Honki Dasu Part 2,Drama,Fantasy,Ecchi
+93,Isekai Maou to Shoukan Shoujo no Dorei Majutsu,Comedy,Fantasy,Ecchi
+94,Claymore,Action,Adventure,Fantasy
+95,Shinmai Maou no Testament,Action,Fantasy,Romance
+96,Gakusen Toshi Asterisk,Action,Comedy,Fantasy
+97,Akagami no Shirayuki-hime,Drama,Fantasy,Romance
+98,Amagi Brilliant Park,Comedy,Drama,Fantasy
+99,Tate no Yuusha no Nariagari Season 2,Action,Adventure,Drama
+0,Strike the Blood,Action,Fantasy,Supernatural
+1,Rokka no Yuusha,Action,Adventure,Fantasy
+2,Little Witch Academia (TV),Adventure,Comedy,Fantasy
+3,Kamisama Hajimemashita,Comedy,Fantasy,Romance
+4,Arifureta Shokugyou de Sekai Saikyou,Action,Adventure,Fantasy
+5,Dragon Ball GT,Action,Adventure,Comedy
+6,Pokemon,Action,Adventure,Comedy
+7,Tensei shitara Slime Datta Ken 2nd Season Part 2,Action,Adventure,Comedy
+8,Log Horizon 2nd Season,Action,Adventure,Fantasy
+9,Nagi no Asu kara,Drama,Fantasy,Romance
+10,Zetsuen no Tempest,Action,Drama,Fantasy
+11,Kenpuu Denki Berserk,Action,Adventure,Drama
+12,Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,Action,Comedy,Fantasy
+13,Hunter x Hunter,Action,Adventure,Fantasy
+14,The Last: Naruto the Movie,Action,Adventure,Fantasy
+15,Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru,Action,Adventure,Comedy
+16,Sword Art Online: Alicization - War of Underworld 2nd Season,Action,Adventure,Fantasy
+17,Shakugan no Shana,Action,Drama,Fantasy
+18,God Eater,Action,Fantasy,Sci-Fi
+19,Drifters,Action,Adventure,Comedy
+20,Fruits Basket,Drama,Fantasy,Romance
+21,Majo no Takkyuubin,Adventure,Comedy,Drama
+22,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2",Action,Adventure,Fantasy
+24,Kenja no Mago,Action,Comedy,Fantasy
+25,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III,Action,Adventure,Comedy
+26,Kaifuku Jutsushi no Yarinaoshi,Adventure,Drama,Fantasy
+27,Musaigen no Phantom World,Action,Comedy,Fantasy
+28,Ichiban Ushiro no Daimaou,Action,Comedy,Fantasy
+29,Isekai wa Smartphone to Tomo ni.,Adventure,Comedy,Fantasy
+31,Zero no Tsukaima: Futatsuki no Kishi,Action,Adventure,Comedy
+32,Paprika,AvantGarde,Fantasy,Horror
+33,Sousei no Onmyouji,Action,Fantasy,Romance
+34,Violet Evergarden Movie,Drama,Fantasy,SliceofLife
+36,Ookami to Koushinryou II,Adventure,Fantasy,Romance
+37,Dorohedoro,Action,Comedy,Fantasy
+40,Fairy Tail: Final Series,Action,Adventure,Fantasy
+41,Re:Creators,Action,Fantasy,Sci-Fi
+42,Magi: Sinbad no Bouken (TV),Action,Adventure,Fantasy
+43,Maoyuu Maou Yuusha,Adventure,Fantasy,Romance
+45,Fate/Apocrypha,Action,Drama,Fantasy
+46,Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,Action,Adventure,Comedy
+47,Tenkuu no Shiro Laputa,Adventure,Fantasy,Romance
+48,Ishuzoku Reviewers,Comedy,Fantasy,Ecchi
+49,Boruto: Naruto the Movie,Action,Adventure,Fantasy
+50,Zero no Tsukaima: Princesses no Rondo,Action,Adventure,Comedy
+52,Pandora Hearts,Adventure,Fantasy,Mystery
+53,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,Action,Adventure,Fantasy
+54,Houseki no Kuni,Action,Drama,Fantasy
+55,Cardcaptor Sakura,Adventure,Comedy,Drama
+56,Fate/stay night Movie: Heaven's Feel - I. Presage Flower,Action,Fantasy,Supernatural
+57,Gakusen Toshi Asterisk 2nd Season,Comedy,Fantasy,Romance
+58,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",Action,Drama,Fantasy
+59,Rosario to Vampire Capu2,Comedy,Fantasy,Romance
+60,Kekkai Sensen & Beyond,Action,Comedy,Fantasy
+61,Zero no Tsukaima F,Adventure,Fantasy,Romance
+62,Hagure Yuusha no Aesthetica,Action,Fantasy,Ecchi
+64,Shingeki no Bahamut: Genesis,Action,Adventure,Fantasy
+65,Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...,Comedy,Drama,Fantasy
+66,Mairimashita! Iruma-kun,Comedy,Fantasy,Supernatural
+67,Digimon Adventure,Action,Adventure,Comedy
+69,Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou,Comedy,Fantasy,Romance
+70,Yu☆Gi☆Oh! Duel Monsters,Action,Adventure,Fantasy
+72,Shinmai Maou no Testament Burst,Action,Fantasy,Romance
+73,Saijaku Muhai no Bahamut,Action,Fantasy,Romance
+74,Nanatsu no Taizai: Fundo no Shinpan,Action,Adventure,Fantasy
+75,Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,Drama,Fantasy,Romance
+76,Hitsugi no Chaika,Action,Adventure,Comedy
+77,Made in Abyss Movie 3: Fukaki Tamashii no Reimei,Adventure,Drama,Fantasy
+78,Plunderer,Action,Fantasy,Ecchi
+80,Arslan Senki (TV),Action,Adventure,Drama
+81,Kamisama Hajimemashita◎,Comedy,Fantasy,Romance
+82,Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou,Drama,Fantasy,SliceofLife
+83,"Kumo Desu ga, Nani ka?",Action,Adventure,Comedy
+84,Dragon Ball Kai,Action,Adventure,Comedy
+85,Seireitsukai no Blade Dance,Action,Comedy,Fantasy
+87,Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω,Comedy,Fantasy,Ecchi
+89,Hataraku Maou-sama!!,Comedy,Fantasy,Romance
+90,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,Action,Fantasy,Supernatural
+92,Dragon Ball Super: Broly,Action,Adventure,Fantasy
+93,Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!,Adventure,Comedy,Fantasy
+94,Akagami no Shirayuki-hime 2nd Season,Drama,Fantasy,Romance
+95,Madan no Ou to Vanadis,Adventure,Fantasy,Romance
+96,Berserk,Action,Adventure,Drama
+98,Fullmetal Alchemist: The Conqueror of Shamballa,Comedy,Drama,Fantasy
+99,Ore dake Haireru Kakushi Dungeon,Action,Adventure,Fantasy
+0,Tokyo Ghoul,Action,Fantasy,Horror
+1,Kiseijuu: Sei no Kakuritsu,Action,Horror,Sci-Fi
+2,Tokyo Ghoul √A,Action,Fantasy,Horror
+3,Another,Horror,Mystery,Supernatural
+4,Elfen Lied,Action,Drama,Horror
+5,Highschool of the Dead,Action,Horror,Supernatural
+6,Deadman Wonderland,Action,Horror,Sci-Fi
+7,Tokyo Ghoul:re,Action,Fantasy,Horror
+8,Devilman: Crybaby,Action,AvantGarde,Horror
+10,Hellsing Ultimate,Action,Horror,Supernatural
+11,Tokyo Ghoul:re 2nd Season,Action,Fantasy,Horror
+12,Higurashi no Naku Koro ni,Horror,Mystery,Supernatural
+13,Akira,Action,Adventure,Horror
 14,Koutetsujou no Kabaneri,Action,Drama,Fantasy
-15,Banana Fish,Action,Adventure,Drama
-16,High School DxD BorN,Action,Comedy,Romance
-17,Dragon Ball Super,Action,Adventure,Comedy
-18,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri",Action,Adventure,Fantasy
-19,InuYasha,Action,Adventure,Comedy
-20,Bungou Stray Dogs 2nd Season,Action,Mystery,Supernatural
-21,K,Action,Mystery,Supernatural
-22,Owari no Seraph: Nagoya Kessen-hen,Action,Drama,Supernatural
-23,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,Action,Adventure,Comedy
-25,Accel World,Action,Romance,Sci-Fi
-26,Trigun,Action,Adventure,Comedy
-27,Hai to Gensou no Grimgar,Action,Adventure,Drama
-29,Sword Art Online Movie: Ordinal Scale,Action,Adventure,Fantasy
-30,Hellsing,Action,Horror,Supernatural
-31,Nanatsu no Taizai: Seisen no Shirushi,Action,Adventure,Fantasy
-32,Sword Art Online: Alicization - War of Underworld,Action,Adventure,Fantasy
-33,D.Gray-man,Action,Adventure,Comedy
-34,Nanatsu no Taizai: Kamigami no Gekirin,Action,Adventure,Fantasy
-36,Blood Lad,Action,Comedy,Supernatural
-40,Claymore,Action,Adventure,Fantasy
-41,Shinmai Maou no Testament,Action,Fantasy,Romance
-42,Yuu☆Yuu☆Hakusho,Action,Comedy,Supernatural
-43,Gakusen Toshi Asterisk,Action,Comedy,Fantasy
-44,Psycho-Pass 2,Action,Sci-Fi,Suspense
-45,Tate no Yuusha no Nariagari Season 2,Action,Adventure,Drama
-46,Strike the Blood,Action,Fantasy,Supernatural
-47,IS: Infinite Stratos,Action,Comedy,Sci-Fi
-48,Kore wa Zombie Desu ka?,Action,Comedy,Supernatural
-49,Rokka no Yuusha,Action,Adventure,Fantasy
-50,Arifureta Shokugyou de Sekai Saikyou,Action,Adventure,Fantasy
-51,Dragon Ball GT,Action,Adventure,Comedy
-52,Pokemon,Action,Adventure,Comedy
-53,Inuyashiki,Action,Drama,Sci-Fi
-54,Tensei shitara Slime Datta Ken 2nd Season Part 2,Action,Adventure,Comedy
-55,Log Horizon 2nd Season,Action,Adventure,Fantasy
-57,86,Action,Drama,Sci-Fi
-59,Zetsuen no Tempest,Action,Drama,Fantasy
-61,Kenpuu Denki Berserk,Action,Adventure,Drama
-62,Great Pretender,Action,Adventure,Mystery
-63,Beelzebub,Action,Comedy,Supernatural
-64,Gintama°,Action,Comedy,Sci-Fi
-65,Ajin,Action,Horror,Mystery
-66,Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,Action,Comedy,Fantasy
-67,Hunter x Hunter,Action,Adventure,Fantasy
-68,The Last: Naruto the Movie,Action,Adventure,Fantasy
-70,Kuroshitsuji II,Action,Comedy,Supernatural
-72,Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru,Action,Adventure,Comedy
-73,Katanagatari,Action,Adventure,Romance
-74,Sword Art Online: Alicization - War of Underworld 2nd Season,Action,Adventure,Fantasy
-75,Absolute Duo,Action,Romance,Supernatural
-76,Bungou Stray Dogs 3rd Season,Action,Mystery,Supernatural
-77,Shakugan no Shana,Action,Drama,Fantasy
-78,God Eater,Action,Fantasy,Sci-Fi
-79,Drifters,Action,Adventure,Comedy
-80,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2",Action,Adventure,Fantasy
-81,Evangelion: 1.0 You Are (Not) Alone,Action,Drama,Sci-Fi
-82,Kenja no Mago,Action,Comedy,Fantasy
-83,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III,Action,Adventure,Comedy
-84,Musaigen no Phantom World,Action,Comedy,Fantasy
-86,Gintama',Action,Comedy,Sci-Fi
-87,Ichiban Ushiro no Daimaou,Action,Comedy,Fantasy
-89,Evangelion: 2.0 You Can (Not) Advance,Action,Drama,Sci-Fi
-90,Darwin's Game,Action,Mystery,Sci-Fi
-91,Zero no Tsukaima: Futatsuki no Kishi,Action,Adventure,Comedy
-93,Sousei no Onmyouji,Action,Fantasy,Romance
-95,Full Metal Panic!,Action,Comedy,Sci-Fi
-98,Rurouni Kenshin: Meiji Kenkaku Romantan,Action,Adventure,Comedy
-99,Dorohedoro,Action,Comedy,Fantasy
-0,Tokyo Ravens,Action,Comedy,Romance
-1,Durarara!!x2 Shou,Action,Mystery,Supernatural
-3,Fairy Tail: Final Series,Action,Adventure,Fantasy
-4,High School DxD Hero,Action,Comedy,Romance
-5,Re:Creators,Action,Fantasy,Sci-Fi
-6,Magi: Sinbad no Bouken (TV),Action,Adventure,Fantasy
-7,Vivy: Fluorite Eye's Song,Action,Sci-Fi,Suspense
-8,Fate/Apocrypha,Action,Drama,Fantasy
-9,Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,Action,Adventure,Comedy
-11,Kaze no Stigma,Action,Romance,Supernatural
-12,Boruto: Naruto the Movie,Action,Adventure,Fantasy
-13,Zero no Tsukaima: Princesses no Rondo,Action,Adventure,Comedy
-14,Gleipnir,Action,Mystery,Supernatural
-17,Kizumonogatari III: Reiketsu-hen,Action,Mystery,Supernatural
-18,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,Action,Adventure,Fantasy
-19,No.6,Action,Drama,Mystery
-20,Kizumonogatari II: Nekketsu-hen,Action,Mystery,Supernatural
-21,Houseki no Kuni (TV),Action,Drama,Fantasy
-22,Fate/stay night Movie: Heaven's Feel - I. Presage Flower,Action,Fantasy,Supernatural
-23,Kara no Kyoukai Movie 1: Fukan Fuukei,Action,Mystery,Supernatural
-24,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",Action,Drama,Fantasy
-25,Darker than Black: Ryuusei no Gemini,Action,Mystery,Sci-Fi
-26,Kekkai Sensen & Beyond,Action,Comedy,Fantasy
-27,Evangelion: 3.0 You Can (Not) Redo,Action,Drama,Sci-Fi
-28,Hagure Yuusha no Aesthetica,Action,Fantasy,Ecchi
-29,Shingeki no Bahamut: Genesis,Action,Adventure,Fantasy
-30,Sekirei,Action,Comedy,Ecchi
-31,Digimon Adventure,Action,Adventure,Comedy
-32,World Trigger,Action,Sci-Fi,Supernatural
-34,Durarara!!x2 Ten,Action,Mystery,Supernatural
-35,Kuroshitsuji: Book of Circus,Action,Comedy,Mystery
-36,IS: Infinite Stratos 2,Action,Comedy,Sci-Fi
-37,Yu☆Gi☆Oh! Duel Monsters,Action,Adventure,Fantasy
-38,Kore wa Zombie Desu ka? of the Dead,Action,Comedy,Supernatural
-39,Shinmai Maou no Testament Burst,Action,Fantasy,Romance
-41,Saijaku Muhai no Bahamut,Action,Fantasy,Romance
-44,Nanatsu no Taizai: Fundo no Shinpan,Action,Adventure,Fantasy
-45,Hitsugi no Chaika,Action,Adventure,Comedy
-46,Blood+,Action,Drama,Horror
-47,Hidan no Aria,Action,Comedy,Romance
-48,Durarara!!x2 Ketsu,Action,Mystery,Supernatural
-49,Plunderer,Action,Fantasy,Ecchi
-50,Panty & Stocking with Garterbelt,Action,Comedy,Supernatural
-51,Arslan Senki (TV),Action,Adventure,Drama
-52,"Kumo Desu ga, Nani ka?",Action,Adventure,Comedy
-53,Dragon Ball Kai,Action,Adventure,Comedy
-54,Shaman King,Action,Adventure,Comedy
-59,Hundred,Action,Romance,Sci-Fi
-60,Seireitsukai no Blade Dance,Action,Comedy,Fantasy
-62,86 Part 2,Action,Drama,Sci-Fi
-66,Gantz,Action,Drama,Horror
-67,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,Action,Fantasy,Supernatural
-68,Blood-C,Action,Horror,Mystery
-69,Dragon Ball Super: Broly,Action,Adventure,Fantasy
-70,Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,Action,Horror,Mystery
-72,Berserk,Action,Adventure,Drama
-73,Kishuku Gakkou no Juliet,Action,Comedy,Romance
-76,Suisei no Gargantia,Action,Adventure,Sci-Fi
-78,Kemono Jihen,Action,Mystery,Supernatural
-79,B: The Beginning,Action,Mystery,Supernatural
-80,Phantom: Requiem for the Phantom,Action,Drama,Suspense
-81,Ore dake Haireru Kakushi Dungeon,Action,Adventure,Fantasy
-82,"Sentouin, Hakenshimasu!",Action,Comedy,Fantasy
-84,Code:Breaker,Action,Comedy,Supernatural
-85,Wolf's Rain,Action,Adventure,Drama
-86,Naruto: Shippuuden Movie 6 - Road to Ninja,Action,Adventure,Fantasy
-87,Ben-To,Action,Comedy,Gourmet
-89,Tales of Zestiria the Cross,Action,Adventure,Fantasy
-90,Seikon no Qwaser,Action,Supernatural,Ecchi
-91,Machine-Doll wa Kizutsukanai,Action,Fantasy,Ecchi
-92,Evangelion: 3.0+1.0 Thrice Upon a Time,Action,Drama,Sci-Fi
-93,Freezing,Action,Drama,Romance
-94,Mahouka Koukou no Rettousei: Raihousha-hen,Action,Romance,Sci-Fi
-95,Witch Craft Works,Action,Fantasy,Supernatural
-96,Genjitsu Shugi Yuusha no Oukoku Saikenki,Action,Fantasy,Romance
-97,Nanbaka,Action,Comedy,Drama
-99,Tsuki ga Michibiku Isekai Douchuu,Action,Adventure,Comedy
-0,Shakugan no Shana II (Second),Action,Drama,Fantasy
-1,Overlord IV,Action,Fantasy,Supernatural
-3,Fate/stay night: Unlimited Blade Works Prologue,Action,Fantasy,Supernatural
-4,Nejimaki Seirei Senki: Tenkyou no Alderamin,Action,Adventure,Fantasy
-6,Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,Action,Horror,Mystery
-8,Gintama': Enchousen,Action,Comedy,Sci-Fi
-10,C: The Money of Soul and Possibility Control,Action,Mystery,Suspense
-11,Taimadou Gakuen 35 Shiken Shoutai,Action,Fantasy,Romance
-12,Fate/stay night Movie: Heaven's Feel - III. Spring Song,Action,Fantasy,Supernatural
-13,Seiken Tsukai no World Break,Action,Fantasy,Romance
-14,Code Geass: Fukkatsu no Lelouch,Action,Drama,Sci-Fi
-16,Arifureta Shokugyou de Sekai Saikyou 2nd Season,Action,Adventure,Fantasy
-19,Kino no Tabi: The Beautiful World,Action,Adventure,SliceofLife
-20,Densetsu no Yuusha no Densetsu,Action,Adventure,Fantasy
-21,Grancrest Senki,Action,Drama,Fantasy
-22,Gintama.,Action,Comedy,Sci-Fi
-23,Isekai Cheat Magician,Action,Adventure,Fantasy
-25,Ajin Part 2,Action,Horror,Mystery
-26,Deca-Dence,Action,Adventure,Sci-Fi
-28,Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito,Action,Adventure,Fantasy
-29,Naruto: Shippuuden Movie 1,Action,Adventure,Fantasy
-30,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,Action,Adventure,Fantasy
-31,Seirei Gensouki,Action,Adventure,Drama
-32,Kämpfer,Action,Comedy,GirlsLove
-37,Taboo Tattoo,Action,Mystery,Supernatural
-38,Masou Gakuen HxH,Action,Comedy,Fantasy
+15,Shinsekai yori,Drama,Horror,Mystery
+16,Hellsing,Action,Horror,Supernatural
+17,Perfect Blue,AvantGarde,Drama,Horror
+18,Satsuriku no Tenshi,Adventure,Horror,Suspense
+19,Sankarea,Comedy,Horror,Romance
+20,Kenpuu Denki Berserk,Action,Adventure,Drama
+21,Shiki,Horror,Mystery,Supernatural
+22,Ajin,Action,Horror,Mystery
+23,Paprika,AvantGarde,Fantasy,Horror
+24,Dorohedoro,Action,Comedy,Fantasy
+25,Gakkougurashi!,Horror,Mystery,SliceofLife
+26,Mieruko-chan,Comedy,Horror,Supernatural
+27,Tasogare Otome x Amnesia,Horror,Mystery,Romance
+28,Blood+,Action,Drama,Horror
+29,Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou,Horror,Mystery,Supernatural
+30,Jigoku Shoujo,Horror,Mystery,Supernatural
+31,Gantz,Action,Drama,Horror
+32,Blood-C,Action,Horror,Mystery
+33,Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,Action,Horror,Mystery
+34,Berserk,Action,Adventure,Drama
+35,Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,Action,Horror,Mystery
+36,Mononoke,Fantasy,Horror,Mystery
+37,Ajin Part 2,Action,Horror,Mystery
+38,Happy Sugar Life,Drama,GirlsLove,Horror
 39,Tenkuu Shinpan,Action,Horror,Mystery
-40,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,Action,Drama,Romance
-41,InuYasha: Kanketsu-hen,Action,Adventure,Comedy
-42,Servamp,Action,Comedy,Drama
-43,Bleach Movie 1: Memories of Nobody,Action,Adventure,Fantasy
-44,Fate/kaleid liner Prisma☆Illya,Action,Comedy,Fantasy
-49,Persona 4 the Animation,Action,Adventure,Mystery
-52,Zero kara Hajimeru Mahou no Sho,Action,Adventure,Fantasy
-54,Darker than Black: Kuro no Keiyakusha Gaiden,Action,Mystery,Sci-Fi
-55,Princess Connect! Re:Dive,Action,Adventure,Comedy
-56,Pokemon Movie 01: Mewtwo no Gyakushuu,Action,Adventure,Comedy
-57,Fate/Grand Order: Zettai Majuu Sensen Babylonia,Action,Fantasy,Supernatural
-58,Naruto: Shippuuden Movie 2 - Kizuna,Action,Adventure,Fantasy
-59,One Piece Film: Z,Action,Adventure,Fantasy
-61,Devils Line,Action,Drama,Romance
-62,Tate no Yuusha no Nariagari Season 3,Action,Adventure,Drama
-63,100-man no Inochi no Ue ni Ore wa Tatteiru,Action,Drama,Fantasy
-64,Psycho-Pass 3,Action,Sci-Fi,Suspense
-65,Kuusen Madoushi Kouhosei no Kyoukan,Action,Drama,Fantasy
-67,"Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",Action,Fantasy,Romance
-69,Medaka Box,Action,Comedy,Ecchi
-70,"Tokyo Ghoul: ""Jack""",Action,Fantasy,Horror
-71,Persona 5 the Animation,Action,Fantasy,Supernatural
-73,Saihate no Paladin,Action,Adventure,Fantasy
-74,Naruto: Shippuuden Movie 4 - The Lost Tower,Action,Adventure,Fantasy
-75,Omamori Himari,Action,Comedy,Fantasy
-76,Ga-Rei: Zero,Action,Supernatural,Suspense
-77,11eyes,Action,Supernatural,Ecchi
-78,Shakugan no Shana III (Final),Action,Drama,Fantasy
-80,Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru,Action,Adventure,Fantasy
-82,Sekirei: Pure Engagement,Action,Comedy,Ecchi
-83,Bungou Stray Dogs: Dead Apple,Action,Comedy,Mystery
-84,Kuroshitsuji: Book of Murder,Action,Comedy,Mystery
-85,Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen),Action,Mystery,Romance
-86,Texhnolyze,Action,Drama,Sci-Fi
-87,Shingeki no Bahamut: Virgin Soul,Action,Adventure,Fantasy
-88,Goblin Slayer: Goblin's Crown,Action,Adventure,Fantasy
-89,Kara no Kyoukai Movie 5: Mujun Rasen,Action,Drama,Mystery
-90,Mob Psycho 100 III,Action,Comedy,Supernatural
-91,Yu☆Gi☆Oh!,Action,Comedy,Fantasy
-92,One Piece Film: Strong World,Action,Adventure,Fantasy
-94,Naruto: Shippuuden Movie 5 - Blood Prison,Action,Adventure,Fantasy
-96,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,Action,Adventure,Fantasy
-97,Kurenai no Buta,Action,Adventure,Comedy
-98,Tsubasa Chronicle,Action,Adventure,Fantasy
-99,Terra Formars,Action,Drama,Horror
-0,Chrno Crusade,Action,Romance,Supernatural
-1,Dance in the Vampire Bund,Action,Drama,Romance
-2,Pokemon: The Origin,Action,Adventure,Comedy
-3,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,Action,Comedy,Sci-Fi
-4,Hayate no Gotoku!,Action,Comedy,Romance
-5,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,Action,Adventure,Fantasy
-6,Tiger & Bunny,Action,Comedy,Mystery
-7,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,Action,Mystery,Sci-Fi
-8,Canaan,Action,Sci-Fi,Supernatural
-10,Kara no Kyoukai Movie 3: Tsuukaku Zanryuu,Action,Drama,Mystery
-11,Ushio to Tora (TV),Action,Adventure,Comedy
-12,Log Horizon: Entaku Houkai,Action,Adventure,Fantasy
-13,Digimon Adventure 02,Action,Adventure,Comedy
-14,Mobile Suit Gundam: Iron-Blooded Orphans,Action,Drama,Sci-Fi
-15,"Maou-sama, Retry!",Action,Adventure,Fantasy
-16,Fate/stay night Movie: Unlimited Blade Works,Action,Fantasy,Supernatural
-17,Kantai Collection: KanColle,Action,Sci-Fi,SliceofLife
-18,Mobile Suit Gundam 00,Action,Drama,Sci-Fi
-20,Karneval (TV),Action,Fantasy,Mystery
-21,Berserk: Ougon Jidai-hen I - Haou no Tamago,Action,Adventure,Fantasy
-22,Shuumatsu no Walküre,Action,Drama,Fantasy
-23,Seirei no Moribito,Action,Adventure,Fantasy
-27,Chrome Shelled Regios,Action,Adventure,Fantasy
-29,Kara no Kyoukai Movie 4: Garan no Dou,Action,Mystery,Supernatural
-31,Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara,Action,Comedy,Fantasy
-32,Fairy Tail Movie 1: Houou no Miko,Action,Adventure,Fantasy
-33,Berserk: Ougon Jidai-hen III - Kourin,Action,Adventure,Drama
-35,Sabikui Bisco,Action,Adventure,Fantasy
-37,Yu☆Gi☆Oh!: Duel Monsters GX,Action,Comedy,Fantasy
-38,Mo Dao Zu Shi,Action,Adventure,Fantasy
-41,Rewrite,Action,Comedy,Romance
-42,Dragon Ball Z Movie 14: Kami to Kami,Action,Adventure,Fantasy
-43,Arcana Famiglia,Action,Fantasy,Romance
-44,"Yuusha, Yamemasu",Action,Adventure,Comedy
-45,"Tokyo Ghoul: ""Pinto""",Action,Fantasy,Horror
-46,Soul Eater NOT!,Action,Comedy,Supernatural
-48,Tensei shitara Slime Datta Ken OVA,Action,Adventure,Comedy
-49,Rozen Maiden,Action,Comedy,Drama
+40,Higurashi no Naku Koro ni Gou,Horror,Mystery,Supernatural
+41,"Tokyo Ghoul: ""Jack""",Action,Fantasy,Horror
+42,Ousama Game The Animation,Drama,Horror,Mystery
+43,Ghost Hunt,Horror,Mystery,Supernatural
+44,Terra Formars,Action,Drama,Horror
+45,Mahou Shoujo Site,Drama,Horror,Supernatural
+46,Boogiepop wa Warawanai (2019),AvantGarde,Drama,Horror
+47,Mayoiga,Drama,Horror,Mystery
+48,Umineko no Naku Koro ni,Horror,Mystery,Supernatural
+49,Berserk: Ougon Jidai-hen III - Kourin,Action,Adventure,Drama
+50,"Tokyo Ghoul: ""Pinto""",Action,Fantasy,Horror
+51,Berserk: Ougon Jidai-hen II - Doldrey Kouryaku,Action,Adventure,Drama
+52,"Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",Drama,Horror,Supernatural
+53,Another: The Other - Inga,Horror,Mystery,Suspense
+55,Gakkou no Kaidan,Horror,Mystery,Supernatural
+56,Mnemosyne: Mnemosyne no Musume-tachi,Action,GirlsLove,Horror
+57,Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen,Action,Horror,Mystery
+58,Vampire Hunter D (2000),Action,Drama,Fantasy
+59,Berserk 2nd Season,Action,Adventure,Drama
+60,Shingetsutan Tsukihime,Action,Horror,Mystery
+61,Gantz 2nd Stage,Action,Drama,Horror
+62,Jigoku Shoujo Futakomori,Horror,Mystery,Supernatural
+63,Itou Junji: Collection,Drama,Horror,Mystery
+64,Zombie-Loan,Action,Horror,Supernatural
+66,Deadman Wonderland: Akai Knife Tsukai,Action,Horror,Sci-Fi
+67,Zetman,Action,Drama,Horror
+68,Shinrei Tantei Yakumo,Horror,Mystery,Supernatural
+69,Juubee Ninpuuchou,Adventure,Fantasy,Horror
+70,Boogiepop wa Warawanai,AvantGarde,Drama,Horror
+71,Shikabane Hime: Aka,Action,Horror,Supernatural
+72,Koutetsujou no Kabaneri Movie 3: Unato Kessen,Action,Drama,Fantasy
+73,JoJo no Kimyou na Bouken,Adventure,Drama,Fantasy
+74,Memories,Drama,Horror,Sci-Fi
+75,Sankarea OVA,Comedy,Horror,Romance
+77,Yami Shibai,AvantGarde,Horror,Supernatural
+78,Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaimono,Action,Horror,Mystery
+79,Higurashi no Naku Koro ni Sotsu,AvantGarde,Horror,Mystery
+80,Blood-C: The Last Dark,Action,Horror,Supernatural
+81,Kurozuka,Action,Drama,Horror
+82,Gantz:O,Action,Drama,Horror
+83,Hellsing: The Dawn,Action,Horror,Supernatural
+84,Terra Formars: Revenge,Action,Drama,Horror
+85,Tokyo Majin Gakuen Kenpucho: Tou,Action,Drama,Fantasy
+86,Uzumaki,AvantGarde,Drama,Horror
+87,Sankarea: Wagahai mo... Zombie de Aru...,Comedy,Horror,Romance
+88,Vampire Hunter D,Action,Horror,Sci-Fi
+89,Kaibutsu Oujo,Action,Comedy,Horror
+90,Blue Gender,Adventure,Drama,Horror
+91,Tasogare Otome x Amnesia: Taima Otome,Horror,Mystery,Romance
+92,JoJo no Kimyou na Bouken: Adventure,Adventure,Drama,Fantasy
+93,Shikabane Hime: Kuro,Action,Horror,Supernatural
+94,Ookamikakushi,Action,Horror,Mystery
+95,Kemonozume,Action,Horror,Romance
+96,Ayakashi: Japanese Classic Horror,Fantasy,Horror,Mystery
+97,Shiki Specials,Horror,Mystery,Supernatural
+98,Cossette no Shouzou,Drama,Horror,Romance
+99,Higurashi no Naku Koro ni Kaku: Outbreak,Horror,Mystery,Suspense
+1,Gibiate,Action,Fantasy,Horror
+2,JoJo no Kimyou na Bouken: Phantom Blood,Action,Adventure,Horror
+3,Petshop of Horrors,Horror,Mystery,Supernatural
+4,Ayashi no Ceres,Adventure,Drama,Horror
+6,Jigoku Shoujo: Yoi no Togi,Horror,Mystery,Supernatural
+8,Yami no Matsuei,BoysLove,Comedy,Drama
+9,Gegege no Kitarou (2018),Comedy,Horror,Supernatural
+10,Youjuu Toshi,Action,Adventure,Drama
+11,Yami Shibai 2,AvantGarde,Horror,Supernatural
+12,Dorohedoro: Ma no Omake,Action,Comedy,Fantasy
+13,Koutetsujou no Kabaneri Movie 1: Tsudou Hikari,Action,Drama,Fantasy
+14,Tokkou,Action,Comedy,Horror
+15,Koutetsujou no Kabaneri Movie 2: Moeru Inochi,Action,Drama,Fantasy
+16,Ajin OVA,Action,Horror,Mystery
+17,Ajin Part 1: Shoudou,Action,Horror,Mystery
+18,Hellsing: Digest for Freaks,Action,Horror,Supernatural
+19,Juubee Ninpuuchou: Ryuuhougyoku-hen,Adventure,Horror,Supernatural
+20,Sankaku Mado no Sotogawa wa Yoru,BoysLove,Drama,Horror
+21,Kyuuketsuhime Miyu (TV),Action,Drama,Horror
+23,Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku,Action,Drama,Fantasy
+24,X/1999,Action,Drama,Fantasy
+25,Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari,Fantasy,Horror,Mystery
+26,Terra Formars: Bugs 2-hen,Action,Horror,Sci-Fi
+27,Yami Shibai 3,AvantGarde,Horror,Supernatural
+29,Biohazard: Degeneration,Action,Horror,Sci-Fi
+31,Genocyber,Action,Horror,Sci-Fi
+32,Kagewani,Horror,Mystery,Supernatural
+33,Tomie,Drama,Horror,Supernatural
+34,Supernatural The Animation,Action,Horror,Supernatural
+35,Manie-Manie: Meikyuu Monogatari,Adventure,Fantasy,Horror
+36,Devilman,Action,Horror,Supernatural
+37,Ayakashi,Action,Fantasy,Horror
+38,Zombie-Loan Specials,Action,Horror,Supernatural
+39,Hells,Adventure,Comedy,Horror
+40,Blue Seed,Action,Adventure,Comedy
+41,Devilman: Tanjou-hen,Horror,Sci-Fi,Supernatural
+42,Yami Shibai 4,AvantGarde,Horror,Supernatural
+43,Blade,Action,Drama,Horror
+44,3x3 Eyes,Action,Fantasy,Horror
+45,Ajin Part 2: Shoutotsu,Action,Horror,Mystery
+46,Takahashi Rumiko Gekijou Ningyo no Mori,Drama,Fantasy,Horror
+48,Yami Shibai 5,AvantGarde,Horror,Supernatural
+49,Ajin Part 3: Shougeki,Action,Horror,Mystery
+50,Biohazard: Damnation,Action,Horror,Sci-Fi
+51,Devilman Lady,Action,Drama,Horror
+53,Enzai,BoysLove,Drama,Horror
+54,Devilman: Yochou Sirene-hen,Horror,Sci-Fi,Supernatural
+56,Makai Toshi Shinjuku,Adventure,Horror,Romance
+58,Kyuuketsuhime Miyu,Action,Drama,Horror
+59,Biohazard: Vendetta,Action,Horror,Sci-Fi
+60,Kikoushi Enma,Fantasy,Horror,Supernatural
+62,Yami Shibai 6,AvantGarde,Horror,Supernatural
+63,Night Walker: Mayonaka no Tantei,Action,Horror,Mystery
+64,Jigoku Sensei Nube,Adventure,Comedy,Horror
+65,Yami Shibai 7,AvantGarde,Horror,Supernatural
+66,Kagewani: Shou,Horror,Mystery,Supernatural
+67,Boukyaku no Senritsu,Adventure,Fantasy,Horror
+68,Blood-C: Special Edition,Action,Horror,Supernatural
+69,Highlander: The Search for Vengeance,Action,Horror,Sci-Fi
+72,AD Police,Adventure,Horror,Mystery
+74,Arc the Lad,Action,Adventure,Fantasy
+75,Kaidan Restaurant,Horror,Mystery,Supernatural
+76,Berserk: Majo no Tsuisou,Action,Adventure,Drama
+77,"Shikabane Hime: Kuro – Soredemo, Hito to Shite",Action,Adventure,Drama
+78,Ajin Part 2 OVA,Action,Horror,Mystery
+79,Betterman,Action,Adventure,Drama
+80,3x3 Eyes: Seima Densetsu,Action,Adventure,Fantasy
+81,Change!! Getter Robo: Sekai Saigo no Hi,Action,Adventure,Horror
+82,Gakkou no Kaidan: Kubinashi Rider!! Shi no Noroi,Horror,Mystery,Supernatural
+83,Silent Möbius,Action,Comedy,Drama
+84,Interlude,Adventure,Horror,Mystery
+85,Ane Naru Mono,Horror,Romance,Supernatural
+86,Ushio to Tora,Action,Comedy,Horror
+87,Berserk Recap,Action,Adventure,Drama
+88,Yami Shibai 8,AvantGarde,Horror,Supernatural
+89,Kishin Douji Zenki,Action,Comedy,Drama
+90,Aru Zombie Shoujo no Sainan (ONA),Action,Horror,Supernatural
+93,Biohazard: Infinite Darkness,Action,Horror,Sci-Fi
+94,Kyoushoku Soukou Guyver (1989),Action,Horror,Sci-Fi
+95,Kaibutsu Oujo (OVA),Action,Comedy,Horror
+96,Litchi DE Hikari Club,Comedy,Drama,Horror
+97,Violence Jack: Harlem Bomber-hen,Action,Drama,Horror
+98,Himekishi Lilia,Fantasy,Horror,Supernatural
+99,Mamono Hunter Youko,Comedy,Fantasy,Horror
+0,Sword Art Online,Action,Adventure,Fantasy
+3,Sword Art Online II,Action,Adventure,Fantasy
+4,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,Comedy,Drama,Romance
+5,Darling in the FranXX,Action,Drama,Romance
+6,Hataraku Maou-sama!,Comedy,Fantasy,Romance
+7,Elfen Lied,Action,Drama,Horror
+8,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,Action,Adventure,Comedy
+9,Clannad,Drama,Romance,Supernatural
+10,Bakemonogatari,Mystery,Romance,Supernatural
+11,High School DxD,Comedy,Romance,Ecchi
+14,Howl no Ugoku Shiro,Adventure,Drama,Fantasy
+17,Clannad: After Story,Drama,Romance,Supernatural
+22,Mahouka Koukou no Rettousei,Action,Romance,Sci-Fi
+24,Date A Live,Comedy,Romance,Sci-Fi
+25,ReLIFE,Drama,Romance,SliceofLife
+26,Golden Time,Comedy,Drama,Romance
+27,Prison School,Comedy,Romance,Ecchi
+28,Fate/stay night,Action,Fantasy,Romance
+29,Byousoku 5 Centimeter,Drama,Romance,SliceofLife
+31,Plastic Memories,Drama,Romance,Sci-Fi
+32,Rakudai Kishi no Cavalry,Action,Fantasy,Romance
+34,High School DxD New,Action,Comedy,Romance
+36,Tenki no Ko,Drama,Fantasy,Romance
+37,Ao Haru Ride,Drama,Romance,SliceofLife
+38,Kimi ni Todoke,Drama,Romance,SliceofLife
+40,Kimi no Suizou wo Tabetai,Drama,Romance,SliceofLife
+41,No Game No Life: Zero,Drama,Fantasy,Romance
+42,Kokoro Connect,Drama,Romance,Supernatural
+43,Kotonoha no Niwa,Drama,Romance,SliceofLife
+44,Trinity Seven,Action,Comedy,Fantasy
+45,Akatsuki no Yona,Action,Adventure,Comedy
+46,Zero no Tsukaima,Action,Adventure,Comedy
+48,Boku wa Tomodachi ga Sukunai,Comedy,Romance,Ecchi
+49,Ookami to Koushinryou,Adventure,Fantasy,Romance
+50,Hotarubi no Mori e,Drama,Romance,Supernatural
+52,Orange,Drama,Romance,Sci-Fi
+53,Toki wo Kakeru Shoujo,Drama,Romance,Sci-Fi
+54,High School DxD BorN,Action,Comedy,Romance
+55,InuYasha,Action,Adventure,Comedy
+56,Yamada-kun to 7-nin no Majo,Comedy,Mystery,Romance
+57,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,Action,Adventure,Comedy
+58,Fruits Basket 1st Season,Drama,Fantasy,Romance
+59,Monster Musume no Iru Nichijou,Comedy,Fantasy,Romance
+61,Kiznaiver,Drama,Romance,Sci-Fi
+62,Accel World,Action,Romance,Sci-Fi
+63,NHK ni Youkoso!,Comedy,Drama,Romance
+64,Eromanga-sensei,Comedy,Drama,Romance
+68,Rosario to Vampire,Comedy,Fantasy,Romance
+70,Monogatari Series: Second Season,Comedy,Mystery,Romance
+73,Shinmai Maou no Testament,Action,Fantasy,Romance
+76,Gakusen Toshi Asterisk,Action,Comedy,Fantasy
+77,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,Drama,Romance,Supernatural
+78,Akagami no Shirayuki-hime,Drama,Fantasy,Romance
+81,Saenai Heroine no Sodatekata,Comedy,Romance,Ecchi
+83,To LOVE-Ru,Comedy,Romance,Sci-Fi
+85,Kami nomi zo Shiru Sekai,Comedy,Romance,Supernatural
+86,Kamisama Hajimemashita,Comedy,Fantasy,Romance
+87,Date A Live II,Comedy,Romance,Sci-Fi
+88,Bakuman.,Comedy,Drama,Romance
+89,Vampire Knight,Drama,Mystery,Romance
+90,Nana,Drama,Romance,SliceofLife
+91,Sankarea,Comedy,Horror,Romance
+92,Nagi no Asu kara,Drama,Fantasy,Romance
+94,Kiss x Sis (TV),Comedy,Romance,Ecchi
+96,Higashi no Eden,Mystery,Romance,Sci-Fi
+97,The Last: Naruto the Movie,Action,Adventure,Fantasy
+98,Katanagatari,Action,Adventure,Romance
+99,Nekomonogatari: Kuro,Comedy,Romance,Supernatural
+1,Absolute Duo,Action,Romance,Supernatural
+2,Shakugan no Shana,Action,Drama,Fantasy
+4,Fruits Basket,Drama,Fantasy,Romance
+5,Gosick,Drama,Mystery,Romance
+7,Kenja no Mago,Action,Comedy,Fantasy
+8,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III,Action,Adventure,Comedy
+10,Given,BoysLove,Drama,Romance
+11,Netoge no Yome wa Onnanoko ja Nai to Omotta?,Comedy,Romance,Ecchi
+12,Isekai wa Smartphone to Tomo ni.,Adventure,Comedy,Fantasy
+13,Inu x Boku SS,Comedy,Romance,Supernatural
+14,Hajimete no Gal,Comedy,Romance,Ecchi
+15,Zero no Tsukaima: Futatsuki no Kishi,Action,Adventure,Comedy
+16,Sousei no Onmyouji,Action,Fantasy,Romance
+17,Citrus,Drama,GirlsLove,Romance
+18,Mayo Chiki!,Comedy,Romance,Ecchi
+19,Rurouni Kenshin: Meiji Kenkaku Romantan,Action,Adventure,Comedy
+20,Ookami to Koushinryou II,Adventure,Fantasy,Romance
+21,"Yosuga no Sora: In Solitude, Where We Are Least Alone.",Drama,Romance,Ecchi
+22,Chobits,Comedy,Drama,Romance
+23,Tokyo Ravens,Action,Comedy,Romance
+24,Sora no Otoshimono,Comedy,Romance,Sci-Fi
+26,High School DxD Hero,Action,Comedy,Romance
+27,Maoyuu Maou Yuusha,Adventure,Fantasy,Romance
+29,Tenkuu no Shiro Laputa,Adventure,Fantasy,Romance
+30,Kaze no Stigma,Action,Romance,Supernatural
+31,Hentai Ouji to Warawanai Neko.,Comedy,Romance,Supernatural
+32,Zero no Tsukaima: Princesses no Rondo,Action,Adventure,Comedy
+34,Fruits Basket 2nd Season,Drama,Romance,Supernatural
+35,Koukyoushihen Eureka Seven,Adventure,Drama,Romance
+36,Kimi ni Todoke 2nd Season,Drama,Romance,SliceofLife
+39,Yojouhan Shinwa Taikei,Comedy,Mystery,Romance
+40,Cardcaptor Sakura,Adventure,Comedy,Drama
+42,Gakusen Toshi Asterisk 2nd Season,Comedy,Fantasy,Romance
+43,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",Action,Drama,Fantasy
+44,Rosario to Vampire Capu2,Comedy,Fantasy,Romance
+45,Zero no Tsukaima F,Adventure,Fantasy,Romance
+46,"Dakara Boku wa, H ga Dekinai.",Comedy,Romance,Supernatural
+48,Kyokou Suiri,Mystery,Romance,Supernatural
+50,Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...,Comedy,Drama,Fantasy
+54,Tasogare Otome x Amnesia,Horror,Mystery,Romance
+55,Fruits Basket: The Final,Drama,Romance,Supernatural
+56,Kami nomi zo Shiru Sekai II,Comedy,Romance,Supernatural
+57,B-gata H-kei,Comedy,Romance,Ecchi
+59,Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou,Comedy,Fantasy,Romance
+60,Ano Natsu de Matteru,Drama,Romance,Sci-Fi
+61,Shinmai Maou no Testament Burst,Action,Fantasy,Romance
+62,Saijaku Muhai no Bahamut,Action,Fantasy,Romance
+63,Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,Drama,Fantasy,Romance
+64,Hitsugi no Chaika,Action,Adventure,Comedy
+65,Hidan no Aria,Action,Comedy,Romance
+67,Nakitai Watashi wa Neko wo Kaburu,Comedy,Drama,Romance
+70,Kamisama Hajimemashita◎,Comedy,Fantasy,Romance
+71,Vampire Knight: Guilty,Drama,Mystery,Romance
+74,To LOVE-Ru Darkness,Comedy,Romance,Sci-Fi
+76,Date A Live III,Comedy,Romance,Sci-Fi
+78,Hundred,Action,Romance,Sci-Fi
+79,Seireitsukai no Blade Dance,Action,Comedy,Fantasy
+80,Hataraku Maou-sama!!,Comedy,Fantasy,Romance
+81,Renai Boukun,Comedy,Romance,Supernatural
+83,Bakuman. 2nd Season,Comedy,Drama,Romance
+84,Saenai Heroine no Sodatekata ♭,Comedy,Romance,Ecchi
+86,Akagami no Shirayuki-hime 2nd Season,Drama,Fantasy,Romance
+87,Madan no Ou to Vanadis,Adventure,Fantasy,Romance
+88,Kishuku Gakkou no Juliet,Action,Comedy,Romance
+89,Kami nomi zo Shiru Sekai: Megami-hen,Comedy,Romance,Supernatural
+90,Kotoura-san,Comedy,Drama,Romance
+91,Josee to Tora to Sakana-tachi,Drama,Romance,SliceofLife
+92,"Tantei wa Mou, Shindeiru.",Comedy,Drama,Mystery
+94,Bakuman. 3rd Season,Comedy,Drama,Romance
+95,Mimi wo Sumaseba,Drama,Romance,SliceofLife
+97,Kiss x Sis,Comedy,Romance,Ecchi
+98,Freezing,Action,Drama,Romance
+99,Mahouka Koukou no Rettousei: Raihousha-hen,Action,Romance,Sci-Fi
+0,Steins;Gate,Drama,Sci-Fi,Suspense
+1,Code Geass: Hangyaku no Lelouch,Action,Drama,Sci-Fi
+2,Yakusoku no Neverland,Mystery,Sci-Fi,Suspense
+3,Kiseijuu: Sei no Kakuritsu,Action,Horror,Sci-Fi
+5,Code Geass: Hangyaku no Lelouch R2,Action,Drama,Sci-Fi
+6,Neon Genesis Evangelion,Action,AvantGarde,Drama
+7,Psycho-Pass,Action,Sci-Fi,Suspense
+8,Dr. Stone,Adventure,Comedy,Sci-Fi
+9,Tengen Toppa Gurren Lagann,Action,Adventure,Comedy
+10,Darling in the FranXX,Action,Drama,Romance
+11,Made in Abyss,Adventure,Drama,Fantasy
+12,Deadman Wonderland,Action,Horror,Sci-Fi
+13,Guilty Crown,Action,Drama,Sci-Fi
+14,Mahouka Koukou no Rettousei,Action,Romance,Sci-Fi
+15,Gintama,Action,Comedy,Sci-Fi
+16,Date A Live,Comedy,Romance,Sci-Fi
+17,Darker than Black: Kuro no Keiyakusha,Action,Mystery,Sci-Fi
+18,Suzumiya Haruhi no Yuuutsu,Comedy,Mystery,Sci-Fi
+19,Black Bullet,Action,Mystery,Sci-Fi
+20,Dr. Stone: Stone Wars,Adventure,Comedy,Sci-Fi
+21,Plastic Memories,Drama,Romance,Sci-Fi
+23,Neon Genesis Evangelion: The End of Evangelion,AvantGarde,Drama,Sci-Fi
+25,The God of High School,Action,Fantasy,Sci-Fi
+26,Steins;Gate 0,Drama,Sci-Fi,Suspense
+28,Akira,Action,Adventure,Horror
+29,FLCL,Action,AvantGarde,Comedy
+30,Orange,Drama,Romance,Sci-Fi
+31,Toki wo Kakeru Shoujo,Drama,Romance,Sci-Fi
+32,Shinsekai yori,Drama,Horror,Mystery
+33,Kiznaiver,Drama,Romance,Sci-Fi
+34,Accel World,Action,Romance,Sci-Fi
+35,Trigun,Action,Adventure,Comedy
+36,Serial Experiments Lain,AvantGarde,Drama,Mystery
+37,Gakusen Toshi Asterisk,Action,Comedy,Fantasy
+38,Psycho-Pass 2,Action,Sci-Fi,Suspense
+39,IS: Infinite Stratos,Action,Comedy,Sci-Fi
+40,To LOVE-Ru,Comedy,Romance,Sci-Fi
+42,Date A Live II,Comedy,Romance,Sci-Fi
+43,Dragon Ball GT,Action,Adventure,Comedy
+44,Inuyashiki,Action,Drama,Sci-Fi
+45,Suzumiya Haruhi no Shoushitsu,Mystery,Sci-Fi,Supernatural
+47,86,Action,Drama,Sci-Fi
+49,Gintama°,Action,Comedy,Sci-Fi
+51,Higashi no Eden,Mystery,Romance,Sci-Fi
+52,God Eater,Action,Fantasy,Sci-Fi
+53,Evangelion: 1.0 You Are (Not) Alone,Action,Drama,Sci-Fi
+54,Suzumiya Haruhi no Yuuutsu (2009),Comedy,Mystery,Sci-Fi
+57,Gintama',Action,Comedy,Sci-Fi
+58,Evangelion: 2.0 You Can (Not) Advance,Action,Drama,Sci-Fi
+59,Darwin's Game,Action,Mystery,Sci-Fi
+60,Paprika,AvantGarde,Fantasy,Horror
+62,Full Metal Panic!,Action,Comedy,Sci-Fi
+63,Chobits,Comedy,Drama,Romance
+64,Sora no Otoshimono,Comedy,Romance,Sci-Fi
+65,Re:Creators,Action,Fantasy,Sci-Fi
+66,Vivy: Fluorite Eye's Song,Action,Sci-Fi,Suspense
+67,Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,Action,Adventure,Comedy
+68,Tenkuu no Shiro Laputa,Adventure,Fantasy,Romance
+70,Mekakucity Actors,Comedy,Sci-Fi,Supernatural
+71,Koukyoushihen Eureka Seven,Adventure,Drama,Romance
+73,No.6,Action,Drama,Mystery
+74,Gakusen Toshi Asterisk 2nd Season,Comedy,Fantasy,Romance
+75,Darker than Black: Ryuusei no Gemini,Action,Mystery,Sci-Fi
+76,Evangelion: 3.0 You Can (Not) Redo,Action,Drama,Sci-Fi
+77,World Trigger,Action,Sci-Fi,Supernatural
+79,IS: Infinite Stratos 2,Action,Comedy,Sci-Fi
+80,Ano Natsu de Matteru,Drama,Romance,Sci-Fi
+83,Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,Drama,Fantasy,Romance
+84,Made in Abyss Movie 3: Fukaki Tamashii no Reimei,Adventure,Drama,Fantasy
+85,To LOVE-Ru Darkness,Comedy,Romance,Sci-Fi
+86,Date A Live III,Comedy,Romance,Sci-Fi
+88,Hundred,Action,Romance,Sci-Fi
+89,86 Part 2,Action,Drama,Sci-Fi
+92,Gantz,Action,Drama,Horror
+94,Suisei no Gargantia,Action,Adventure,Sci-Fi
+95,Gokukoku no Brynhildr,Drama,Mystery,Sci-Fi
+98,Motto To LOVE-Ru,Comedy,Sci-Fi,Ecchi
+99,Wolf's Rain,Action,Adventure,Drama
+0,Evangelion: 3.0+1.0 Thrice Upon a Time,Action,Drama,Sci-Fi
+1,Freezing,Action,Drama,Romance
+2,Mahouka Koukou no Rettousei: Raihousha-hen,Action,Romance,Sci-Fi
+4,Shoujo Shuumatsu Ryokou,Adventure,Mystery,Sci-Fi
+6,Gintama': Enchousen,Action,Comedy,Sci-Fi
+7,Denpa Onna to Seishun Otoko,Comedy,Sci-Fi,SliceofLife
+9,Code Geass: Fukkatsu no Lelouch,Action,Drama,Sci-Fi
+11,ChäoS;HEAd,Mystery,Sci-Fi,Supernatural
+12,Gintama.,Action,Comedy,Sci-Fi
+13,Sora no Otoshimono: Forte,Comedy,Romance,Sci-Fi
+14,Deca-Dence,Action,Adventure,Sci-Fi
+16,Kanata no Astra,Adventure,Mystery,Sci-Fi
+18,Masou Gakuen HxH,Action,Comedy,Fantasy
+19,Black Cat (TV),Adventure,Comedy,Sci-Fi
+21,Persona 4 the Animation,Action,Adventure,Mystery
+23,Darker than Black: Kuro no Keiyakusha Gaiden,Action,Mystery,Sci-Fi
+24,Made in Abyss: Retsujitsu no Ougonkyou,Adventure,Drama,Fantasy
+25,Psycho-Pass 3,Action,Sci-Fi,Suspense
+26,To LOVE-Ru Darkness 2nd,Comedy,Romance,Sci-Fi
+29,Gankutsuou,Drama,Mystery,Sci-Fi
+30,Planetes,Drama,Romance,Sci-Fi
+32,Texhnolyze,Action,Drama,Sci-Fi
+33,Punch Line,Comedy,Sci-Fi,Supernatural
+35,Terra Formars,Action,Drama,Horror
+36,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,Action,Comedy,Sci-Fi
+37,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,Action,Mystery,Sci-Fi
+38,Canaan,Action,Sci-Fi,Supernatural
+39,Mobile Suit Gundam: Iron-Blooded Orphans,Action,Drama,Sci-Fi
+40,Kantai Collection: KanColle,Action,Sci-Fi,SliceofLife
+41,Mobile Suit Gundam 00,Action,Drama,Sci-Fi
+42,Karneval (TV),Action,Fantasy,Mystery
+43,Hello World,Drama,Romance,Sci-Fi
+44,"Kumo no Mukou, Yakusoku no Basho",Drama,Romance,Sci-Fi
+46,Chrome Shelled Regios,Action,Adventure,Fantasy
+47,Edens Zero,Adventure,Comedy,Fantasy
+49,Sabikui Bisco,Action,Adventure,Fantasy
+52,Date A Live IV,Comedy,Romance,Sci-Fi
+53,Asobi ni Iku yo!,Comedy,Romance,Sci-Fi
+55,Date A Live: Date to Date,Comedy,Romance,Sci-Fi
+58,UQ Holder!: Mahou Sensei Negima! 2,Action,Fantasy,Sci-Fi
+59,Gintama.: Shirogane no Tamashii-hen,Action,Comedy,Sci-Fi
+60,Gunslinger Girl,Action,Drama,Sci-Fi
+61,Uchuu Kyoudai,Comedy,Sci-Fi,SliceofLife
+62,Flip Flappers,Adventure,Comedy,Sci-Fi
+63,Gintama.: Porori-hen,Action,Comedy,Sci-Fi
+66,No Guns Life,Action,Drama,Sci-Fi
+67,Gungrave,Action,Drama,Sci-Fi
+68,Nomad: Megalo Box 2,Drama,Sci-Fi,Sports
+69,.hack//Sign,Adventure,Fantasy,Mystery
+71,Saint Seiya,Adventure,Fantasy,Sci-Fi
+72,Mnemosyne: Mnemosyne no Musume-tachi,Action,GirlsLove,Horror
+73,Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo,Action,Sci-Fi,Supernatural
+76,Kyoukaisenjou no Horizon,Action,Fantasy,Sci-Fi
+77,Robotics;Notes,Drama,Mystery,Sci-Fi
+78,Killing Bites,Action,Sci-Fi,Ecchi
+79,Gintama.: Shirogane no Tamashii-hen - Kouhan-sen,Action,Comedy,Sci-Fi
+80,Onegai☆Teacher,Drama,Romance,Sci-Fi
+81,To LOVE-Ru OVA,Comedy,Sci-Fi,Ecchi
+82,Last Exile,Action,Adventure,Sci-Fi
+83,Tokyo ESP,Action,Comedy,Sci-Fi
+84,Higashi no Eden Movie I: The King of Eden,Mystery,Romance,Sci-Fi
+85,Beatless,Action,Drama,Romance
+86,Strike Witches,Action,Sci-Fi,Ecchi
+87,Vampire Hunter D (2000),Action,Drama,Fantasy
+88,Tsuritama,Comedy,Sci-Fi,SliceofLife
+89,Divine Gate,Action,Fantasy,Sci-Fi
+92,Utawarerumono,Action,Drama,Fantasy
+93,Mobile Suit Gundam SEED,Action,Drama,Romance
+94,Freezing Vibration,Action,Drama,Romance
+96,Gantz 2nd Stage,Action,Drama,Horror
+97,Casshern Sins,Action,Adventure,Drama
+99,Aria the Animation,Fantasy,Sci-Fi,SliceofLife
+13,Chihayafuru,Drama,SliceofLife,Sports
+17,Ballroom e Youkoso,Comedy,Drama,Romance
+26,Chihayafuru 2,Drama,SliceofLife,Sports
+27,Yowamushi Pedal,Comedy,Drama,Sports
+32,Nomad: Megalo Box 2,Drama,Sci-Fi,Sports
+42,Walkure Romanze,Romance,Sports,Ecchi
+46,Chihayafuru 3,Drama,SliceofLife,Sports
+50,Cross Game,Drama,Romance,Sports
+53,Suzuka,Drama,Romance,Sports
+56,Bakuten Shoot Beyblade,Action,Adventure,Comedy
+58,2.43: Seiin Koukou Danshi Volley-bu,Drama,SliceofLife,Sports
+65,Major S1,Comedy,Drama,Sports
+76,Metal Fight Beyblade,Adventure,Comedy,Sports
+78,Ashita no Joe,Action,Drama,SliceofLife
+79,Ro-Kyu-Bu!,Comedy,Sports,Ecchi
+90,Major S2,Comedy,Drama,Sports
+92,Major S5,Comedy,Drama,Romance
+95,Mobile Fighter G Gundam,Adventure,Comedy,Drama
+96,Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky,Action,Comedy,Sports
+98,Bakuten Shoot Beyblade 2002,Action,Adventure,Comedy
+1,Major S4,Comedy,Drama,Sports
+3,Major S6,Comedy,Drama,Sports
+6,Kidou Tenshi Angelic Layer,Comedy,Drama,Sci-Fi
+7,Houkago Teibou Nisshi,Comedy,SliceofLife,Sports
+12,Sekai de Ichiban Tsuyoku Naritai!,Action,Sports,Ecchi
+16,Battery,Drama,SliceofLife,Sports
+21,Ginban Kaleidoscope,Drama,Romance,Sports
+23,Metal Fight Beyblade: Baku,Adventure,Comedy,Sports
+26,Bakuten Shoot Beyblade G Revolution,Action,Adventure,Comedy
+32,Ashita no Joe 2,Action,Drama,SliceofLife
+39,One Piece: Yume no Soccer Ou!,Comedy,Fantasy,Sports
+42,Detective Conan Movie 16: The Eleventh Striker,Adventure,Comedy,Mystery
+44,Kenkou Zenrakei Suieibu Umishou,Comedy,Sports,Ecchi
+45,Skate-Leading☆Stars,Comedy,Drama,Sports
+46,Tribe Nine,Action,Sci-Fi,Sports
+47,Ro-Kyu-Bu! SS,Comedy,Sports,Ecchi
+54,Rifle Is Beautiful,Comedy,SliceofLife,Sports
+55,Major: World Series,Comedy,Drama,Sports
+59,One Piece: Mezase! Kaizoku Yakyuu Ou,Comedy,Fantasy,Sports
+60,Touch,Drama,Romance,SliceofLife
+64,Major 2nd,Comedy,Drama,Sports
+70,Major: Message,Comedy,Drama,Sports
+75,Zoids Shinseiki/Zero,Adventure,Comedy,Sci-Fi
+76,Beyblade Burst,Action,Adventure,Sci-Fi
+83,Softenni,Comedy,Sports,Ecchi
+84,Hungry Heart: Wild Striker,Comedy,SliceofLife,Sports
+91,Hantsu x Trash,Comedy,Romance,Sports
+93,Mix: Meisei Story,Drama,Romance,Sports
+95,Tiger Mask W,Action,Drama,Sports
+0,Violet Evergarden,Drama,Fantasy,SliceofLife
+1,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,Drama,SliceofLife,Supernatural
+4,Kyoukai no Kanata,Fantasy,SliceofLife,Supernatural
+5,ReLIFE,Drama,Romance,SliceofLife
+6,Byousoku 5 Centimeter,Drama,Romance,SliceofLife
+7,Suzumiya Haruhi no Yuuutsu,Comedy,Mystery,Sci-Fi
+8,Tenki no Ko,Drama,Fantasy,Romance
+9,Ao Haru Ride,Drama,Romance,SliceofLife
+10,Kimi ni Todoke,Drama,Romance,SliceofLife
+12,Kimi no Suizou wo Tabetai,Drama,Romance,SliceofLife
+13,Kotonoha no Niwa,Drama,Romance,SliceofLife
+14,Mushishi,Adventure,Fantasy,Mystery
+20,Nana,Drama,Romance,SliceofLife
+21,Suzumiya Haruhi no Yuuutsu (2009),Comedy,Mystery,Sci-Fi
+22,Natsume Yuujinchou,Drama,SliceofLife,Supernatural
+23,Given,BoysLove,Drama,Romance
+24,Violet Evergarden Movie,Drama,Fantasy,SliceofLife
+28,Chihayafuru,Drama,SliceofLife,Sports
+31,Kimi ni Todoke 2nd Season,Drama,Romance,SliceofLife
+32,Gakkougurashi!,Horror,Mystery,SliceofLife
+39,Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou,Drama,Fantasy,SliceofLife
+43,Josee to Tora to Sakana-tachi,Drama,Romance,SliceofLife
+44,Beck,Comedy,Drama,SliceofLife
+45,Mimi wo Sumaseba,Drama,Romance,SliceofLife
+46,"Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",Comedy,Fantasy,SliceofLife
+49,Acchi Kocchi,Comedy,Romance,SliceofLife
+50,Shoujo Shuumatsu Ryokou,Adventure,Mystery,Sci-Fi
+51,Nodame Cantabile,Comedy,Drama,Romance
+53,Amaama to Inazuma,Comedy,Gourmet,SliceofLife
+54,Denpa Onna to Seishun Otoko,Comedy,Sci-Fi,SliceofLife
+55,Air,Drama,Romance,SliceofLife
+56,"Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou",Drama,Fantasy,SliceofLife
+57,Kino no Tabi: The Beautiful World,Action,Adventure,SliceofLife
+58,Yesterday wo Utatte,Drama,Romance,SliceofLife
+59,Tensura Nikki: Tensei shitara Slime Datta Ken,Comedy,Fantasy,SliceofLife
+60,Bokutachi no Remake,Drama,Romance,SliceofLife
+61,Little Busters!,Comedy,Drama,SliceofLife
+62,Just Because!,Drama,Romance,SliceofLife
+63,Mushishi Zoku Shou,Adventure,Fantasy,Mystery
+64,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie,Drama,SliceofLife,Supernatural
+66,Koi wa Ameagari no You ni,Drama,Romance,SliceofLife
+67,Tada-kun wa Koi wo Shinai,Comedy,Romance,SliceofLife
+69,Somali to Mori no Kamisama,Adventure,Drama,Fantasy
+70,Mangaka-san to Assistant-san to The Animation,Comedy,SliceofLife,Ecchi
+72,Kanon (2006),Drama,Romance,SliceofLife
+73,Haibane Renmei,Drama,Fantasy,Mystery
+74,Love Hina,Comedy,Romance,SliceofLife
+75,Hachimitsu to Clover,Comedy,Drama,Romance
+76,Flying Witch,Comedy,SliceofLife,Supernatural
+78,Sakura Trick,Comedy,GirlsLove,Romance
+80,Mushishi Zoku Shou 2nd Season,Adventure,Fantasy,Mystery
+81,Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen,Fantasy,SliceofLife,Supernatural
+82,Chuunibyou demo Koi ga Shitai! Movie: Take On Me,Comedy,Drama,Romance
+83,Doukyuusei (Movie),BoysLove,Romance,SliceofLife
+84,Kanokon,Comedy,Romance,SliceofLife
+85,Natsume Yuujinchou San,Drama,SliceofLife,Supernatural
+86,Ranma ½,Comedy,Fantasy,SliceofLife
+87,"Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",Adventure,Fantasy,Romance
+88,Zoku Natsume Yuujinchou,Drama,SliceofLife,Supernatural
+89,White Album 2,Drama,Romance,SliceofLife
+90,Xian Wang de Richang Shenghuo,Adventure,Comedy,Fantasy
+91,Natsume Yuujinchou Shi,Drama,SliceofLife,Supernatural
+92,Bokura ga Ita,Drama,Romance,SliceofLife
+93,Chihayafuru 2,Drama,SliceofLife,Sports
+95,Isekai Shokudou,Fantasy,Gourmet,SliceofLife
+96,Nijiiro Days,Comedy,Romance,SliceofLife
+97,Kareshi Kanojo no Jijou,Comedy,Drama,Romance
+98,Kantai Collection: KanColle,Action,Sci-Fi,SliceofLife
+0,Paradise Kiss,Comedy,Drama,Romance
+1,Given Movie,BoysLove,Drama,Romance
+5,Osake wa Fuufu ni Natte kara,Comedy,Gourmet,Romance
+10,Papa no Iukoto wo Kikinasai!,Comedy,Romance,SliceofLife
+11,Kino no Tabi: The Beautiful World - The Animated Series,Action,Adventure,SliceofLife
+12,Colorful (Movie),Drama,SliceofLife,Supernatural
+13,Watashi ni Tenshi ga Maiorita!,Comedy,GirlsLove,SliceofLife
+14,Uchuu Kyoudai,Comedy,Sci-Fi,SliceofLife
+19,Kimi to Boku.,Comedy,Drama,Romance
+29,Natsume Yuujinchou Roku,Drama,SliceofLife,Supernatural
+30,Natsume Yuujinchou Go,Drama,SliceofLife,Supernatural
+32,Adachi to Shimamura,GirlsLove,Romance,SliceofLife
+34,Tsuritama,Comedy,Sci-Fi,SliceofLife
+36,Glasslip,Romance,SliceofLife,Supernatural
+39,Shikioriori,Drama,Romance,SliceofLife
+40,Uchouten Kazoku,Comedy,Drama,Fantasy
+41,Little Busters!: Refrain,Comedy,Drama,Romance
+45,Kami-tachi ni Hirowareta Otoko,Adventure,Fantasy,SliceofLife
+46,Aria the Animation,Fantasy,Sci-Fi,SliceofLife
+47,Hitorijime My Hero,BoysLove,Drama,Romance
+49,Seijo no Maryoku wa Bannou Desu,Fantasy,Romance,SliceofLife
+50,Yuuki Yuuna wa Yuusha de Aru,Drama,Fantasy,SliceofLife
+51,Kimi no Iru Machi,Drama,Romance,SliceofLife
+54,Konohana Kitan,Fantasy,GirlsLove,SliceofLife
+57,Umibe no Étranger,BoysLove,Romance,SliceofLife
+58,Kimi ga Nozomu Eien,Drama,Romance,SliceofLife
+60,Super Lovers,BoysLove,Comedy,Drama
+66,Fate/kaleid liner Prisma☆Illya 2wei Herz!,Action,Comedy,Fantasy
+68,Mushishi: Hihamukage,Adventure,Fantasy,Mystery
+69,Nagato Yuki-chan no Shoushitsu,Comedy,Romance,SliceofLife
+70,Omoide Poroporo,Drama,Romance,SliceofLife
+72,Urara Meirochou,Comedy,Fantasy,SliceofLife
+74,Chihayafuru 3,Drama,SliceofLife,Sports
+76,Miira no Kaikata,Comedy,SliceofLife,Supernatural
+77,Hourou Musuko,Drama,Romance,SliceofLife
+78,Chuunibyou demo Koi ga Shitai! Ren: The Rikka Wars,Comedy,Drama,Romance
+80,Kyoukai no Kanata: Shinonome,Fantasy,SliceofLife,Supernatural
+82,Nodame Cantabile: Paris-hen,Comedy,Romance,SliceofLife
+83,Aria the Origination,Fantasy,Sci-Fi,SliceofLife
+84,Mushishi Zoku Shou: Suzu no Shizuku,Adventure,Fantasy,Mystery
+86,Emiya-san Chi no Kyou no Gohan,Comedy,Gourmet,SliceofLife
+89,Umi ga Kikoeru,Drama,Romance,SliceofLife
+90,Himegoto,Comedy,SliceofLife,Ecchi
+92,Green Green,Comedy,Romance,SliceofLife
+93,Fune wo Amu,Drama,Romance,SliceofLife
+95,Uchi no Maid ga Uzasugiru!,Comedy,GirlsLove,SliceofLife
+98,Taishou Otome Otogibanashi,Comedy,Romance,SliceofLife
+3,Mirai Nikki (TV),Action,Supernatural,Suspense
+4,Mob Psycho 100,Action,Comedy,Supernatural
+5,Sen to Chihiro no Kamikakushi,Adventure,AwardWinning,Supernatural
+6,Death Parade,Drama,Supernatural,Suspense
+7,Another,Horror,Mystery,Supernatural
+8,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,Comedy,Drama,Romance
+9,Soul Eater,Action,Comedy,Fantasy
+10,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,Drama,SliceofLife,Supernatural
+11,JoJo no Kimyou na Bouken (TV),Action,Adventure,Supernatural
+12,Hataraku Maou-sama!,Comedy,Fantasy,Romance
+13,Elfen Lied,Action,Drama,Horror
+14,Overlord,Action,Adventure,Fantasy
+15,Fate/Zero,Action,Fantasy,Supernatural
+16,Highschool of the Dead,Action,Horror,Supernatural
+17,Clannad,Drama,Romance,Supernatural
+18,Durarara!!,Action,Mystery,Supernatural
+19,Bakemonogatari,Mystery,Romance,Supernatural
+20,Mob Psycho 100 II,Action,Comedy,Supernatural
+21,Owari no Seraph,Action,Drama,Supernatural
+22,Bungou Stray Dogs,Action,Comedy,Mystery
+23,Deadman Wonderland,Action,Horror,Sci-Fi
+25,Clannad: After Story,Drama,Romance,Supernatural
+26,Kuroshitsuji,Action,Comedy,Mystery
+27,Kyoukai no Kanata,Fantasy,SliceofLife,Supernatural
+28,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,Action,Adventure,Drama
+29,Dororo,Action,Adventure,Supernatural
+30,Fate/Zero 2nd Season,Action,Fantasy,Supernatural
+31,Nanatsu no Taizai: Imashime no Fukkatsu,Action,Adventure,Fantasy
+32,Devilman: Crybaby,Action,AvantGarde,Horror
+33,Tokyo Revengers,Action,Drama,Supernatural
+34,Fate/stay night: Unlimited Blade Works,Action,Fantasy,Supernatural
+35,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,Action,Adventure,Comedy
+36,Mahouka Koukou no Rettousei,Action,Romance,Sci-Fi
+37,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,Action,Adventure,Drama
+40,Overlord II,Action,Adventure,Fantasy
+41,Fate/stay night,Action,Fantasy,Romance
+42,Baccano!,Action,Comedy,Mystery
+43,Hellsing Ultimate,Action,Horror,Supernatural
+44,Kekkai Sensen,Action,Comedy,Fantasy
+45,The God of High School,Action,Fantasy,Sci-Fi
+46,Fate/stay night: Unlimited Blade Works 2nd Season,Action,Fantasy,Supernatural
+47,Kokoro Connect,Drama,Romance,Supernatural
+48,Overlord III,Action,Fantasy,Supernatural
+49,Trinity Seven,Action,Comedy,Fantasy
+50,Mushishi,Adventure,Fantasy,Mystery
+51,Higurashi no Naku Koro ni,Horror,Mystery,Supernatural
+52,Hotarubi no Mori e,Drama,Romance,Supernatural
+53,Akira,Action,Adventure,Horror
+54,Koutetsujou no Kabaneri,Action,Drama,Fantasy
+55,Shinsekai yori,Drama,Horror,Mystery
+56,InuYasha,Action,Adventure,Comedy
+57,Bungou Stray Dogs 2nd Season,Action,Mystery,Supernatural
+58,Yamada-kun to 7-nin no Majo,Comedy,Mystery,Romance
+59,K,Action,Mystery,Supernatural
+60,Owari no Seraph: Nagoya Kessen-hen,Action,Drama,Supernatural
+61,Fumetsu no Anata e,Adventure,Drama,Supernatural
+62,Nisemonogatari,Comedy,Mystery,Supernatural
+63,Hellsing,Action,Horror,Supernatural
+64,Serial Experiments Lain,AvantGarde,Drama,Mystery
+65,Nanatsu no Taizai: Kamigami no Gekirin,Action,Adventure,Fantasy
+66,Blood Lad,Action,Comedy,Supernatural
+68,Claymore,Action,Adventure,Fantasy
+69,Monogatari Series: Second Season,Comedy,Mystery,Romance
+70,Yuu☆Yuu☆Hakusho,Action,Comedy,Supernatural
+71,Gakusen Toshi Asterisk,Action,Comedy,Fantasy
+72,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,Drama,Romance,Supernatural
+73,Strike the Blood,Action,Fantasy,Supernatural
+74,Kore wa Zombie Desu ka?,Action,Comedy,Supernatural
+75,Kami nomi zo Shiru Sekai,Comedy,Romance,Supernatural
+76,Kamisama Hajimemashita,Comedy,Fantasy,Romance
+77,Suzumiya Haruhi no Shoushitsu,Mystery,Sci-Fi,Supernatural
+78,Vampire Knight,Drama,Mystery,Romance
+79,Sankarea,Comedy,Horror,Romance
+81,Kenpuu Denki Berserk,Action,Adventure,Drama
+82,Beelzebub,Action,Comedy,Supernatural
+83,Shiki,Horror,Mystery,Supernatural
+84,Ajin,Action,Horror,Mystery
+85,Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,Action,Comedy,Fantasy
+86,Kuroshitsuji II,Action,Comedy,Supernatural
+87,Nekomonogatari: Kuro,Comedy,Romance,Supernatural
+88,Absolute Duo,Action,Romance,Supernatural
+89,Bungou Stray Dogs 3rd Season,Action,Mystery,Supernatural
+90,Shakugan no Shana,Action,Drama,Fantasy
+92,Natsume Yuujinchou,Drama,SliceofLife,Supernatural
+93,Inu x Boku SS,Comedy,Romance,Supernatural
+94,Sousei no Onmyouji,Action,Fantasy,Romance
+96,Tokyo Ravens,Action,Comedy,Romance
+97,Durarara!!x2 Shou,Action,Mystery,Supernatural
+98,Higurashi no Naku Koro ni Kai,Mystery,Supernatural,Suspense
+99,Sora no Otoshimono,Comedy,Romance,Sci-Fi
+1,Owarimonogatari,Comedy,Mystery,Supernatural
+2,Fate/Apocrypha,Action,Drama,Fantasy
+3,Kaze no Stigma,Action,Romance,Supernatural
+4,Hentai Ouji to Warawanai Neko.,Comedy,Romance,Supernatural
+5,Mekakucity Actors,Comedy,Sci-Fi,Supernatural
+7,Gleipnir,Action,Mystery,Supernatural
+8,Fruits Basket 2nd Season,Drama,Romance,Supernatural
+9,Kizumonogatari III: Reiketsu-hen,Action,Mystery,Supernatural
+10,Pandora Hearts,Adventure,Fantasy,Mystery
+12,Kizumonogatari II: Nekketsu-hen,Action,Mystery,Supernatural
+13,Fate/stay night Movie: Heaven's Feel - I. Presage Flower,Action,Fantasy,Supernatural
+14,Hanamonogatari,Comedy,Mystery,Supernatural
+15,Gakusen Toshi Asterisk 2nd Season,Comedy,Fantasy,Romance
+16,Kara no Kyoukai Movie 1: Fukan Fuukei,Action,Mystery,Supernatural
+17,Kekkai Sensen & Beyond,Action,Comedy,Fantasy
+18,Tsukimonogatari,Comedy,Mystery,Supernatural
+19,"Dakara Boku wa, H ga Dekinai.",Comedy,Romance,Supernatural
+21,Mieruko-chan,Comedy,Horror,Supernatural
+23,Shingeki no Bahamut: Genesis,Action,Adventure,Fantasy
+24,Kyokou Suiri,Mystery,Romance,Supernatural
+25,Mairimashita! Iruma-kun,Comedy,Fantasy,Supernatural
+26,Tasogare Otome x Amnesia,Horror,Mystery,Romance
+27,World Trigger,Action,Sci-Fi,Supernatural
+28,Durarara!!x2 Ten,Action,Mystery,Supernatural
+29,Mousou Dairinin,AvantGarde,Drama,Mystery
+30,Kuroshitsuji: Book of Circus,Action,Comedy,Mystery
+31,Fruits Basket: The Final,Drama,Romance,Supernatural
+32,Kami nomi zo Shiru Sekai II,Comedy,Romance,Supernatural
+33,Kore wa Zombie Desu ka? of the Dead,Action,Comedy,Supernatural
+34,Saijaku Muhai no Bahamut,Action,Fantasy,Romance
+35,Nanatsu no Taizai: Fundo no Shinpan,Action,Adventure,Fantasy
+36,Owarimonogatari 2nd Season,Comedy,Mystery,Supernatural
+37,Blood+,Action,Drama,Horror
+38,Durarara!!x2 Ketsu,Action,Mystery,Supernatural
+39,Panty & Stocking with Garterbelt,Action,Comedy,Supernatural
+40,Nakitai Watashi wa Neko wo Kaburu,Comedy,Drama,Romance
+41,Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou,Horror,Mystery,Supernatural
+42,Kamisama Hajimemashita◎,Comedy,Fantasy,Romance
+43,Vampire Knight: Guilty,Drama,Mystery,Romance
+44,Shaman King,Action,Adventure,Comedy
+45,Seireitsukai no Blade Dance,Action,Comedy,Fantasy
+47,Hataraku Maou-sama!!,Comedy,Fantasy,Romance
+48,Renai Boukun,Comedy,Romance,Supernatural
+49,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,Action,Fantasy,Supernatural
+50,Jigoku Shoujo,Horror,Mystery,Supernatural
+51,Gantz,Action,Drama,Horror
+53,Blood-C,Action,Horror,Mystery
+54,Berserk,Action,Adventure,Drama
+55,Kami nomi zo Shiru Sekai: Megami-hen,Comedy,Romance,Supernatural
+56,Kemono Jihen,Action,Mystery,Supernatural
+58,B: The Beginning,Action,Mystery,Supernatural
+60,Code:Breaker,Action,Comedy,Supernatural
+61,Seikon no Qwaser,Action,Supernatural,Ecchi
+62,Mahouka Koukou no Rettousei: Raihousha-hen,Action,Romance,Sci-Fi
+63,Witch Craft Works,Action,Fantasy,Supernatural
+64,Overlord IV,Action,Fantasy,Supernatural
+65,Shakugan no Shana II (Second),Action,Drama,Fantasy
+66,Fate/stay night: Unlimited Blade Works Prologue,Action,Fantasy,Supernatural
+67,xxxHOLiC,Comedy,Drama,Mystery
+69,Taimadou Gakuen 35 Shiken Shoutai,Action,Fantasy,Romance
+70,Fate/stay night Movie: Heaven's Feel - III. Spring Song,Action,Fantasy,Supernatural
+71,Mononoke,Fantasy,Horror,Mystery
+72,Highschool of the Dead: Drifters of the Dead,Comedy,Supernatural,Ecchi
+73,Air,Drama,Romance,SliceofLife
+74,Seiken Tsukai no World Break,Action,Fantasy,Romance
+76,ChäoS;HEAd,Mystery,Sci-Fi,Supernatural
+77,Sora no Otoshimono: Forte,Comedy,Romance,Sci-Fi
+78,Little Busters!,Comedy,Drama,SliceofLife
+79,Mushishi Zoku Shou,Adventure,Fantasy,Mystery
+80,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie,Drama,SliceofLife,Supernatural
+81,Ajin Part 2,Action,Horror,Mystery
+82,Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito,Action,Adventure,Fantasy
+83,Yuragi-sou no Yuuna-san,Comedy,Romance,Supernatural
+84,Taboo Tattoo,Action,Mystery,Supernatural
+86,InuYasha: Kanketsu-hen,Action,Adventure,Comedy
+87,Kanon (2006),Drama,Romance,SliceofLife
+88,Servamp,Action,Comedy,Drama
+89,Summertime Render,Mystery,Supernatural,Suspense
+91,Persona 4 the Animation,Action,Adventure,Mystery
+93,Flying Witch,Comedy,SliceofLife,Supernatural
+94,Kokoro Connect: Michi Random,Drama,Romance,Supernatural
+95,Jitsu wa Watashi wa,Comedy,Fantasy,Romance
+96,Higurashi no Naku Koro ni Gou,Horror,Mystery,Supernatural
+97,Fate/Grand Order: Zettai Majuu Sensen Babylonia,Action,Fantasy,Supernatural
+98,Mushishi Zoku Shou 2nd Season,Adventure,Fantasy,Mystery
+99,Devils Line,Action,Drama,Romance
+1,Steins;Gate,Drama,Sci-Fi,Suspense
+2,Re:Zero kara Hajimeru Isekai Seikatsu,Drama,Fantasy,Suspense
+3,Mirai Nikki (TV),Action,Supernatural,Suspense
+4,Yakusoku no Neverland,Mystery,Sci-Fi,Suspense
+5,Death Parade,Drama,Supernatural,Suspense
+6,Another,Horror,Mystery,Supernatural
+7,Psycho-Pass,Action,Sci-Fi,Suspense
+10,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season,Drama,Fantasy,Suspense
+11,Monster,Drama,Mystery,Suspense
+13,Steins;Gate 0,Drama,Sci-Fi,Suspense
+14,Higurashi no Naku Koro ni,Horror,Mystery,Supernatural
+15,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,Drama,Fantasy,Suspense
+17,Psycho-Pass 2,Action,Sci-Fi,Suspense
+18,Satsuriku no Tenshi,Adventure,Horror,Suspense
+19,Shiki,Horror,Mystery,Supernatural
+20,Higashi no Eden,Mystery,Romance,Sci-Fi
+21,Paprika,AvantGarde,Fantasy,Horror
+22,Higurashi no Naku Koro ni Kai,Mystery,Supernatural,Suspense
+23,Vivy: Fluorite Eye's Song,Action,Sci-Fi,Suspense
+24,Kara no Kyoukai Movie 1: Fukan Fuukei,Action,Mystery,Supernatural
+25,Mousou Dairinin,AvantGarde,Drama,Mystery
+27,Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari,Drama,Mystery,Suspense
+30,B: The Beginning,Action,Mystery,Supernatural
+31,Phantom: Requiem for the Phantom,Action,Drama,Suspense
+32,C: The Money of Soul and Possibility Control,Action,Mystery,Suspense
+35,Summertime Render,Mystery,Supernatural,Suspense
+36,Higurashi no Naku Koro ni Gou,Horror,Mystery,Supernatural
+37,Psycho-Pass 3,Action,Sci-Fi,Suspense
+39,Gankutsuou,Drama,Mystery,Sci-Fi
+40,Ga-Rei: Zero,Action,Supernatural,Suspense
+41,Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen),Action,Mystery,Romance
+42,Death Billiards,Drama,Supernatural,Suspense
+43,Kara no Kyoukai Movie 5: Mujun Rasen,Action,Drama,Mystery
+44,Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna,Drama,Fantasy,Suspense
+45,Kara no Kyoukai Movie 3: Tsuukaku Zanryuu,Action,Drama,Mystery
+47,Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru,Drama,Mystery,Suspense
+48,Kara no Kyoukai Movie 4: Garan no Dou,Action,Mystery,Supernatural
 50,Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go),Action,Mystery,Romance
-51,Hitsugi no Chaika: Avenging Battle,Action,Adventure,Comedy
-52,Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!,Action,Adventure,Fantasy
-53,Fate/Grand Order: First Order,Action,Fantasy,Supernatural
-54,Bleach Movie 4: Jigoku-hen,Action,Adventure,Fantasy
-55,Berserk: Ougon Jidai-hen II - Doldrey Kouryaku,Action,Adventure,Drama
-57,Radiant,Action,Adventure,Fantasy
-58,Kill la Kill Specials,Action,Comedy,Ecchi
-59,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya,Action,Adventure,Comedy
-60,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen,Action,Adventure,Comedy
-61,Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono,Action,Adventure,Fantasy
-64,Isekai no Seikishi Monogatari,Action,Comedy,Fantasy
-66,Kino no Tabi: The Beautiful World - The Animated Series,Action,Adventure,SliceofLife
-67,UQ Holder!: Mahou Sensei Negima! 2,Action,Fantasy,Sci-Fi
-69,Gintama.: Shirogane no Tamashii-hen,Action,Comedy,Sci-Fi
-71,Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria,Action,Adventure,Fantasy
-73,Dog Days,Action,Adventure,Fantasy
-75,Strike the Blood II,Action,Fantasy,Supernatural
-76,Kara no Kyoukai Movie 6: Boukyaku Rokuon,Action,Mystery,Romance
-78,D.N.Angel,Action,Comedy,Fantasy
-80,Gunslinger Girl,Action,Drama,Sci-Fi
-81,Tenjou Tenge,Action,Comedy,Ecchi
-82,Gintama.: Porori-hen,Action,Comedy,Sci-Fi
-83,No Guns Life,Action,Drama,Sci-Fi
-84,One Piece Film: Gold,Action,Adventure,Fantasy
-85,Tsugumomo,Action,Comedy,Supernatural
-86,Hunter x Hunter Movie 1: Phantom Rouge,Action,Adventure,Fantasy
-87,Nanatsu no Taizai OVA,Action,Adventure,Fantasy
-89,Gungrave,Action,Drama,Sci-Fi
-91,Basilisk: Kouga Ninpou Chou,Action,Adventure,Fantasy
-92,Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2,Action,Fantasy,Romance
-93,Kyousou Giga (TV),Action,Fantasy,Supernatural
-94,Kuroshitsuji Movie: Book of the Atlantic,Action,Comedy,Mystery
-96,Fullmetal Alchemist: The Sacred Star of Milos,Action,Adventure,Drama
-98,Pokemon Advanced Generation,Action,Adventure,Comedy
-1,Fullmetal Alchemist: Brotherhood,Action,Adventure,Drama
-3,Sword Art Online,Action,Adventure,Fantasy
-5,Tokyo Ghoul,Action,Fantasy,Horror
-6,Naruto,Action,Adventure,Fantasy
-8,Hunter x Hunter (2011),Action,Adventure,Fantasy
-11,Naruto: Shippuuden,Action,Adventure,Fantasy
-12,Code Geass: Hangyaku no Lelouch,Action,Drama,Sci-Fi
-16,One Piece,Action,Adventure,Fantasy
-20,Nanatsu no Taizai,Action,Adventure,Fantasy
-21,Mirai Nikki (TV),Action,Supernatural,Suspense
-22,Sword Art Online II,Action,Adventure,Fantasy
-24,Mob Psycho 100,Action,Comedy,Supernatural
-26,Bleach,Action,Adventure,Fantasy
-27,Kiseijuu: Sei no Kakuritsu,Action,Horror,Sci-Fi
-30,Tokyo Ghoul √A,Action,Fantasy,Horror
-31,Fairy Tail,Action,Adventure,Fantasy
-32,Code Geass: Hangyaku no Lelouch R2,Action,Drama,Sci-Fi
-33,Neon Genesis Evangelion,Action,AvantGarde,Drama
-34,Kill la Kill,Action,Comedy,Ecchi
-36,Soul Eater,Action,Comedy,Fantasy
-37,Psycho-Pass,Action,Sci-Fi,Suspense
-38,Tengen Toppa Gurren Lagann,Action,Adventure,Comedy
-40,Darling in the FranXX,Action,Drama,Romance
-41,JoJo no Kimyou na Bouken (TV),Action,Adventure,Supernatural
-42,Elfen Lied,Action,Drama,Horror
-43,Black Clover,Action,Comedy,Fantasy
-44,Overlord,Action,Adventure,Fantasy
-45,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,Action,Adventure,Comedy
-46,Fate/Zero,Action,Fantasy,Supernatural
-47,Highschool of the Dead,Action,Horror,Supernatural
-48,Tate no Yuusha no Nariagari,Action,Adventure,Drama
-49,Fullmetal Alchemist,Action,Adventure,Drama
-51,Durarara!!,Action,Mystery,Supernatural
-52,Mob Psycho 100 II,Action,Comedy,Supernatural
-55,Tensei shitara Slime Datta Ken,Action,Adventure,Comedy
-56,Owari no Seraph,Action,Drama,Supernatural
-57,Bungou Stray Dogs,Action,Comedy,Mystery
-58,Vinland Saga,Action,Adventure,Drama
-59,Deadman Wonderland,Action,Horror,Sci-Fi
-60,Guilty Crown,Action,Drama,Sci-Fi
-62,Samurai Champloo,Action,Adventure,Comedy
-63,Mononoke Hime,Action,Adventure,Fantasy
-64,Dragon Ball Z,Action,Adventure,Comedy
-65,Kuroshitsuji,Action,Comedy,Mystery
-66,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,Action,Adventure,Drama
-67,Dororo,Action,Adventure,Supernatural
-68,Tokyo Ghoul:re,Action,Fantasy,Horror
-69,Log Horizon,Action,Adventure,Fantasy
-70,Fate/Zero 2nd Season,Action,Fantasy,Supernatural
-71,Nanatsu no Taizai: Imashime no Fukkatsu,Action,Adventure,Fantasy
-72,Devilman: Crybaby,Action,AvantGarde,Horror
-73,Tokyo Revengers,Action,Drama,Supernatural
-75,Goblin Slayer,Action,Adventure,Fantasy
-76,Fate/stay night: Unlimited Blade Works,Action,Fantasy,Supernatural
-77,Mahouka Koukou no Rettousei,Action,Romance,Sci-Fi
-78,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,Action,Adventure,Comedy
-79,Gintama,Action,Comedy,Sci-Fi
-81,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,Action,Adventure,Drama
-82,Magi: The Labyrinth of Magic,Action,Adventure,Fantasy
-85,Sword Art Online: Alicization,Action,Adventure,Fantasy
-86,Fairy Tail (2014),Action,Adventure,Fantasy
-88,Overlord II,Action,Adventure,Fantasy
-89,Fate/stay night,Action,Fantasy,Romance
-90,Darker than Black: Kuro no Keiyakusha,Action,Mystery,Sci-Fi
-92,Black Bullet,Action,Mystery,Sci-Fi
-93,Rakudai Kishi no Cavalry,Action,Fantasy,Romance
-94,Baccano!,Action,Comedy,Mystery
-95,High School DxD New,Action,Comedy,Romance
-96,Hellsing Ultimate,Action,Horror,Supernatural
-99,Kami no Tou,Action,Adventure,Drama
-0,Kekkai Sensen,Action,Comedy,Fantasy
-1,The God of High School,Action,Fantasy,Sci-Fi
-2,Fate/stay night: Unlimited Blade Works 2nd Season,Action,Fantasy,Supernatural
-3,Magi: The Kingdom of Magic,Action,Adventure,Fantasy
-4,Overlord III,Action,Fantasy,Supernatural
-5,Boruto: Naruto Next Generations,Action,Adventure,Fantasy
-6,Trinity Seven,Action,Comedy,Fantasy
-7,Akatsuki no Yona,Action,Adventure,Comedy
-8,Tensei shitara Slime Datta Ken 2nd Season,Action,Adventure,Comedy
-9,Zero no Tsukaima,Action,Adventure,Comedy
-10,Tokyo Ghoul:re 2nd Season,Action,Fantasy,Horror
-12,Akira,Action,Adventure,Horror
-13,FLCL,Action,AvantGarde,Comedy
-14,Koutetsujou no Kabaneri,Action,Drama,Fantasy
-15,Banana Fish,Action,Adventure,Drama
-16,High School DxD BorN,Action,Comedy,Romance
-17,Dragon Ball Super,Action,Adventure,Comedy
-18,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri",Action,Adventure,Fantasy
-19,InuYasha,Action,Adventure,Comedy
-20,Bungou Stray Dogs 2nd Season,Action,Mystery,Supernatural
-21,K,Action,Mystery,Supernatural
-22,Owari no Seraph: Nagoya Kessen-hen,Action,Drama,Supernatural
-23,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,Action,Adventure,Comedy
-25,Accel World,Action,Romance,Sci-Fi
-26,Trigun,Action,Adventure,Comedy
-27,Hai to Gensou no Grimgar,Action,Adventure,Drama
-29,Sword Art Online Movie: Ordinal Scale,Action,Adventure,Fantasy
-30,Hellsing,Action,Horror,Supernatural
-31,Nanatsu no Taizai: Seisen no Shirushi,Action,Adventure,Fantasy
-32,Sword Art Online: Alicization - War of Underworld,Action,Adventure,Fantasy
-33,D.Gray-man,Action,Adventure,Comedy
-34,Nanatsu no Taizai: Kamigami no Gekirin,Action,Adventure,Fantasy
-36,Blood Lad,Action,Comedy,Supernatural
-40,Claymore,Action,Adventure,Fantasy
-41,Shinmai Maou no Testament,Action,Fantasy,Romance
-42,Yuu☆Yuu☆Hakusho,Action,Comedy,Supernatural
-43,Gakusen Toshi Asterisk,Action,Comedy,Fantasy
-44,Psycho-Pass 2,Action,Sci-Fi,Suspense
-45,Tate no Yuusha no Nariagari Season 2,Action,Adventure,Drama
-46,Strike the Blood,Action,Fantasy,Supernatural
-47,IS: Infinite Stratos,Action,Comedy,Sci-Fi
-48,Kore wa Zombie Desu ka?,Action,Comedy,Supernatural
-49,Rokka no Yuusha,Action,Adventure,Fantasy
-50,Arifureta Shokugyou de Sekai Saikyou,Action,Adventure,Fantasy
-51,Dragon Ball GT,Action,Adventure,Comedy
-52,Pokemon,Action,Adventure,Comedy
-53,Inuyashiki,Action,Drama,Sci-Fi
-54,Tensei shitara Slime Datta Ken 2nd Season Part 2,Action,Adventure,Comedy
-55,Log Horizon 2nd Season,Action,Adventure,Fantasy
-57,86,Action,Drama,Sci-Fi
-59,Zetsuen no Tempest,Action,Drama,Fantasy
-61,Kenpuu Denki Berserk,Action,Adventure,Drama
-62,Great Pretender,Action,Adventure,Mystery
-63,Beelzebub,Action,Comedy,Supernatural
-64,Gintama°,Action,Comedy,Sci-Fi
-65,Ajin,Action,Horror,Mystery
-66,Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,Action,Comedy,Fantasy
-67,Hunter x Hunter,Action,Adventure,Fantasy
-68,The Last: Naruto the Movie,Action,Adventure,Fantasy
-70,Kuroshitsuji II,Action,Comedy,Supernatural
-72,Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru,Action,Adventure,Comedy
-73,Katanagatari,Action,Adventure,Romance
-74,Sword Art Online: Alicization - War of Underworld 2nd Season,Action,Adventure,Fantasy
-75,Absolute Duo,Action,Romance,Supernatural
-76,Bungou Stray Dogs 3rd Season,Action,Mystery,Supernatural
-77,Shakugan no Shana,Action,Drama,Fantasy
-78,God Eater,Action,Fantasy,Sci-Fi
-79,Drifters,Action,Adventure,Comedy
-80,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2",Action,Adventure,Fantasy
-81,Evangelion: 1.0 You Are (Not) Alone,Action,Drama,Sci-Fi
-82,Kenja no Mago,Action,Comedy,Fantasy
-83,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III,Action,Adventure,Comedy
-84,Musaigen no Phantom World,Action,Comedy,Fantasy
-86,Gintama',Action,Comedy,Sci-Fi
-87,Ichiban Ushiro no Daimaou,Action,Comedy,Fantasy
-89,Evangelion: 2.0 You Can (Not) Advance,Action,Drama,Sci-Fi
-90,Darwin's Game,Action,Mystery,Sci-Fi
-91,Zero no Tsukaima: Futatsuki no Kishi,Action,Adventure,Comedy
-93,Sousei no Onmyouji,Action,Fantasy,Romance
-95,Full Metal Panic!,Action,Comedy,Sci-Fi
-98,Rurouni Kenshin: Meiji Kenkaku Romantan,Action,Adventure,Comedy
-99,Dorohedoro,Action,Comedy,Fantasy
-0,Tokyo Ravens,Action,Comedy,Romance
-1,Durarara!!x2 Shou,Action,Mystery,Supernatural
-3,Fairy Tail: Final Series,Action,Adventure,Fantasy
-4,High School DxD Hero,Action,Comedy,Romance
-5,Re:Creators,Action,Fantasy,Sci-Fi
-6,Magi: Sinbad no Bouken (TV),Action,Adventure,Fantasy
-7,Vivy: Fluorite Eye's Song,Action,Sci-Fi,Suspense
-8,Fate/Apocrypha,Action,Drama,Fantasy
-9,Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,Action,Adventure,Comedy
-11,Kaze no Stigma,Action,Romance,Supernatural
-12,Boruto: Naruto the Movie,Action,Adventure,Fantasy
-13,Zero no Tsukaima: Princesses no Rondo,Action,Adventure,Comedy
-14,Gleipnir,Action,Mystery,Supernatural
-17,Kizumonogatari III: Reiketsu-hen,Action,Mystery,Supernatural
-18,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,Action,Adventure,Fantasy
-19,No.6,Action,Drama,Mystery
-20,Kizumonogatari II: Nekketsu-hen,Action,Mystery,Supernatural
-21,Houseki no Kuni (TV),Action,Drama,Fantasy
-22,Fate/stay night Movie: Heaven's Feel - I. Presage Flower,Action,Fantasy,Supernatural
-23,Kara no Kyoukai Movie 1: Fukan Fuukei,Action,Mystery,Supernatural
-24,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",Action,Drama,Fantasy
-25,Darker than Black: Ryuusei no Gemini,Action,Mystery,Sci-Fi
-26,Kekkai Sensen & Beyond,Action,Comedy,Fantasy
-27,Evangelion: 3.0 You Can (Not) Redo,Action,Drama,Sci-Fi
-28,Hagure Yuusha no Aesthetica,Action,Fantasy,Ecchi
-29,Shingeki no Bahamut: Genesis,Action,Adventure,Fantasy
-30,Sekirei,Action,Comedy,Ecchi
-31,Digimon Adventure,Action,Adventure,Comedy
-32,World Trigger,Action,Sci-Fi,Supernatural
-34,Durarara!!x2 Ten,Action,Mystery,Supernatural
-35,Kuroshitsuji: Book of Circus,Action,Comedy,Mystery
-36,IS: Infinite Stratos 2,Action,Comedy,Sci-Fi
-37,Yu☆Gi☆Oh! Duel Monsters,Action,Adventure,Fantasy
-38,Kore wa Zombie Desu ka? of the Dead,Action,Comedy,Supernatural
-39,Shinmai Maou no Testament Burst,Action,Fantasy,Romance
-41,Saijaku Muhai no Bahamut,Action,Fantasy,Romance
-44,Nanatsu no Taizai: Fundo no Shinpan,Action,Adventure,Fantasy
-45,Hitsugi no Chaika,Action,Adventure,Comedy
-46,Blood+,Action,Drama,Horror
-47,Hidan no Aria,Action,Comedy,Romance
-48,Durarara!!x2 Ketsu,Action,Mystery,Supernatural
-49,Plunderer,Action,Fantasy,Ecchi
-50,Panty & Stocking with Garterbelt,Action,Comedy,Supernatural
-51,Arslan Senki (TV),Action,Adventure,Drama
-52,"Kumo Desu ga, Nani ka?",Action,Adventure,Comedy
-53,Dragon Ball Kai,Action,Adventure,Comedy
-54,Shaman King,Action,Adventure,Comedy
-59,Hundred,Action,Romance,Sci-Fi
-60,Seireitsukai no Blade Dance,Action,Comedy,Fantasy
-62,86 Part 2,Action,Drama,Sci-Fi
-66,Gantz,Action,Drama,Horror
-67,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,Action,Fantasy,Supernatural
-68,Blood-C,Action,Horror,Mystery
-69,Dragon Ball Super: Broly,Action,Adventure,Fantasy
-70,Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,Action,Horror,Mystery
-72,Berserk,Action,Adventure,Drama
-73,Kishuku Gakkou no Juliet,Action,Comedy,Romance
-76,Suisei no Gargantia,Action,Adventure,Sci-Fi
-78,Kemono Jihen,Action,Mystery,Supernatural
-79,B: The Beginning,Action,Mystery,Supernatural
-80,Phantom: Requiem for the Phantom,Action,Drama,Suspense
-81,Ore dake Haireru Kakushi Dungeon,Action,Adventure,Fantasy
-82,"Sentouin, Hakenshimasu!",Action,Comedy,Fantasy
-84,Code:Breaker,Action,Comedy,Supernatural
-85,Wolf's Rain,Action,Adventure,Drama
-86,Naruto: Shippuuden Movie 6 - Road to Ninja,Action,Adventure,Fantasy
-87,Ben-To,Action,Comedy,Gourmet
-89,Tales of Zestiria the Cross,Action,Adventure,Fantasy
-90,Seikon no Qwaser,Action,Supernatural,Ecchi
-91,Machine-Doll wa Kizutsukanai,Action,Fantasy,Ecchi
-92,Evangelion: 3.0+1.0 Thrice Upon a Time,Action,Drama,Sci-Fi
-93,Freezing,Action,Drama,Romance
-94,Mahouka Koukou no Rettousei: Raihousha-hen,Action,Romance,Sci-Fi
-95,Witch Craft Works,Action,Fantasy,Supernatural
-96,Genjitsu Shugi Yuusha no Oukoku Saikenki,Action,Fantasy,Romance
-97,Nanbaka,Action,Comedy,Drama
-99,Tsuki ga Michibiku Isekai Douchuu,Action,Adventure,Comedy
-0,Shakugan no Shana II (Second),Action,Drama,Fantasy
-1,Overlord IV,Action,Fantasy,Supernatural
-3,Fate/stay night: Unlimited Blade Works Prologue,Action,Fantasy,Supernatural
-4,Nejimaki Seirei Senki: Tenkyou no Alderamin,Action,Adventure,Fantasy
-6,Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,Action,Horror,Mystery
-8,Gintama': Enchousen,Action,Comedy,Sci-Fi
-10,C: The Money of Soul and Possibility Control,Action,Mystery,Suspense
-11,Taimadou Gakuen 35 Shiken Shoutai,Action,Fantasy,Romance
-12,Fate/stay night Movie: Heaven's Feel - III. Spring Song,Action,Fantasy,Supernatural
-13,Seiken Tsukai no World Break,Action,Fantasy,Romance
-14,Code Geass: Fukkatsu no Lelouch,Action,Drama,Sci-Fi
-16,Arifureta Shokugyou de Sekai Saikyou 2nd Season,Action,Adventure,Fantasy
-19,Kino no Tabi: The Beautiful World,Action,Adventure,SliceofLife
-20,Densetsu no Yuusha no Densetsu,Action,Adventure,Fantasy
-21,Grancrest Senki,Action,Drama,Fantasy
-22,Gintama.,Action,Comedy,Sci-Fi
-23,Isekai Cheat Magician,Action,Adventure,Fantasy
-25,Ajin Part 2,Action,Horror,Mystery
-26,Deca-Dence,Action,Adventure,Sci-Fi
-28,Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito,Action,Adventure,Fantasy
-29,Naruto: Shippuuden Movie 1,Action,Adventure,Fantasy
-30,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,Action,Adventure,Fantasy
-31,Seirei Gensouki,Action,Adventure,Drama
-32,Kämpfer,Action,Comedy,GirlsLove
-37,Taboo Tattoo,Action,Mystery,Supernatural
-38,Masou Gakuen HxH,Action,Comedy,Fantasy
-39,Tenkuu Shinpan,Action,Horror,Mystery
-40,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,Action,Drama,Romance
-41,InuYasha: Kanketsu-hen,Action,Adventure,Comedy
-42,Servamp,Action,Comedy,Drama
-43,Bleach Movie 1: Memories of Nobody,Action,Adventure,Fantasy
-44,Fate/kaleid liner Prisma☆Illya,Action,Comedy,Fantasy
-49,Persona 4 the Animation,Action,Adventure,Mystery
-52,Zero kara Hajimeru Mahou no Sho,Action,Adventure,Fantasy
-54,Darker than Black: Kuro no Keiyakusha Gaiden,Action,Mystery,Sci-Fi
-55,Princess Connect! Re:Dive,Action,Adventure,Comedy
-56,Pokemon Movie 01: Mewtwo no Gyakushuu,Action,Adventure,Comedy
-57,Fate/Grand Order: Zettai Majuu Sensen Babylonia,Action,Fantasy,Supernatural
-58,Naruto: Shippuuden Movie 2 - Kizuna,Action,Adventure,Fantasy
-59,One Piece Film: Z,Action,Adventure,Fantasy
-61,Devils Line,Action,Drama,Romance
-62,Tate no Yuusha no Nariagari Season 3,Action,Adventure,Drama
-63,100-man no Inochi no Ue ni Ore wa Tatteiru,Action,Drama,Fantasy
-64,Psycho-Pass 3,Action,Sci-Fi,Suspense
-65,Kuusen Madoushi Kouhosei no Kyoukan,Action,Drama,Fantasy
-67,"Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",Action,Fantasy,Romance
-69,Medaka Box,Action,Comedy,Ecchi
-70,"Tokyo Ghoul: ""Jack""",Action,Fantasy,Horror
-71,Persona 5 the Animation,Action,Fantasy,Supernatural
-73,Saihate no Paladin,Action,Adventure,Fantasy
-74,Naruto: Shippuuden Movie 4 - The Lost Tower,Action,Adventure,Fantasy
-75,Omamori Himari,Action,Comedy,Fantasy
-76,Ga-Rei: Zero,Action,Supernatural,Suspense
-77,11eyes,Action,Supernatural,Ecchi
-78,Shakugan no Shana III (Final),Action,Drama,Fantasy
-80,Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru,Action,Adventure,Fantasy
-82,Sekirei: Pure Engagement,Action,Comedy,Ecchi
-83,Bungou Stray Dogs: Dead Apple,Action,Comedy,Mystery
-84,Kuroshitsuji: Book of Murder,Action,Comedy,Mystery
-85,Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen),Action,Mystery,Romance
-86,Texhnolyze,Action,Drama,Sci-Fi
-87,Shingeki no Bahamut: Virgin Soul,Action,Adventure,Fantasy
-88,Goblin Slayer: Goblin's Crown,Action,Adventure,Fantasy
-89,Kara no Kyoukai Movie 5: Mujun Rasen,Action,Drama,Mystery
-90,Mob Psycho 100 III,Action,Comedy,Supernatural
-91,Yu☆Gi☆Oh!,Action,Comedy,Fantasy
-92,One Piece Film: Strong World,Action,Adventure,Fantasy
-94,Naruto: Shippuuden Movie 5 - Blood Prison,Action,Adventure,Fantasy
-96,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,Action,Adventure,Fantasy
-97,Kurenai no Buta,Action,Adventure,Comedy
-98,Tsubasa Chronicle,Action,Adventure,Fantasy
-99,Terra Formars,Action,Drama,Horror
-0,Chrno Crusade,Action,Romance,Supernatural
-1,Dance in the Vampire Bund,Action,Drama,Romance
-2,Pokemon: The Origin,Action,Adventure,Comedy
-3,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,Action,Comedy,Sci-Fi
-4,Hayate no Gotoku!,Action,Comedy,Romance
-5,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,Action,Adventure,Fantasy
-6,Tiger & Bunny,Action,Comedy,Mystery
-7,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,Action,Mystery,Sci-Fi
-8,Canaan,Action,Sci-Fi,Supernatural
-10,Kara no Kyoukai Movie 3: Tsuukaku Zanryuu,Action,Drama,Mystery
-11,Ushio to Tora (TV),Action,Adventure,Comedy
-12,Log Horizon: Entaku Houkai,Action,Adventure,Fantasy
-13,Digimon Adventure 02,Action,Adventure,Comedy
-14,Mobile Suit Gundam: Iron-Blooded Orphans,Action,Drama,Sci-Fi
-15,"Maou-sama, Retry!",Action,Adventure,Fantasy
-16,Fate/stay night Movie: Unlimited Blade Works,Action,Fantasy,Supernatural
-17,Kantai Collection: KanColle,Action,Sci-Fi,SliceofLife
-18,Mobile Suit Gundam 00,Action,Drama,Sci-Fi
-20,Karneval (TV),Action,Fantasy,Mystery
-21,Berserk: Ougon Jidai-hen I - Haou no Tamago,Action,Adventure,Fantasy
-22,Shuumatsu no Walküre,Action,Drama,Fantasy
-23,Seirei no Moribito,Action,Adventure,Fantasy
-27,Chrome Shelled Regios,Action,Adventure,Fantasy
-29,Kara no Kyoukai Movie 4: Garan no Dou,Action,Mystery,Supernatural
-31,Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara,Action,Comedy,Fantasy
-32,Fairy Tail Movie 1: Houou no Miko,Action,Adventure,Fantasy
-33,Berserk: Ougon Jidai-hen III - Kourin,Action,Adventure,Drama
-35,Sabikui Bisco,Action,Adventure,Fantasy
-37,Yu☆Gi☆Oh!: Duel Monsters GX,Action,Comedy,Fantasy
-38,Mo Dao Zu Shi,Action,Adventure,Fantasy
-41,Rewrite,Action,Comedy,Romance
-42,Dragon Ball Z Movie 14: Kami to Kami,Action,Adventure,Fantasy
-43,Arcana Famiglia,Action,Fantasy,Romance
-44,"Yuusha, Yamemasu",Action,Adventure,Comedy
-45,"Tokyo Ghoul: ""Pinto""",Action,Fantasy,Horror
-46,Soul Eater NOT!,Action,Comedy,Supernatural
-48,Tensei shitara Slime Datta Ken OVA,Action,Adventure,Comedy
-49,Rozen Maiden,Action,Comedy,Drama
-50,Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go),Action,Mystery,Romance
-51,Hitsugi no Chaika: Avenging Battle,Action,Adventure,Comedy
-52,Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!,Action,Adventure,Fantasy
-53,Fate/Grand Order: First Order,Action,Fantasy,Supernatural
-54,Bleach Movie 4: Jigoku-hen,Action,Adventure,Fantasy
-55,Berserk: Ougon Jidai-hen II - Doldrey Kouryaku,Action,Adventure,Drama
-57,Radiant,Action,Adventure,Fantasy
-58,Kill la Kill Specials,Action,Comedy,Ecchi
-59,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya,Action,Adventure,Comedy
-60,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen,Action,Adventure,Comedy
-61,Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono,Action,Adventure,Fantasy
-64,Isekai no Seikishi Monogatari,Action,Comedy,Fantasy
-66,Kino no Tabi: The Beautiful World - The Animated Series,Action,Adventure,SliceofLife
-67,UQ Holder!: Mahou Sensei Negima! 2,Action,Fantasy,Sci-Fi
-69,Gintama.: Shirogane no Tamashii-hen,Action,Comedy,Sci-Fi
-71,Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria,Action,Adventure,Fantasy
-73,Dog Days,Action,Adventure,Fantasy
-75,Strike the Blood II,Action,Fantasy,Supernatural
-76,Kara no Kyoukai Movie 6: Boukyaku Rokuon,Action,Mystery,Romance
-78,D.N.Angel,Action,Comedy,Fantasy
-80,Gunslinger Girl,Action,Drama,Sci-Fi
-81,Tenjou Tenge,Action,Comedy,Ecchi
-82,Gintama.: Porori-hen,Action,Comedy,Sci-Fi
-83,No Guns Life,Action,Drama,Sci-Fi
-84,One Piece Film: Gold,Action,Adventure,Fantasy
-85,Tsugumomo,Action,Comedy,Supernatural
-86,Hunter x Hunter Movie 1: Phantom Rouge,Action,Adventure,Fantasy
-87,Nanatsu no Taizai OVA,Action,Adventure,Fantasy
-89,Gungrave,Action,Drama,Sci-Fi
-91,Basilisk: Kouga Ninpou Chou,Action,Adventure,Fantasy
-92,Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2,Action,Fantasy,Romance
-93,Kyousou Giga (TV),Action,Fantasy,Supernatural
-94,Kuroshitsuji Movie: Book of the Atlantic,Action,Comedy,Mystery
-96,Fullmetal Alchemist: The Sacred Star of Milos,Action,Adventure,Drama
-98,Pokemon Advanced Generation,Action,Adventure,Comedy
-1,Fullmetal Alchemist: Brotherhood,Action,Adventure,Drama
-3,Sword Art Online,Action,Adventure,Fantasy
-5,Tokyo Ghoul,Action,Fantasy,Horror
-6,Naruto,Action,Adventure,Fantasy
-8,Hunter x Hunter (2011),Action,Adventure,Fantasy
-11,Naruto: Shippuuden,Action,Adventure,Fantasy
-12,Code Geass: Hangyaku no Lelouch,Action,Drama,Sci-Fi
-16,One Piece,Action,Adventure,Fantasy
-20,Nanatsu no Taizai,Action,Adventure,Fantasy
-21,Mirai Nikki (TV),Action,Supernatural,Suspense
-22,Sword Art Online II,Action,Adventure,Fantasy
-24,Mob Psycho 100,Action,Comedy,Supernatural
-26,Bleach,Action,Adventure,Fantasy
-27,Kiseijuu: Sei no Kakuritsu,Action,Horror,Sci-Fi
-30,Tokyo Ghoul √A,Action,Fantasy,Horror
-31,Fairy Tail,Action,Adventure,Fantasy
-32,Code Geass: Hangyaku no Lelouch R2,Action,Drama,Sci-Fi
-33,Neon Genesis Evangelion,Action,AvantGarde,Drama
-34,Kill la Kill,Action,Comedy,Ecchi
-36,Soul Eater,Action,Comedy,Fantasy
-37,Psycho-Pass,Action,Sci-Fi,Suspense
-38,Tengen Toppa Gurren Lagann,Action,Adventure,Comedy
-40,Darling in the FranXX,Action,Drama,Romance
-41,JoJo no Kimyou na Bouken (TV),Action,Adventure,Supernatural
-42,Elfen Lied,Action,Drama,Horror
-43,Black Clover,Action,Comedy,Fantasy
-44,Overlord,Action,Adventure,Fantasy
-45,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,Action,Adventure,Comedy
-46,Fate/Zero,Action,Fantasy,Supernatural
-47,Highschool of the Dead,Action,Horror,Supernatural
-48,Tate no Yuusha no Nariagari,Action,Adventure,Drama
-49,Fullmetal Alchemist,Action,Adventure,Drama
-51,Durarara!!,Action,Mystery,Supernatural
-52,Mob Psycho 100 II,Action,Comedy,Supernatural
-55,Tensei shitara Slime Datta Ken,Action,Adventure,Comedy
-56,Owari no Seraph,Action,Drama,Supernatural
-57,Bungou Stray Dogs,Action,Comedy,Mystery
-58,Vinland Saga,Action,Adventure,Drama
-59,Deadman Wonderland,Action,Horror,Sci-Fi
-60,Guilty Crown,Action,Drama,Sci-Fi
-62,Samurai Champloo,Action,Adventure,Comedy
-63,Mononoke Hime,Action,Adventure,Fantasy
-64,Dragon Ball Z,Action,Adventure,Comedy
-65,Kuroshitsuji,Action,Comedy,Mystery
-66,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,Action,Adventure,Drama
-67,Dororo,Action,Adventure,Supernatural
-68,Tokyo Ghoul:re,Action,Fantasy,Horror
-69,Log Horizon,Action,Adventure,Fantasy
-70,Fate/Zero 2nd Season,Action,Fantasy,Supernatural
-71,Nanatsu no Taizai: Imashime no Fukkatsu,Action,Adventure,Fantasy
-72,Devilman: Crybaby,Action,AvantGarde,Horror
-73,Tokyo Revengers,Action,Drama,Supernatural
-75,Goblin Slayer,Action,Adventure,Fantasy
-76,Fate/stay night: Unlimited Blade Works,Action,Fantasy,Supernatural
-77,Mahouka Koukou no Rettousei,Action,Romance,Sci-Fi
-78,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,Action,Adventure,Comedy
-79,Gintama,Action,Comedy,Sci-Fi
-81,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,Action,Adventure,Drama
-82,Magi: The Labyrinth of Magic,Action,Adventure,Fantasy
-85,Sword Art Online: Alicization,Action,Adventure,Fantasy
-86,Fairy Tail (2014),Action,Adventure,Fantasy
-88,Overlord II,Action,Adventure,Fantasy
-89,Fate/stay night,Action,Fantasy,Romance
-90,Darker than Black: Kuro no Keiyakusha,Action,Mystery,Sci-Fi
-92,Black Bullet,Action,Mystery,Sci-Fi
-93,Rakudai Kishi no Cavalry,Action,Fantasy,Romance
-94,Baccano!,Action,Comedy,Mystery
-95,High School DxD New,Action,Comedy,Romance
-96,Hellsing Ultimate,Action,Horror,Supernatural
-99,Kami no Tou,Action,Adventure,Drama
-0,Kekkai Sensen,Action,Comedy,Fantasy
-1,The God of High School,Action,Fantasy,Sci-Fi
-2,Fate/stay night: Unlimited Blade Works 2nd Season,Action,Fantasy,Supernatural
-3,Magi: The Kingdom of Magic,Action,Adventure,Fantasy
-4,Overlord III,Action,Fantasy,Supernatural
-5,Boruto: Naruto Next Generations,Action,Adventure,Fantasy
-6,Trinity Seven,Action,Comedy,Fantasy
-7,Akatsuki no Yona,Action,Adventure,Comedy
-8,Tensei shitara Slime Datta Ken 2nd Season,Action,Adventure,Comedy
-9,Zero no Tsukaima,Action,Adventure,Comedy
-10,Tokyo Ghoul:re 2nd Season,Action,Fantasy,Horror
-12,Akira,Action,Adventure,Horror
-13,FLCL,Action,AvantGarde,Comedy
-14,Koutetsujou no Kabaneri,Action,Drama,Fantasy
-15,Banana Fish,Action,Adventure,Drama
-16,High School DxD BorN,Action,Comedy,Romance
-17,Dragon Ball Super,Action,Adventure,Comedy
-18,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri",Action,Adventure,Fantasy
-19,InuYasha,Action,Adventure,Comedy
-20,Bungou Stray Dogs 2nd Season,Action,Mystery,Supernatural
-21,K,Action,Mystery,Supernatural
-22,Owari no Seraph: Nagoya Kessen-hen,Action,Drama,Supernatural
-23,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,Action,Adventure,Comedy
-25,Accel World,Action,Romance,Sci-Fi
-26,Trigun,Action,Adventure,Comedy
-27,Hai to Gensou no Grimgar,Action,Adventure,Drama
-29,Sword Art Online Movie: Ordinal Scale,Action,Adventure,Fantasy
-30,Hellsing,Action,Horror,Supernatural
-31,Nanatsu no Taizai: Seisen no Shirushi,Action,Adventure,Fantasy
-32,Sword Art Online: Alicization - War of Underworld,Action,Adventure,Fantasy
-33,D.Gray-man,Action,Adventure,Comedy
-34,Nanatsu no Taizai: Kamigami no Gekirin,Action,Adventure,Fantasy
-36,Blood Lad,Action,Comedy,Supernatural
-40,Claymore,Action,Adventure,Fantasy
-41,Shinmai Maou no Testament,Action,Fantasy,Romance
-42,Yuu☆Yuu☆Hakusho,Action,Comedy,Supernatural
-43,Gakusen Toshi Asterisk,Action,Comedy,Fantasy
-44,Psycho-Pass 2,Action,Sci-Fi,Suspense
-45,Tate no Yuusha no Nariagari Season 2,Action,Adventure,Drama
-46,Strike the Blood,Action,Fantasy,Supernatural
-47,IS: Infinite Stratos,Action,Comedy,Sci-Fi
-48,Kore wa Zombie Desu ka?,Action,Comedy,Supernatural
-49,Rokka no Yuusha,Action,Adventure,Fantasy
-50,Arifureta Shokugyou de Sekai Saikyou,Action,Adventure,Fantasy
-51,Dragon Ball GT,Action,Adventure,Comedy
-52,Pokemon,Action,Adventure,Comedy
-53,Inuyashiki,Action,Drama,Sci-Fi
-54,Tensei shitara Slime Datta Ken 2nd Season Part 2,Action,Adventure,Comedy
-55,Log Horizon 2nd Season,Action,Adventure,Fantasy
-57,86,Action,Drama,Sci-Fi
-59,Zetsuen no Tempest,Action,Drama,Fantasy
-61,Kenpuu Denki Berserk,Action,Adventure,Drama
-62,Great Pretender,Action,Adventure,Mystery
-63,Beelzebub,Action,Comedy,Supernatural
-64,Gintama°,Action,Comedy,Sci-Fi
-65,Ajin,Action,Horror,Mystery
-66,Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,Action,Comedy,Fantasy
-67,Hunter x Hunter,Action,Adventure,Fantasy
-68,The Last: Naruto the Movie,Action,Adventure,Fantasy
-70,Kuroshitsuji II,Action,Comedy,Supernatural
-72,Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru,Action,Adventure,Comedy
-73,Katanagatari,Action,Adventure,Romance
-74,Sword Art Online: Alicization - War of Underworld 2nd Season,Action,Adventure,Fantasy
-75,Absolute Duo,Action,Romance,Supernatural
-76,Bungou Stray Dogs 3rd Season,Action,Mystery,Supernatural
-77,Shakugan no Shana,Action,Drama,Fantasy
-78,God Eater,Action,Fantasy,Sci-Fi
-79,Drifters,Action,Adventure,Comedy
-80,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2",Action,Adventure,Fantasy
-81,Evangelion: 1.0 You Are (Not) Alone,Action,Drama,Sci-Fi
-82,Kenja no Mago,Action,Comedy,Fantasy
-83,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III,Action,Adventure,Comedy
-84,Musaigen no Phantom World,Action,Comedy,Fantasy
-86,Gintama',Action,Comedy,Sci-Fi
-87,Ichiban Ushiro no Daimaou,Action,Comedy,Fantasy
-89,Evangelion: 2.0 You Can (Not) Advance,Action,Drama,Sci-Fi
-90,Darwin's Game,Action,Mystery,Sci-Fi
-91,Zero no Tsukaima: Futatsuki no Kishi,Action,Adventure,Comedy
-93,Sousei no Onmyouji,Action,Fantasy,Romance
-95,Full Metal Panic!,Action,Comedy,Sci-Fi
-98,Rurouni Kenshin: Meiji Kenkaku Romantan,Action,Adventure,Comedy
-99,Dorohedoro,Action,Comedy,Fantasy
-0,Tokyo Ravens,Action,Comedy,Romance
-1,Durarara!!x2 Shou,Action,Mystery,Supernatural
-3,Fairy Tail: Final Series,Action,Adventure,Fantasy
-4,High School DxD Hero,Action,Comedy,Romance
-5,Re:Creators,Action,Fantasy,Sci-Fi
-6,Magi: Sinbad no Bouken (TV),Action,Adventure,Fantasy
-7,Vivy: Fluorite Eye's Song,Action,Sci-Fi,Suspense
-8,Fate/Apocrypha,Action,Drama,Fantasy
-9,Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,Action,Adventure,Comedy
-11,Kaze no Stigma,Action,Romance,Supernatural
-12,Boruto: Naruto the Movie,Action,Adventure,Fantasy
-13,Zero no Tsukaima: Princesses no Rondo,Action,Adventure,Comedy
-14,Gleipnir,Action,Mystery,Supernatural
-17,Kizumonogatari III: Reiketsu-hen,Action,Mystery,Supernatural
-18,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,Action,Adventure,Fantasy
-19,No.6,Action,Drama,Mystery
-20,Kizumonogatari II: Nekketsu-hen,Action,Mystery,Supernatural
-21,Houseki no Kuni (TV),Action,Drama,Fantasy
-22,Fate/stay night Movie: Heaven's Feel - I. Presage Flower,Action,Fantasy,Supernatural
-23,Kara no Kyoukai Movie 1: Fukan Fuukei,Action,Mystery,Supernatural
-24,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",Action,Drama,Fantasy
-25,Darker than Black: Ryuusei no Gemini,Action,Mystery,Sci-Fi
-26,Kekkai Sensen & Beyond,Action,Comedy,Fantasy
-27,Evangelion: 3.0 You Can (Not) Redo,Action,Drama,Sci-Fi
-28,Hagure Yuusha no Aesthetica,Action,Fantasy,Ecchi
-29,Shingeki no Bahamut: Genesis,Action,Adventure,Fantasy
-30,Sekirei,Action,Comedy,Ecchi
-31,Digimon Adventure,Action,Adventure,Comedy
-32,World Trigger,Action,Sci-Fi,Supernatural
-34,Durarara!!x2 Ten,Action,Mystery,Supernatural
-35,Kuroshitsuji: Book of Circus,Action,Comedy,Mystery
-36,IS: Infinite Stratos 2,Action,Comedy,Sci-Fi
-37,Yu☆Gi☆Oh! Duel Monsters,Action,Adventure,Fantasy
-38,Kore wa Zombie Desu ka? of the Dead,Action,Comedy,Supernatural
-39,Shinmai Maou no Testament Burst,Action,Fantasy,Romance
-41,Saijaku Muhai no Bahamut,Action,Fantasy,Romance
-44,Nanatsu no Taizai: Fundo no Shinpan,Action,Adventure,Fantasy
-45,Hitsugi no Chaika,Action,Adventure,Comedy
-46,Blood+,Action,Drama,Horror
-47,Hidan no Aria,Action,Comedy,Romance
-48,Durarara!!x2 Ketsu,Action,Mystery,Supernatural
-49,Plunderer,Action,Fantasy,Ecchi
-50,Panty & Stocking with Garterbelt,Action,Comedy,Supernatural
-51,Arslan Senki (TV),Action,Adventure,Drama
-52,"Kumo Desu ga, Nani ka?",Action,Adventure,Comedy
-53,Dragon Ball Kai,Action,Adventure,Comedy
-54,Shaman King,Action,Adventure,Comedy
-59,Hundred,Action,Romance,Sci-Fi
-60,Seireitsukai no Blade Dance,Action,Comedy,Fantasy
-62,86 Part 2,Action,Drama,Sci-Fi
-66,Gantz,Action,Drama,Horror
-67,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,Action,Fantasy,Supernatural
-68,Blood-C,Action,Horror,Mystery
-69,Dragon Ball Super: Broly,Action,Adventure,Fantasy
-70,Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,Action,Horror,Mystery
-72,Berserk,Action,Adventure,Drama
-73,Kishuku Gakkou no Juliet,Action,Comedy,Romance
-76,Suisei no Gargantia,Action,Adventure,Sci-Fi
-78,Kemono Jihen,Action,Mystery,Supernatural
-79,B: The Beginning,Action,Mystery,Supernatural
-80,Phantom: Requiem for the Phantom,Action,Drama,Suspense
-81,Ore dake Haireru Kakushi Dungeon,Action,Adventure,Fantasy
-82,"Sentouin, Hakenshimasu!",Action,Comedy,Fantasy
-84,Code:Breaker,Action,Comedy,Supernatural
-85,Wolf's Rain,Action,Adventure,Drama
-86,Naruto: Shippuuden Movie 6 - Road to Ninja,Action,Adventure,Fantasy
-87,Ben-To,Action,Comedy,Gourmet
-89,Tales of Zestiria the Cross,Action,Adventure,Fantasy
-90,Seikon no Qwaser,Action,Supernatural,Ecchi
-91,Machine-Doll wa Kizutsukanai,Action,Fantasy,Ecchi
-92,Evangelion: 3.0+1.0 Thrice Upon a Time,Action,Drama,Sci-Fi
-93,Freezing,Action,Drama,Romance
-94,Mahouka Koukou no Rettousei: Raihousha-hen,Action,Romance,Sci-Fi
-95,Witch Craft Works,Action,Fantasy,Supernatural
-96,Genjitsu Shugi Yuusha no Oukoku Saikenki,Action,Fantasy,Romance
-97,Nanbaka,Action,Comedy,Drama
-99,Tsuki ga Michibiku Isekai Douchuu,Action,Adventure,Comedy
-0,Shakugan no Shana II (Second),Action,Drama,Fantasy
-1,Overlord IV,Action,Fantasy,Supernatural
-3,Fate/stay night: Unlimited Blade Works Prologue,Action,Fantasy,Supernatural
-4,Nejimaki Seirei Senki: Tenkyou no Alderamin,Action,Adventure,Fantasy
-6,Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,Action,Horror,Mystery
-8,Gintama': Enchousen,Action,Comedy,Sci-Fi
-10,C: The Money of Soul and Possibility Control,Action,Mystery,Suspense
-11,Taimadou Gakuen 35 Shiken Shoutai,Action,Fantasy,Romance
-12,Fate/stay night Movie: Heaven's Feel - III. Spring Song,Action,Fantasy,Supernatural
-13,Seiken Tsukai no World Break,Action,Fantasy,Romance
-14,Code Geass: Fukkatsu no Lelouch,Action,Drama,Sci-Fi
-16,Arifureta Shokugyou de Sekai Saikyou 2nd Season,Action,Adventure,Fantasy
-19,Kino no Tabi: The Beautiful World,Action,Adventure,SliceofLife
-20,Densetsu no Yuusha no Densetsu,Action,Adventure,Fantasy
-21,Grancrest Senki,Action,Drama,Fantasy
-22,Gintama.,Action,Comedy,Sci-Fi
-23,Isekai Cheat Magician,Action,Adventure,Fantasy
-25,Ajin Part 2,Action,Horror,Mystery
-26,Deca-Dence,Action,Adventure,Sci-Fi
-28,Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito,Action,Adventure,Fantasy
-29,Naruto: Shippuuden Movie 1,Action,Adventure,Fantasy
-30,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,Action,Adventure,Fantasy
-31,Seirei Gensouki,Action,Adventure,Drama
-32,Kämpfer,Action,Comedy,GirlsLove
-37,Taboo Tattoo,Action,Mystery,Supernatural
-38,Masou Gakuen HxH,Action,Comedy,Fantasy
-39,Tenkuu Shinpan,Action,Horror,Mystery
-40,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,Action,Drama,Romance
-41,InuYasha: Kanketsu-hen,Action,Adventure,Comedy
-42,Servamp,Action,Comedy,Drama
-43,Bleach Movie 1: Memories of Nobody,Action,Adventure,Fantasy
-44,Fate/kaleid liner Prisma☆Illya,Action,Comedy,Fantasy
-49,Persona 4 the Animation,Action,Adventure,Mystery
-52,Zero kara Hajimeru Mahou no Sho,Action,Adventure,Fantasy
-54,Darker than Black: Kuro no Keiyakusha Gaiden,Action,Mystery,Sci-Fi
-55,Princess Connect! Re:Dive,Action,Adventure,Comedy
-56,Pokemon Movie 01: Mewtwo no Gyakushuu,Action,Adventure,Comedy
-57,Fate/Grand Order: Zettai Majuu Sensen Babylonia,Action,Fantasy,Supernatural
-58,Naruto: Shippuuden Movie 2 - Kizuna,Action,Adventure,Fantasy
-59,One Piece Film: Z,Action,Adventure,Fantasy
-61,Devils Line,Action,Drama,Romance
-62,Tate no Yuusha no Nariagari Season 3,Action,Adventure,Drama
-63,100-man no Inochi no Ue ni Ore wa Tatteiru,Action,Drama,Fantasy
-64,Psycho-Pass 3,Action,Sci-Fi,Suspense
-65,Kuusen Madoushi Kouhosei no Kyoukan,Action,Drama,Fantasy
-67,"Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",Action,Fantasy,Romance
-69,Medaka Box,Action,Comedy,Ecchi
-70,"Tokyo Ghoul: ""Jack""",Action,Fantasy,Horror
-71,Persona 5 the Animation,Action,Fantasy,Supernatural
-73,Saihate no Paladin,Action,Adventure,Fantasy
-74,Naruto: Shippuuden Movie 4 - The Lost Tower,Action,Adventure,Fantasy
-75,Omamori Himari,Action,Comedy,Fantasy
-76,Ga-Rei: Zero,Action,Supernatural,Suspense
-77,11eyes,Action,Supernatural,Ecchi
-78,Shakugan no Shana III (Final),Action,Drama,Fantasy
-80,Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru,Action,Adventure,Fantasy
-82,Sekirei: Pure Engagement,Action,Comedy,Ecchi
-83,Bungou Stray Dogs: Dead Apple,Action,Comedy,Mystery
-84,Kuroshitsuji: Book of Murder,Action,Comedy,Mystery
-85,Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen),Action,Mystery,Romance
-86,Texhnolyze,Action,Drama,Sci-Fi
-87,Shingeki no Bahamut: Virgin Soul,Action,Adventure,Fantasy
-88,Goblin Slayer: Goblin's Crown,Action,Adventure,Fantasy
-89,Kara no Kyoukai Movie 5: Mujun Rasen,Action,Drama,Mystery
-90,Mob Psycho 100 III,Action,Comedy,Supernatural
-91,Yu☆Gi☆Oh!,Action,Comedy,Fantasy
-92,One Piece Film: Strong World,Action,Adventure,Fantasy
-94,Naruto: Shippuuden Movie 5 - Blood Prison,Action,Adventure,Fantasy
-96,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,Action,Adventure,Fantasy
-97,Kurenai no Buta,Action,Adventure,Comedy
-98,Tsubasa Chronicle,Action,Adventure,Fantasy
-99,Terra Formars,Action,Drama,Horror
-0,Chrno Crusade,Action,Romance,Supernatural
-1,Dance in the Vampire Bund,Action,Drama,Romance
-2,Pokemon: The Origin,Action,Adventure,Comedy
-3,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,Action,Comedy,Sci-Fi
-4,Hayate no Gotoku!,Action,Comedy,Romance
-5,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,Action,Adventure,Fantasy
-6,Tiger & Bunny,Action,Comedy,Mystery
-7,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,Action,Mystery,Sci-Fi
-8,Canaan,Action,Sci-Fi,Supernatural
-10,Kara no Kyoukai Movie 3: Tsuukaku Zanryuu,Action,Drama,Mystery
-11,Ushio to Tora (TV),Action,Adventure,Comedy
-12,Log Horizon: Entaku Houkai,Action,Adventure,Fantasy
-13,Digimon Adventure 02,Action,Adventure,Comedy
-14,Mobile Suit Gundam: Iron-Blooded Orphans,Action,Drama,Sci-Fi
-15,"Maou-sama, Retry!",Action,Adventure,Fantasy
-16,Fate/stay night Movie: Unlimited Blade Works,Action,Fantasy,Supernatural
-17,Kantai Collection: KanColle,Action,Sci-Fi,SliceofLife
-18,Mobile Suit Gundam 00,Action,Drama,Sci-Fi
-20,Karneval (TV),Action,Fantasy,Mystery
-21,Berserk: Ougon Jidai-hen I - Haou no Tamago,Action,Adventure,Fantasy
-22,Shuumatsu no Walküre,Action,Drama,Fantasy
-23,Seirei no Moribito,Action,Adventure,Fantasy
-27,Chrome Shelled Regios,Action,Adventure,Fantasy
-29,Kara no Kyoukai Movie 4: Garan no Dou,Action,Mystery,Supernatural
-31,Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara,Action,Comedy,Fantasy
-32,Fairy Tail Movie 1: Houou no Miko,Action,Adventure,Fantasy
-33,Berserk: Ougon Jidai-hen III - Kourin,Action,Adventure,Drama
-35,Sabikui Bisco,Action,Adventure,Fantasy
-37,Yu☆Gi☆Oh!: Duel Monsters GX,Action,Comedy,Fantasy
-38,Mo Dao Zu Shi,Action,Adventure,Fantasy
-41,Rewrite,Action,Comedy,Romance
-42,Dragon Ball Z Movie 14: Kami to Kami,Action,Adventure,Fantasy
-43,Arcana Famiglia,Action,Fantasy,Romance
-44,"Yuusha, Yamemasu",Action,Adventure,Comedy
-45,"Tokyo Ghoul: ""Pinto""",Action,Fantasy,Horror
-46,Soul Eater NOT!,Action,Comedy,Supernatural
-48,Tensei shitara Slime Datta Ken OVA,Action,Adventure,Comedy
-49,Rozen Maiden,Action,Comedy,Drama
-50,Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go),Action,Mystery,Romance
-51,Hitsugi no Chaika: Avenging Battle,Action,Adventure,Comedy
-52,Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!,Action,Adventure,Fantasy
-53,Fate/Grand Order: First Order,Action,Fantasy,Supernatural
-54,Bleach Movie 4: Jigoku-hen,Action,Adventure,Fantasy
-55,Berserk: Ougon Jidai-hen II - Doldrey Kouryaku,Action,Adventure,Drama
-57,Radiant,Action,Adventure,Fantasy
-58,Kill la Kill Specials,Action,Comedy,Ecchi
-59,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya,Action,Adventure,Comedy
-60,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen,Action,Adventure,Comedy
-61,Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono,Action,Adventure,Fantasy
-64,Isekai no Seikishi Monogatari,Action,Comedy,Fantasy
-66,Kino no Tabi: The Beautiful World - The Animated Series,Action,Adventure,SliceofLife
-67,UQ Holder!: Mahou Sensei Negima! 2,Action,Fantasy,Sci-Fi
-69,Gintama.: Shirogane no Tamashii-hen,Action,Comedy,Sci-Fi
-71,Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria,Action,Adventure,Fantasy
-73,Dog Days,Action,Adventure,Fantasy
-75,Strike the Blood II,Action,Fantasy,Supernatural
-76,Kara no Kyoukai Movie 6: Boukyaku Rokuon,Action,Mystery,Romance
-78,D.N.Angel,Action,Comedy,Fantasy
-80,Gunslinger Girl,Action,Drama,Sci-Fi
-81,Tenjou Tenge,Action,Comedy,Ecchi
-82,Gintama.: Porori-hen,Action,Comedy,Sci-Fi
-83,No Guns Life,Action,Drama,Sci-Fi
-84,One Piece Film: Gold,Action,Adventure,Fantasy
-85,Tsugumomo,Action,Comedy,Supernatural
-86,Hunter x Hunter Movie 1: Phantom Rouge,Action,Adventure,Fantasy
-87,Nanatsu no Taizai OVA,Action,Adventure,Fantasy
-89,Gungrave,Action,Drama,Sci-Fi
-91,Basilisk: Kouga Ninpou Chou,Action,Adventure,Fantasy
-92,Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2,Action,Fantasy,Romance
-93,Kyousou Giga (TV),Action,Fantasy,Supernatural
-94,Kuroshitsuji Movie: Book of the Atlantic,Action,Comedy,Mystery
-96,Fullmetal Alchemist: The Sacred Star of Milos,Action,Adventure,Drama
-98,Pokemon Advanced Generation,Action,Adventure,Comedy
-1,Fullmetal Alchemist: Brotherhood,Action,Adventure,Drama
-3,Sword Art Online,Action,Adventure,Fantasy
-5,Tokyo Ghoul,Action,Fantasy,Horror
-6,Naruto,Action,Adventure,Fantasy
-8,Hunter x Hunter (2011),Action,Adventure,Fantasy
-11,Naruto: Shippuuden,Action,Adventure,Fantasy
-12,Code Geass: Hangyaku no Lelouch,Action,Drama,Sci-Fi
-16,One Piece,Action,Adventure,Fantasy
-20,Nanatsu no Taizai,Action,Adventure,Fantasy
-21,Mirai Nikki (TV),Action,Supernatural,Suspense
-22,Sword Art Online II,Action,Adventure,Fantasy
-24,Mob Psycho 100,Action,Comedy,Supernatural
-26,Bleach,Action,Adventure,Fantasy
-27,Kiseijuu: Sei no Kakuritsu,Action,Horror,Sci-Fi
-30,Tokyo Ghoul √A,Action,Fantasy,Horror
-31,Fairy Tail,Action,Adventure,Fantasy
-32,Code Geass: Hangyaku no Lelouch R2,Action,Drama,Sci-Fi
-33,Neon Genesis Evangelion,Action,AvantGarde,Drama
-34,Kill la Kill,Action,Comedy,Ecchi
-36,Soul Eater,Action,Comedy,Fantasy
-37,Psycho-Pass,Action,Sci-Fi,Suspense
-38,Tengen Toppa Gurren Lagann,Action,Adventure,Comedy
-40,Darling in the FranXX,Action,Drama,Romance
-41,JoJo no Kimyou na Bouken (TV),Action,Adventure,Supernatural
-42,Elfen Lied,Action,Drama,Horror
-43,Black Clover,Action,Comedy,Fantasy
-44,Overlord,Action,Adventure,Fantasy
-45,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,Action,Adventure,Comedy
-46,Fate/Zero,Action,Fantasy,Supernatural
-47,Highschool of the Dead,Action,Horror,Supernatural
-48,Tate no Yuusha no Nariagari,Action,Adventure,Drama
-49,Fullmetal Alchemist,Action,Adventure,Drama
-51,Durarara!!,Action,Mystery,Supernatural
-52,Mob Psycho 100 II,Action,Comedy,Supernatural
-55,Tensei shitara Slime Datta Ken,Action,Adventure,Comedy
-56,Owari no Seraph,Action,Drama,Supernatural
-57,Bungou Stray Dogs,Action,Comedy,Mystery
-58,Vinland Saga,Action,Adventure,Drama
-59,Deadman Wonderland,Action,Horror,Sci-Fi
-60,Guilty Crown,Action,Drama,Sci-Fi
-62,Samurai Champloo,Action,Adventure,Comedy
-63,Mononoke Hime,Action,Adventure,Fantasy
-64,Dragon Ball Z,Action,Adventure,Comedy
-65,Kuroshitsuji,Action,Comedy,Mystery
-66,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,Action,Adventure,Drama
-67,Dororo,Action,Adventure,Supernatural
-68,Tokyo Ghoul:re,Action,Fantasy,Horror
-69,Log Horizon,Action,Adventure,Fantasy
-70,Fate/Zero 2nd Season,Action,Fantasy,Supernatural
-71,Nanatsu no Taizai: Imashime no Fukkatsu,Action,Adventure,Fantasy
-72,Devilman: Crybaby,Action,AvantGarde,Horror
-73,Tokyo Revengers,Action,Drama,Supernatural
-75,Goblin Slayer,Action,Adventure,Fantasy
-76,Fate/stay night: Unlimited Blade Works,Action,Fantasy,Supernatural
-77,Mahouka Koukou no Rettousei,Action,Romance,Sci-Fi
-78,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,Action,Adventure,Comedy
-79,Gintama,Action,Comedy,Sci-Fi
-81,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,Action,Adventure,Drama
-82,Magi: The Labyrinth of Magic,Action,Adventure,Fantasy
-85,Sword Art Online: Alicization,Action,Adventure,Fantasy
-86,Fairy Tail (2014),Action,Adventure,Fantasy
-88,Overlord II,Action,Adventure,Fantasy
-89,Fate/stay night,Action,Fantasy,Romance
-90,Darker than Black: Kuro no Keiyakusha,Action,Mystery,Sci-Fi
-92,Black Bullet,Action,Mystery,Sci-Fi
-93,Rakudai Kishi no Cavalry,Action,Fantasy,Romance
-94,Baccano!,Action,Comedy,Mystery
-95,High School DxD New,Action,Comedy,Romance
-96,Hellsing Ultimate,Action,Horror,Supernatural
-99,Kami no Tou,Action,Adventure,Drama
-0,Kekkai Sensen,Action,Comedy,Fantasy
-1,The God of High School,Action,Fantasy,Sci-Fi
-2,Fate/stay night: Unlimited Blade Works 2nd Season,Action,Fantasy,Supernatural
-3,Magi: The Kingdom of Magic,Action,Adventure,Fantasy
-4,Overlord III,Action,Fantasy,Supernatural
-5,Boruto: Naruto Next Generations,Action,Adventure,Fantasy
-6,Trinity Seven,Action,Comedy,Fantasy
-7,Akatsuki no Yona,Action,Adventure,Comedy
-8,Tensei shitara Slime Datta Ken 2nd Season,Action,Adventure,Comedy
-9,Zero no Tsukaima,Action,Adventure,Comedy
-10,Tokyo Ghoul:re 2nd Season,Action,Fantasy,Horror
-12,Akira,Action,Adventure,Horror
-13,FLCL,Action,AvantGarde,Comedy
-14,Koutetsujou no Kabaneri,Action,Drama,Fantasy
-15,Banana Fish,Action,Adventure,Drama
-16,High School DxD BorN,Action,Comedy,Romance
-17,Dragon Ball Super,Action,Adventure,Comedy
-18,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri",Action,Adventure,Fantasy
-19,InuYasha,Action,Adventure,Comedy
-20,Bungou Stray Dogs 2nd Season,Action,Mystery,Supernatural
-21,K,Action,Mystery,Supernatural
-22,Owari no Seraph: Nagoya Kessen-hen,Action,Drama,Supernatural
-23,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,Action,Adventure,Comedy
-25,Accel World,Action,Romance,Sci-Fi
-26,Trigun,Action,Adventure,Comedy
-27,Hai to Gensou no Grimgar,Action,Adventure,Drama
-29,Sword Art Online Movie: Ordinal Scale,Action,Adventure,Fantasy
-30,Hellsing,Action,Horror,Supernatural
-31,Nanatsu no Taizai: Seisen no Shirushi,Action,Adventure,Fantasy
-32,Sword Art Online: Alicization - War of Underworld,Action,Adventure,Fantasy
-33,D.Gray-man,Action,Adventure,Comedy
-34,Nanatsu no Taizai: Kamigami no Gekirin,Action,Adventure,Fantasy
-36,Blood Lad,Action,Comedy,Supernatural
-40,Claymore,Action,Adventure,Fantasy
-41,Shinmai Maou no Testament,Action,Fantasy,Romance
-42,Yuu☆Yuu☆Hakusho,Action,Comedy,Supernatural
-43,Gakusen Toshi Asterisk,Action,Comedy,Fantasy
-44,Psycho-Pass 2,Action,Sci-Fi,Suspense
-45,Tate no Yuusha no Nariagari Season 2,Action,Adventure,Drama
-46,Strike the Blood,Action,Fantasy,Supernatural
-47,IS: Infinite Stratos,Action,Comedy,Sci-Fi
-48,Kore wa Zombie Desu ka?,Action,Comedy,Supernatural
-49,Rokka no Yuusha,Action,Adventure,Fantasy
-50,Arifureta Shokugyou de Sekai Saikyou,Action,Adventure,Fantasy
-51,Dragon Ball GT,Action,Adventure,Comedy
-52,Pokemon,Action,Adventure,Comedy
-53,Inuyashiki,Action,Drama,Sci-Fi
-54,Tensei shitara Slime Datta Ken 2nd Season Part 2,Action,Adventure,Comedy
-55,Log Horizon 2nd Season,Action,Adventure,Fantasy
-57,86,Action,Drama,Sci-Fi
-59,Zetsuen no Tempest,Action,Drama,Fantasy
-61,Kenpuu Denki Berserk,Action,Adventure,Drama
-62,Great Pretender,Action,Adventure,Mystery
-63,Beelzebub,Action,Comedy,Supernatural
-64,Gintama°,Action,Comedy,Sci-Fi
-65,Ajin,Action,Horror,Mystery
-66,Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,Action,Comedy,Fantasy
-67,Hunter x Hunter,Action,Adventure,Fantasy
-68,The Last: Naruto the Movie,Action,Adventure,Fantasy
-70,Kuroshitsuji II,Action,Comedy,Supernatural
-72,Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru,Action,Adventure,Comedy
-73,Katanagatari,Action,Adventure,Romance
-74,Sword Art Online: Alicization - War of Underworld 2nd Season,Action,Adventure,Fantasy
-75,Absolute Duo,Action,Romance,Supernatural
-76,Bungou Stray Dogs 3rd Season,Action,Mystery,Supernatural
-77,Shakugan no Shana,Action,Drama,Fantasy
-78,God Eater,Action,Fantasy,Sci-Fi
-79,Drifters,Action,Adventure,Comedy
-80,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2",Action,Adventure,Fantasy
-81,Evangelion: 1.0 You Are (Not) Alone,Action,Drama,Sci-Fi
-82,Kenja no Mago,Action,Comedy,Fantasy
-83,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III,Action,Adventure,Comedy
-84,Musaigen no Phantom World,Action,Comedy,Fantasy
-86,Gintama',Action,Comedy,Sci-Fi
-87,Ichiban Ushiro no Daimaou,Action,Comedy,Fantasy
-89,Evangelion: 2.0 You Can (Not) Advance,Action,Drama,Sci-Fi
-90,Darwin's Game,Action,Mystery,Sci-Fi
-91,Zero no Tsukaima: Futatsuki no Kishi,Action,Adventure,Comedy
-93,Sousei no Onmyouji,Action,Fantasy,Romance
-95,Full Metal Panic!,Action,Comedy,Sci-Fi
-98,Rurouni Kenshin: Meiji Kenkaku Romantan,Action,Adventure,Comedy
-99,Dorohedoro,Action,Comedy,Fantasy
-0,Tokyo Ravens,Action,Comedy,Romance
-1,Durarara!!x2 Shou,Action,Mystery,Supernatural
-3,Fairy Tail: Final Series,Action,Adventure,Fantasy
-4,High School DxD Hero,Action,Comedy,Romance
-5,Re:Creators,Action,Fantasy,Sci-Fi
-6,Magi: Sinbad no Bouken (TV),Action,Adventure,Fantasy
-7,Vivy: Fluorite Eye's Song,Action,Sci-Fi,Suspense
-8,Fate/Apocrypha,Action,Drama,Fantasy
-9,Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,Action,Adventure,Comedy
-11,Kaze no Stigma,Action,Romance,Supernatural
-12,Boruto: Naruto the Movie,Action,Adventure,Fantasy
-13,Zero no Tsukaima: Princesses no Rondo,Action,Adventure,Comedy
-14,Gleipnir,Action,Mystery,Supernatural
-17,Kizumonogatari III: Reiketsu-hen,Action,Mystery,Supernatural
-18,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,Action,Adventure,Fantasy
-19,No.6,Action,Drama,Mystery
-20,Kizumonogatari II: Nekketsu-hen,Action,Mystery,Supernatural
-21,Houseki no Kuni (TV),Action,Drama,Fantasy
-22,Fate/stay night Movie: Heaven's Feel - I. Presage Flower,Action,Fantasy,Supernatural
-23,Kara no Kyoukai Movie 1: Fukan Fuukei,Action,Mystery,Supernatural
-24,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",Action,Drama,Fantasy
-25,Darker than Black: Ryuusei no Gemini,Action,Mystery,Sci-Fi
-26,Kekkai Sensen & Beyond,Action,Comedy,Fantasy
-27,Evangelion: 3.0 You Can (Not) Redo,Action,Drama,Sci-Fi
-28,Hagure Yuusha no Aesthetica,Action,Fantasy,Ecchi
-29,Shingeki no Bahamut: Genesis,Action,Adventure,Fantasy
-30,Sekirei,Action,Comedy,Ecchi
-31,Digimon Adventure,Action,Adventure,Comedy
-32,World Trigger,Action,Sci-Fi,Supernatural
-34,Durarara!!x2 Ten,Action,Mystery,Supernatural
-35,Kuroshitsuji: Book of Circus,Action,Comedy,Mystery
-36,IS: Infinite Stratos 2,Action,Comedy,Sci-Fi
-37,Yu☆Gi☆Oh! Duel Monsters,Action,Adventure,Fantasy
-38,Kore wa Zombie Desu ka? of the Dead,Action,Comedy,Supernatural
-39,Shinmai Maou no Testament Burst,Action,Fantasy,Romance
-41,Saijaku Muhai no Bahamut,Action,Fantasy,Romance
-44,Nanatsu no Taizai: Fundo no Shinpan,Action,Adventure,Fantasy
-45,Hitsugi no Chaika,Action,Adventure,Comedy
-46,Blood+,Action,Drama,Horror
-47,Hidan no Aria,Action,Comedy,Romance
-48,Durarara!!x2 Ketsu,Action,Mystery,Supernatural
-49,Plunderer,Action,Fantasy,Ecchi
-50,Panty & Stocking with Garterbelt,Action,Comedy,Supernatural
-51,Arslan Senki (TV),Action,Adventure,Drama
-52,"Kumo Desu ga, Nani ka?",Action,Adventure,Comedy
-53,Dragon Ball Kai,Action,Adventure,Comedy
-54,Shaman King,Action,Adventure,Comedy
-59,Hundred,Action,Romance,Sci-Fi
-60,Seireitsukai no Blade Dance,Action,Comedy,Fantasy
-62,86 Part 2,Action,Drama,Sci-Fi
-66,Gantz,Action,Drama,Horror
-67,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,Action,Fantasy,Supernatural
-68,Blood-C,Action,Horror,Mystery
-69,Dragon Ball Super: Broly,Action,Adventure,Fantasy
-70,Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,Action,Horror,Mystery
-72,Berserk,Action,Adventure,Drama
-73,Kishuku Gakkou no Juliet,Action,Comedy,Romance
-76,Suisei no Gargantia,Action,Adventure,Sci-Fi
-78,Kemono Jihen,Action,Mystery,Supernatural
-79,B: The Beginning,Action,Mystery,Supernatural
-80,Phantom: Requiem for the Phantom,Action,Drama,Suspense
-81,Ore dake Haireru Kakushi Dungeon,Action,Adventure,Fantasy
-82,"Sentouin, Hakenshimasu!",Action,Comedy,Fantasy
-84,Code:Breaker,Action,Comedy,Supernatural
-85,Wolf's Rain,Action,Adventure,Drama
-86,Naruto: Shippuuden Movie 6 - Road to Ninja,Action,Adventure,Fantasy
-87,Ben-To,Action,Comedy,Gourmet
-89,Tales of Zestiria the Cross,Action,Adventure,Fantasy
-90,Seikon no Qwaser,Action,Supernatural,Ecchi
-91,Machine-Doll wa Kizutsukanai,Action,Fantasy,Ecchi
-92,Evangelion: 3.0+1.0 Thrice Upon a Time,Action,Drama,Sci-Fi
-93,Freezing,Action,Drama,Romance
-94,Mahouka Koukou no Rettousei: Raihousha-hen,Action,Romance,Sci-Fi
-95,Witch Craft Works,Action,Fantasy,Supernatural
-96,Genjitsu Shugi Yuusha no Oukoku Saikenki,Action,Fantasy,Romance
-97,Nanbaka,Action,Comedy,Drama
-99,Tsuki ga Michibiku Isekai Douchuu,Action,Adventure,Comedy
-0,Shakugan no Shana II (Second),Action,Drama,Fantasy
-1,Overlord IV,Action,Fantasy,Supernatural
-3,Fate/stay night: Unlimited Blade Works Prologue,Action,Fantasy,Supernatural
-4,Nejimaki Seirei Senki: Tenkyou no Alderamin,Action,Adventure,Fantasy
-6,Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,Action,Horror,Mystery
-8,Gintama': Enchousen,Action,Comedy,Sci-Fi
-10,C: The Money of Soul and Possibility Control,Action,Mystery,Suspense
-11,Taimadou Gakuen 35 Shiken Shoutai,Action,Fantasy,Romance
-12,Fate/stay night Movie: Heaven's Feel - III. Spring Song,Action,Fantasy,Supernatural
-13,Seiken Tsukai no World Break,Action,Fantasy,Romance
-14,Code Geass: Fukkatsu no Lelouch,Action,Drama,Sci-Fi
-16,Arifureta Shokugyou de Sekai Saikyou 2nd Season,Action,Adventure,Fantasy
-19,Kino no Tabi: The Beautiful World,Action,Adventure,SliceofLife
-20,Densetsu no Yuusha no Densetsu,Action,Adventure,Fantasy
-21,Grancrest Senki,Action,Drama,Fantasy
-22,Gintama.,Action,Comedy,Sci-Fi
-23,Isekai Cheat Magician,Action,Adventure,Fantasy
-25,Ajin Part 2,Action,Horror,Mystery
-26,Deca-Dence,Action,Adventure,Sci-Fi
-28,Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito,Action,Adventure,Fantasy
-29,Naruto: Shippuuden Movie 1,Action,Adventure,Fantasy
-30,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,Action,Adventure,Fantasy
-31,Seirei Gensouki,Action,Adventure,Drama
-32,Kämpfer,Action,Comedy,GirlsLove
-37,Taboo Tattoo,Action,Mystery,Supernatural
-38,Masou Gakuen HxH,Action,Comedy,Fantasy
-39,Tenkuu Shinpan,Action,Horror,Mystery
-40,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,Action,Drama,Romance
-41,InuYasha: Kanketsu-hen,Action,Adventure,Comedy
-42,Servamp,Action,Comedy,Drama
-43,Bleach Movie 1: Memories of Nobody,Action,Adventure,Fantasy
-44,Fate/kaleid liner Prisma☆Illya,Action,Comedy,Fantasy
-49,Persona 4 the Animation,Action,Adventure,Mystery
-52,Zero kara Hajimeru Mahou no Sho,Action,Adventure,Fantasy
-54,Darker than Black: Kuro no Keiyakusha Gaiden,Action,Mystery,Sci-Fi
-55,Princess Connect! Re:Dive,Action,Adventure,Comedy
-56,Pokemon Movie 01: Mewtwo no Gyakushuu,Action,Adventure,Comedy
-57,Fate/Grand Order: Zettai Majuu Sensen Babylonia,Action,Fantasy,Supernatural
-58,Naruto: Shippuuden Movie 2 - Kizuna,Action,Adventure,Fantasy
-59,One Piece Film: Z,Action,Adventure,Fantasy
-61,Devils Line,Action,Drama,Romance
-62,Tate no Yuusha no Nariagari Season 3,Action,Adventure,Drama
-63,100-man no Inochi no Ue ni Ore wa Tatteiru,Action,Drama,Fantasy
-64,Psycho-Pass 3,Action,Sci-Fi,Suspense
-65,Kuusen Madoushi Kouhosei no Kyoukan,Action,Drama,Fantasy
-67,"Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",Action,Fantasy,Romance
-69,Medaka Box,Action,Comedy,Ecchi
-70,"Tokyo Ghoul: ""Jack""",Action,Fantasy,Horror
-71,Persona 5 the Animation,Action,Fantasy,Supernatural
-73,Saihate no Paladin,Action,Adventure,Fantasy
-74,Naruto: Shippuuden Movie 4 - The Lost Tower,Action,Adventure,Fantasy
-75,Omamori Himari,Action,Comedy,Fantasy
-76,Ga-Rei: Zero,Action,Supernatural,Suspense
-77,11eyes,Action,Supernatural,Ecchi
-78,Shakugan no Shana III (Final),Action,Drama,Fantasy
-80,Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru,Action,Adventure,Fantasy
-82,Sekirei: Pure Engagement,Action,Comedy,Ecchi
-83,Bungou Stray Dogs: Dead Apple,Action,Comedy,Mystery
-84,Kuroshitsuji: Book of Murder,Action,Comedy,Mystery
-85,Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen),Action,Mystery,Romance
-86,Texhnolyze,Action,Drama,Sci-Fi
-87,Shingeki no Bahamut: Virgin Soul,Action,Adventure,Fantasy
-88,Goblin Slayer: Goblin's Crown,Action,Adventure,Fantasy
-89,Kara no Kyoukai Movie 5: Mujun Rasen,Action,Drama,Mystery
-90,Mob Psycho 100 III,Action,Comedy,Supernatural
-91,Yu☆Gi☆Oh!,Action,Comedy,Fantasy
-92,One Piece Film: Strong World,Action,Adventure,Fantasy
-94,Naruto: Shippuuden Movie 5 - Blood Prison,Action,Adventure,Fantasy
-96,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,Action,Adventure,Fantasy
-97,Kurenai no Buta,Action,Adventure,Comedy
-98,Tsubasa Chronicle,Action,Adventure,Fantasy
-99,Terra Formars,Action,Drama,Horror
-0,Chrno Crusade,Action,Romance,Supernatural
-1,Dance in the Vampire Bund,Action,Drama,Romance
-2,Pokemon: The Origin,Action,Adventure,Comedy
-3,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,Action,Comedy,Sci-Fi
-4,Hayate no Gotoku!,Action,Comedy,Romance
-5,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,Action,Adventure,Fantasy
-6,Tiger & Bunny,Action,Comedy,Mystery
-7,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,Action,Mystery,Sci-Fi
-8,Canaan,Action,Sci-Fi,Supernatural
-10,Kara no Kyoukai Movie 3: Tsuukaku Zanryuu,Action,Drama,Mystery
-11,Ushio to Tora (TV),Action,Adventure,Comedy
-12,Log Horizon: Entaku Houkai,Action,Adventure,Fantasy
-13,Digimon Adventure 02,Action,Adventure,Comedy
-14,Mobile Suit Gundam: Iron-Blooded Orphans,Action,Drama,Sci-Fi
-15,"Maou-sama, Retry!",Action,Adventure,Fantasy
-16,Fate/stay night Movie: Unlimited Blade Works,Action,Fantasy,Supernatural
-17,Kantai Collection: KanColle,Action,Sci-Fi,SliceofLife
-18,Mobile Suit Gundam 00,Action,Drama,Sci-Fi
-20,Karneval (TV),Action,Fantasy,Mystery
-21,Berserk: Ougon Jidai-hen I - Haou no Tamago,Action,Adventure,Fantasy
-22,Shuumatsu no Walküre,Action,Drama,Fantasy
-23,Seirei no Moribito,Action,Adventure,Fantasy
-27,Chrome Shelled Regios,Action,Adventure,Fantasy
-29,Kara no Kyoukai Movie 4: Garan no Dou,Action,Mystery,Supernatural
-31,Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara,Action,Comedy,Fantasy
-32,Fairy Tail Movie 1: Houou no Miko,Action,Adventure,Fantasy
-33,Berserk: Ougon Jidai-hen III - Kourin,Action,Adventure,Drama
-35,Sabikui Bisco,Action,Adventure,Fantasy
-37,Yu☆Gi☆Oh!: Duel Monsters GX,Action,Comedy,Fantasy
-38,Mo Dao Zu Shi,Action,Adventure,Fantasy
-41,Rewrite,Action,Comedy,Romance
-42,Dragon Ball Z Movie 14: Kami to Kami,Action,Adventure,Fantasy
-43,Arcana Famiglia,Action,Fantasy,Romance
-44,"Yuusha, Yamemasu",Action,Adventure,Comedy
-45,"Tokyo Ghoul: ""Pinto""",Action,Fantasy,Horror
-46,Soul Eater NOT!,Action,Comedy,Supernatural
-48,Tensei shitara Slime Datta Ken OVA,Action,Adventure,Comedy
-49,Rozen Maiden,Action,Comedy,Drama
-50,Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go),Action,Mystery,Romance
-51,Hitsugi no Chaika: Avenging Battle,Action,Adventure,Comedy
-52,Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!,Action,Adventure,Fantasy
-53,Fate/Grand Order: First Order,Action,Fantasy,Supernatural
-54,Bleach Movie 4: Jigoku-hen,Action,Adventure,Fantasy
-55,Berserk: Ougon Jidai-hen II - Doldrey Kouryaku,Action,Adventure,Drama
-57,Radiant,Action,Adventure,Fantasy
-58,Kill la Kill Specials,Action,Comedy,Ecchi
-59,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya,Action,Adventure,Comedy
-60,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen,Action,Adventure,Comedy
-61,Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono,Action,Adventure,Fantasy
-64,Isekai no Seikishi Monogatari,Action,Comedy,Fantasy
-66,Kino no Tabi: The Beautiful World - The Animated Series,Action,Adventure,SliceofLife
-67,UQ Holder!: Mahou Sensei Negima! 2,Action,Fantasy,Sci-Fi
-69,Gintama.: Shirogane no Tamashii-hen,Action,Comedy,Sci-Fi
-71,Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria,Action,Adventure,Fantasy
-73,Dog Days,Action,Adventure,Fantasy
-75,Strike the Blood II,Action,Fantasy,Supernatural
-76,Kara no Kyoukai Movie 6: Boukyaku Rokuon,Action,Mystery,Romance
-78,D.N.Angel,Action,Comedy,Fantasy
-80,Gunslinger Girl,Action,Drama,Sci-Fi
-81,Tenjou Tenge,Action,Comedy,Ecchi
-82,Gintama.: Porori-hen,Action,Comedy,Sci-Fi
-83,No Guns Life,Action,Drama,Sci-Fi
-84,One Piece Film: Gold,Action,Adventure,Fantasy
-85,Tsugumomo,Action,Comedy,Supernatural
-86,Hunter x Hunter Movie 1: Phantom Rouge,Action,Adventure,Fantasy
-87,Nanatsu no Taizai OVA,Action,Adventure,Fantasy
-89,Gungrave,Action,Drama,Sci-Fi
-91,Basilisk: Kouga Ninpou Chou,Action,Adventure,Fantasy
-92,Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2,Action,Fantasy,Romance
-93,Kyousou Giga (TV),Action,Fantasy,Supernatural
-94,Kuroshitsuji Movie: Book of the Atlantic,Action,Comedy,Mystery
-96,Fullmetal Alchemist: The Sacred Star of Milos,Action,Adventure,Drama
-98,Pokemon Advanced Generation,Action,Adventure,Comedy
+54,Higurashi no Naku Koro ni Rei,Mystery,Supernatural,Suspense
+55,Another: The Other - Inga,Horror,Mystery,Suspense
+56,Kara no Kyoukai Movie 6: Boukyaku Rokuon,Action,Mystery,Romance
+58,Higashi no Eden Movie I: The King of Eden,Mystery,Romance,Sci-Fi
+59,Mahou Shoujo Ikusei Keikaku,Action,Fantasy,Supernatural
+62,Higashi no Eden Movie II: Paradise Lost,Mystery,Romance,Sci-Fi
+65,Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaimono,Action,Horror,Mystery
+66,Higurashi no Naku Koro ni Sotsu,AvantGarde,Horror,Mystery
+67,Shigofumi,Drama,Fantasy,Supernatural
+68,B: The Beginning Succession,Action,Mystery,Supernatural
+69,Ibara no Ou,Action,Mystery,Sci-Fi
+70,Shiki Specials,Horror,Mystery,Supernatural
+71,Higurashi no Naku Koro ni Kaku: Outbreak,Horror,Mystery,Suspense
+72,Mouryou no Hako,Mystery,Supernatural,Suspense
+74,Under the Dog,Action,Sci-Fi,Suspense
+75,Super Crooks,Action,Drama,Suspense
+76,Imawa no Kuni no Alice,Action,Supernatural,Suspense
+77,Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten,Drama,Mystery,Suspense
+78,Yakusoku no Neverland 2nd Season: Michishirube,Mystery,Sci-Fi,Suspense
+79,Dr. Stone: Stone Wars - Kaisen Zenya Special Eizou,Adventure,Sci-Fi,Suspense
+81,Kara no Kyoukai Remix: Gate of Seventh Heaven,Action,Mystery,Romance
+82,Golgo 13 (TV),Action,Adventure,Drama
+83,Black Jack,Drama,Mystery,Suspense
+85,Higashi no Eden: Air Communication,Mystery,Romance,Sci-Fi
+87,Kagewani,Horror,Mystery,Supernatural
+88,Fantastic Children,Adventure,Fantasy,Mystery
+89,Shion no Ou,Drama,Mystery,Suspense
+91,Arve Rezzle: Kikaijikake no Yousei-tachi,Action,Drama,Mystery
+96,Kagewani: Shou,Horror,Mystery,Supernatural
+97,Sentou Yousei Yukikaze,Action,Drama,Sci-Fi
+98,Loups=Garous,Mystery,Sci-Fi,Suspense
+0,Vivy: Fluorite Eye's Song - To Make Everyone Happy With My Singing,Action,Sci-Fi,Suspense
+1,Yojouhan Time Machine Blues,Comedy,Mystery,Romance
+2,Shigofumi: Sore kara,Drama,Fantasy,Suspense
+3,AD Police,Adventure,Horror,Mystery
+4,Aru Zombie Shoujo no Sainan (ONA),Action,Horror,Supernatural
+5,Psycho-Pass Movie: Providence,Action,Mystery,Sci-Fi
+6,Yuugo: Koushounin,Action,Drama,Mystery
+7,Karakurizoushi Ayatsuri Sakon,Horror,Mystery,Suspense
+8,Monster Extra: Hottan,Drama,Mystery,Suspense
+9,Biohazard 4: Incubate,Action,Horror,Mystery
+11,Koroshiya-san: The Hired Gun,Action,Comedy,Suspense
+12,Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto,Mystery,Supernatural,Suspense
+14,Duan Nao,Mystery,Sci-Fi,Suspense
+15,Mo Ri Shu Guang,Action,BoysLove,Horror
+16,Collar x Malice,Mystery,Romance,Suspense
+17,Sanctuary,Action,Drama,Suspense
+18,Ninja Ryuukenden,Action,Sci-Fi,Supernatural
+20,Shuranosuke Zanmaken: Shikamamon no Otoko,Action,Supernatural,Suspense
+21,Ling Long: Incarnation,Action,Drama,Horror
+25,Bloody Night,Horror,Supernatural,Suspense
+26,Chainsaw Bunny,Comedy,Horror,Supernatural
+27,Zhongguo Jingqi Xiansheng,Comedy,Supernatural,Suspense
+28,Xue Se Cang Qiong,Action,Adventure,Fantasy
+29,Meisou! Underworld,Action,Supernatural,Suspense
+30,Dead Girl Trailer,Horror,Supernatural,Suspense
+31,Osiris no Tenbin,Drama,Supernatural,Suspense
+32,Min Diao Ju Yi Wen Lu,Action,Adventure,Supernatural
+34,Kizuoibito,Action,Adventure,Suspense
+35,Monster Special Edition,Drama,Mystery,Suspense
+36,Chainsaw Maid Episode 0,Comedy,Horror,Supernatural
+37,Ling Long: Incarnation Part 2,Action,Drama,Horror
+38,Na Bbeun Sang Sa,Drama,Romance,SliceofLife
+40,Tomoe ga Yuku!,Action,Drama,Romance
+41,Akuma-kun (ONA),Horror,Supernatural,Suspense
+42,Ling Long: Incarnation Middle Chapter,Action,Drama,Horror
+44,Ling Long: Incarnation Final Chapter,Action,Drama,Horror
+45,Chainsaw Bunny: Deleted Scene,Horror,Supernatural,Suspense
+47,Junk Head,Action,Adventure,Comedy
+51,Ling Long: Incarnation Special,Action,Drama,Horror
+55,Osiris no Tenbin: Season 2,Drama,Supernatural,Suspense
+56,Shin Gakkou no Yuurei,Horror,Supernatural,Suspense
+60,Don't Cry (Movie),Action,Sci-Fi,Suspense
+64,Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow Announcement,Comedy,Fantasy,Suspense
+78,Ori no Naka no Soloist PV,Action,Drama,Suspense
+7,Ben-To,Action,Comedy,Gourmet
+8,Amaama to Inazuma,Comedy,Gourmet,SliceofLife
+9,Isekai Shokudou,Fantasy,Gourmet,SliceofLife
+10,Osake wa Fuufu ni Natte kara,Comedy,Gourmet,Romance
+14,Kakuriyo no Yadomeshi,Drama,Gourmet,Romance
+15,Toriko,Action,Adventure,Comedy
+16,Emiya-san Chi no Kyou no Gohan,Comedy,Gourmet,SliceofLife
+19,Bartender,Drama,Gourmet,SliceofLife
+20,Koufuku Graffiti,Comedy,Gourmet,SliceofLife
+22,Isekai Shokudou 2,Fantasy,Gourmet,SliceofLife
+23,Moyashimon,Comedy,Gourmet,Supernatural
+24,Naruto: Shippuuden - Sunny Side Battle,Comedy,Fantasy,Gourmet
+25,Ramen Daisuki Koizumi-san,Comedy,Gourmet,SliceofLife
+26,Bonjour♪Koiaji Pâtisserie,Gourmet,Romance,SliceofLife
+27,Takunomi.,Comedy,Gourmet,SliceofLife
+28,Ristorante Paradiso,Drama,Gourmet,Romance
+31,Seiyou Kottou Yougashiten: Antique,BoysLove,Comedy,Gourmet
+33,Pan de Peace!,Comedy,Gourmet,SliceofLife
+35,Osake wa Fuufu ni Natte kara: Yuzu Atsukan,Comedy,Gourmet,Romance
+37,Moyashimon Returns,Comedy,Gourmet,Supernatural
+38,Meng Qi Shi Shen,Comedy,Drama,Gourmet
+40,Chuuka Ichiban!,Action,Comedy,Drama
+41,Piace: Watashi no Italian,Comedy,Gourmet,SliceofLife
+42,Maiko-san Chi no Makanai-san,Comedy,Gourmet,SliceofLife
+46,Kirakira☆Precure A La Mode,Action,Fantasy,Gourmet
+49,Nu Wushen de Canzhuo,Comedy,Gourmet,SliceofLife
+51,Toriko: Jump Super Anime Tour 2009 Special,Action,Adventure,Comedy
+52,Toriko 3D: Kaimaku Gourmet Adventure!!,Action,Adventure,Comedy
+54,Nu Wushen de Canzhuo II,Comedy,Gourmet,SliceofLife
+56,Kakutou Ryouri Densetsu Bistro Recipe,Adventure,Comedy,Fantasy
+57,Meng Qi Shi Shen: Zaijie Liangyuan,Adventure,Comedy,Drama
+59,Crayon Shin-chan Movie 21: Bakauma! B-Kyuu Gourmet Survival Battle!!,Adventure,Comedy,Gourmet
+61,Dae Jang Geum: Jang Geum's Dream,Adventure,Comedy,Gourmet
+62,Hitorigurashi no Shougakusei,Comedy,Gourmet,SliceofLife
+64,Toriko: Barbarian Ivy wo Hokaku Seyo!,Action,Adventure,Comedy
+65,Oishinbo,Comedy,Gourmet,SliceofLife
+66,Hakata Mentai! Pirikarako-chan,Comedy,Gourmet,SliceofLife
+67,Dungeon Meshi,Comedy,Fantasy,Gourmet
+71,Doamaiger D,Action,Comedy,Gourmet
+72,Dae Jang Geum: Jang Geum's Dream 2,Adventure,Comedy,Gourmet
+75,Kung Fu Liaoli Niang,Action,Fantasy,Gourmet
+77,Meng Qi Shi Shen: Huanxi Zhui Hun,Comedy,Drama,Gourmet
+78,"Eikoku Ikka, Nihon wo Taberu",Comedy,Gourmet,SliceofLife
+85,Oishinbo: Nichibei Kome Sensou,Comedy,Gourmet,SliceofLife
+87,"Oishinbo: Kyuukyoku tai Shikou, Chouju Ryouri Taiketsu!!",Comedy,Gourmet,SliceofLife
+91,Okashi na Tensei,Fantasy,Gourmet,SliceofLife
+97,Dosukoi Sushi Zumou,Comedy,Gourmet,Sports
+99,Oh! My Konbu,Comedy,Gourmet,SliceofLife
+0,"Eikoku Ikka, Nihon wo Taberu: English Ikka, Shougatsu wo Taberu",Comedy,Gourmet,SliceofLife
+10,Mini Moni the Movie: Okashi na Daibouken!,Adventure,Fantasy,Gourmet

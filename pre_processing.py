@@ -24,14 +24,14 @@ def assign_Genre_values(df):
 
 def construct_proper_dataframe():
     df=pd.read_csv('Dataset.csv')
-    df.columns=['S.N','Movie','P_Genre','S_Genre','T_Genre']
-    df['Movie']=df['Movie'].str.lower()
+    df.columns=['S.N','Anime','P_Genre','S_Genre','T_Genre']
+    df['Anime']=df['Anime'].str.lower()
 
     #Now Lets remove the duplicaes with df.drop_duplicates
-    df.drop_duplicates(subset ="Movie",keep='first',inplace=True)
+    df.drop_duplicates(subset ="Anime",keep='first',inplace=True)
 
     #Lets remove double space between words
-    df['Movie']=df['Movie'].str.replace("  "," ")
+    df['Anime']=df['Anime'].str.replace("  "," ")
     #dropping irrelevant parts of the dataframe.
     df=df.drop(['S.N'],axis=1)
     df=df.reset_index(inplace=False)
@@ -48,5 +48,5 @@ def pre_process_all():
     return df
 
 
-#This is for testing purpose comment the function call whn not using
-#pre_process_all()
+# This is for testing purpose comment the function call when not using
+# pre_process_all()

@@ -7,12 +7,12 @@ def clean_t_dataset():
     except:
         pass
 
-def get_movie_name():
-    input_movie = input("Enter the movie name: ")
-    movies = clustering_code.cluster_everything(input_movie)
-    if type(movies) == int:#for return 0
+def get_anime_name():
+    input_anime = input("Enter the Anime name: ")
+    animes = clustering_code.cluster_everything(input_anime)
+    if type(animes) == int:#for return 0
         pass
     else:
-        print(movies)
+        print(animes)
 
-get_movie_name()
+get_anime_name()

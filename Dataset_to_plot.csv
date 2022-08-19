@@ -1,382 +1,1001 @@
-,index,Movie,P_Genre,S_Genre,T_Genre,Cluster_Id
-0,0,the sea beast,4,0,12,3
-1,1,minions: the rise of gru,4,0,12,3
-2,2,everything everywhere all at once,7,0,12,26
-3,3,sing 2,4,0,12,3
-4,4,barbie,0,10,16,35
-5,5,thor: ragnarok,7,0,12,26
-6,6,bodies bodies bodies,5,15,11,42
-7,7,hustle,5,5,13,32
-8,8,the bob's burgers movie,4,0,12,3
-9,9,the munsters,5,1,16,30
-10,10,the lost city,7,0,12,26
-11,11,the bad guys,4,0,12,3
-12,12,the unbearable weight of massive talent,7,10,3,67
-13,13,paws of fury: the legend of hank,4,13,12,41
-14,14,day shift,7,10,16,33
-15,15,the wolf of wall street,6,10,3,90
-16,16,ghostbusters: afterlife,0,10,16,35
-17,17,dc league of super-pets,4,13,0,6
-18,18,free guy,7,0,12,26
-19,19,coda,5,5,2,2
-20,20,sonic the hedgehog 2,7,0,12,26
-21,21,"hello, goodbye and everything in between",5,5,6,17
-22,22,father of the bride,5,5,6,17
-23,23,luck,4,0,12,3
-24,24,minions,4,0,12,3
-25,25,jerry & marge go large,6,10,5,72
-26,26,licorice pizza,5,5,6,17
-27,27,guardians of the galaxy,7,0,12,26
-28,28,the goonies,0,10,1,28
-29,29,marcel the shell with shoes on,4,10,1,29
-30,30,american made,7,10,3,67
-31,31,verdens verste menneske,5,5,6,17
-32,32,don't look up,5,5,10,96
-33,33,encanto,4,10,1,29
-34,34,back to the future,0,10,10,37
-35,35,the gentlemen,7,10,3,67
-36,36,gisaengchung,5,5,11,57
-37,37,the suicide squad,7,0,12,26
-38,38,the adam project,7,0,12,26
-39,39,jojo rabbit,5,5,14,88
-40,40,knives out,5,3,5,81
-41,41,barefoot,5,5,6,17
-42,42,despicable me,4,0,12,3
-43,43,jug jugg jeeyo,5,5,1,66
-44,44,chip 'n dale: rescue rangers,4,0,12,3
-45,45,marry me,5,2,6,39
-46,46,chips,7,10,3,67
-47,47,guardians of the galaxy vol. 2,7,0,12,26
-48,48,the sandlot,5,5,1,66
-49,49,vengeance,5,8,11,74
-50,50,turning red,4,0,12,3
-51,51,the girl next door,5,5,6,17
-52,52,fresh,5,15,11,42
-53,53,the french dispatch,5,5,6,17
-54,54,the phantom of the open,5,5,13,32
-55,55,love & gelato,5,5,6,17
-56,56,hocus pocus 2,5,1,16,30
-57,57,spree,7,10,3,67
-58,58,the grand budapest hotel,0,10,3,68
-59,59,777 charlie,0,10,5,15
-60,60,alice's restaurant,5,5,2,2
-61,61,guardians of the galaxy vol. 3,7,0,12,26
-62,62,red notice,7,10,11,58
-63,63,deadpool,7,0,12,26
-64,64,mr. malcolm's list,5,5,6,17
-65,65,sing,4,10,1,29
-66,66,the big short,6,10,5,72
-67,67,10 things i hate about you,5,5,6,17
-68,68,the terminal,5,5,6,17
-69,69,ghostbusters,7,10,16,33
-70,70,spider-man: into the spider-verse,4,13,0,6
-71,71,hustlers,5,3,5,81
-72,72,operation fortune: ruse de guerre,7,10,11,58
-73,73,doctor strange in the multiverse of madness,7,0,16,0
-74,74,nope,8,8,10,86
-75,76,last night in soho,3,15,8,18
-76,78,orphan: first kill,2,5,4,59
-77,79,resident evil: welcome to raccoon city,7,15,10,4
-78,80,crimes of the future,3,15,10,65
-79,81,men,3,4,4,14
-80,82,morbius,7,0,4,23
-81,84,malnazidos,7,0,16,0
-82,85,watcher,3,15,11,10
-83,86,orphan,8,8,11,40
-84,87,midsommar,3,15,8,18
-85,88,american psycho,2,5,4,59
-86,89,old,3,15,8,18
-87,90,scream,8,8,11,40
-88,91,mad god,4,4,4,89
-89,92,srpski film,8,8,11,40
-90,93,get out,8,8,11,40
-91,94,hellboy,7,0,16,0
-92,95,the mist,8,9,11,84
-93,96,overlord,7,15,10,4
-94,99,hereditary,3,15,8,18
-95,101,the mortal instruments: city of bones,7,0,16,0
-96,102,resident evil,7,15,10,4
-97,103,prey,7,5,4,36
-98,104,it chapter two,3,4,4,14
-99,105,the conjuring,8,8,11,40
-100,106,scream 6,8,8,11,40
-101,107,us,8,8,11,40
-102,108,fear street: 1994,3,15,8,18
-103,109,alien: covenant,8,9,11,84
-104,110,the thing,8,8,10,86
-105,111,the vvitch: a new-england folktale,3,4,4,14
-106,112,annihilation,0,5,4,49
-107,113,the deadly mantis,1,15,10,79
-108,114,fear street: 1978,3,15,8,18
-109,115,the shallows,7,5,4,36
-110,116,beast,0,5,4,49
-111,117,sinister,8,8,11,40
-112,118,the cabin in the woods,8,8,11,40
-113,119,a quiet place part ii,3,15,10,65
-114,120,hocus pocus,5,1,16,30
-115,121,the meg,7,15,10,4
-116,122,the mummy,7,0,16,0
-117,123,sweeney todd: the demon barber of fleet street,3,15,15,61
-118,124,mother!,3,15,8,18
-119,125,underwater,7,15,10,4
-120,126,a quiet place,3,15,10,65
-121,127,predator,7,0,4,23
-122,128,the hunt,7,15,11,4
-123,129,the lighthouse,3,4,4,14
-124,130,lamb,3,4,4,14
-125,131,firestarter,3,15,10,65
-126,132,interview with the vampire: the vampire chronicles,3,4,4,14
-127,133,resurrection,2,5,4,59
-128,134,the empty man,8,8,11,40
-129,135,suspiria,3,4,4,14
-130,136,bone tomahawk,3,15,9,18
-131,137,ready or not,7,10,4,13
-132,138,from dusk till dawn,7,3,4,82
-133,139,psycho,8,8,11,40
-134,140,texas chainsaw massacre,2,15,11,10
-135,141,de uskyldige,3,4,4,14
-136,142,jeepers creepers: reborn,8,8,11,40
-137,143,army of the dead,7,3,4,82
-138,144,doctor sleep,3,4,4,14
-139,145,brightburn,3,15,8,18
-140,146,28 days later...,3,15,10,65
-141,147,thor: love and thunder,7,0,12,26
-142,149,zombies 3,1,14,6,76
-143,154,fifty shades of grey,3,6,11,38
-144,156,blonde,6,5,8,99
-145,160,west side story,2,5,15,12
-146,166,khuda haafiz chapter ii: agni pariksha,7,3,5,43
-147,167,beautiful creatures,3,4,6,47
-148,168,the power of the dog,3,6,9,94
-149,170,twilight,3,4,6,47
-150,172,the princess bride,0,1,16,16
-151,174,crazy rich asians,5,5,6,17
-152,175,witness,3,6,11,38
-153,176,eternal sunshine of the spotless mind,3,6,10,1
-154,177,purple hearts,3,2,6,54
-155,178,the blue lagoon,0,5,6,91
-156,179,the phantom of the opera,3,14,6,44
-157,180,heojil kyolshim,2,5,8,55
-158,181,the parent trap,0,10,5,15
-159,182,pearl harbor,7,5,7,5
-160,183,ah-ga-ssi,3,6,11,38
-161,184,the little mermaid,0,1,16,16
-162,185,love actually,5,5,6,17
-163,186,the best years of our lives,3,6,14,62
-164,187,the fountain,3,8,6,52
-165,188,the sound of music,6,5,1,66
-166,189,nude tuesday,5,5,6,17
-167,190,unfaithful,3,6,11,38
-168,191,about time,5,5,16,24
-169,192,malèna,3,6,14,62
-170,193,emma.,5,5,6,17
-171,194,aladdin,0,10,1,28
-172,195,her,3,6,10,1
-173,196,la la land,5,5,2,2
-174,197,the age of adaline,3,4,6,47
-175,198,the curious case of benjamin button,3,4,6,47
-176,199,victor/victoria,5,2,6,39
-177,200,steel magnolias,5,5,6,17
-178,201,legend,0,4,6,70
-179,202,lucy in the sky,3,6,10,1
-180,203,pitch perfect,5,2,6,39
-181,204,dirty dancing,3,2,6,54
-182,205,grease,5,14,6,77
-183,206,true romance,2,5,6,25
-184,207,jurassic world dominion,7,0,10,11
-185,208,where the crawdads sing,3,8,11,73
-186,209,the northman,7,0,5,51
-187,211,the man from toronto,7,0,11,64
-188,214,the princess,7,5,16,53
-189,215,spiderhead,7,3,5,43
-190,218,no time to die,7,0,11,64
-191,219,jurassic park,7,0,10,11
-192,226,avatar: the way of water,7,0,10,11
-193,227,the dark knight,7,3,5,43
-194,228,ambulance,7,3,5,43
-195,229,the talented mr. ripley,2,5,11,48
-196,230,inception,7,0,10,11
-197,231,black panther: wakanda forever,7,0,5,51
-198,232,se7en,2,5,8,55
-199,234,killers of the flower moon,2,5,7,25
-200,237,deep water,3,8,11,73
-201,238,terror on the prairie,3,11,9,50
-202,239,expend4bles,7,0,11,64
-203,240,blade runner 2049,7,5,8,69
-204,241,interceptor,7,0,5,51
-205,242,the king's man,7,0,11,64
-206,245,wanted,7,3,11,9
-207,247,tenet,7,9,11,58
-208,248,léon,7,3,5,43
-209,249,mad max: fury road,7,0,10,11
-210,250,nightmare alley,2,5,11,48
-211,252,the departed,2,5,11,48
-212,253,blow-up,3,8,11,73
-213,254,the silence of the lambs,2,5,11,48
-214,255,zero dark thirty,3,7,11,98
-215,256,deliverance,0,5,11,34
-216,257,joker,2,5,11,48
-217,258,the outfit,2,5,8,55
-218,261,wrath of man,7,3,11,9
-219,264,gone girl,3,8,11,73
-220,265,nobody,7,3,5,43
-221,266,the hunger games,7,0,10,11
-222,267,minority report,7,3,8,60
-223,268,the last duel,7,5,7,5
-224,269,john wick,7,3,11,9
-225,270,blade runner,7,5,10,56
-226,273,the usual suspects,2,5,8,55
-227,275,the prestige,3,8,10,19
-228,276,prisoners,2,5,8,55
-229,277,john wick: chapter 4,7,3,11,9
-230,281,no country for old men,2,5,11,48
-231,283,a call to spy,6,3,5,21
-232,284,eyes wide shut,3,8,11,73
-233,285,mission: impossible - fallout,7,0,11,64
-234,286,venom: let there be carnage,7,0,10,11
-235,288,f9,7,3,11,9
-236,292,lightyear,4,13,0,6
-237,304,doragon boru supa supa hiro,4,13,0,6
-238,308,moana,4,0,12,3
-239,309,the lion king,4,0,5,8
-240,310,sen to chihiro no kamikakushi,4,0,1,27
-241,311,cars,4,0,12,3
-242,312,despicable me 3,4,0,12,3
-243,313,toy story,4,0,12,3
-244,314,ratatouille,4,0,12,3
-245,315,big hero 6,4,13,0,6
-246,316,despicable me 2,4,0,12,3
-247,317,zootopia,4,0,12,3
-248,318,the incredibles,4,13,0,6
-249,319,luca,4,0,12,3
-250,320,disenchanted,4,0,12,3
-251,321,frozen,4,0,12,3
-252,322,shika no ou,4,13,0,6
-253,323,green lantern: beware my power,4,0,10,75
-254,324,finding nemo,4,0,12,3
-255,325,hauru no ugoku shiro,4,0,1,27
-256,327,strange world,4,13,0,6
-257,328,raya and the last dragon,4,13,0,6
-258,329,kimi no na wa.,4,5,16,92
-259,330,"monsters, inc.",4,0,12,3
-260,331,shrek,4,0,12,3
-261,332,inside out,4,0,12,3
-262,333,hercules,4,0,12,3
-263,334,untitled super mario project,4,0,12,3
-264,335,coco,4,0,12,3
-265,336,toy story 4,4,0,12,3
-266,337,soul,4,0,12,3
-267,338,wall·e,4,0,1,27
-268,339,kung fu panda,4,13,0,6
-269,340,mononoke-hime,4,0,16,97
-270,341,up,4,0,12,3
-271,342,cool world,4,10,16,45
-272,343,tangled,4,0,12,3
-273,344,the mitchells vs the machines,4,0,12,3
-274,345,hotel transylvania: transformania,4,0,12,3
-275,346,how to train your dragon,4,13,0,6
-276,347,madagascar,4,0,12,3
-277,348,hotaru no haka,4,5,14,83
-278,349,incredibles 2,4,13,0,6
-279,351,lilo & stitch,4,0,12,3
-280,352,rumble,4,10,1,29
-281,353,a bug's life,4,0,12,3
-282,354,toy story 3,4,0,12,3
-283,355,beauty and the beast,4,1,16,78
-284,357,mulan,4,0,12,3
-285,358,clifford the big red dog,4,0,12,3
-286,359,sausage party,4,0,12,3
-287,360,coraline,4,5,1,87
-288,361,spider-man: across the spider-verse,4,13,0,6
-289,362,who framed roger rabbit,4,0,12,3
-290,363,the emperor's new groove,4,0,12,3
-291,364,frozen ii,4,0,12,3
-292,365,toy story 2,4,0,12,3
-293,366,wreck-it ralph,4,0,12,3
-294,367,tarzan,4,0,12,3
-295,368,ice age,4,0,12,3
-296,369,enchanted,4,0,12,3
-297,370,ryû to sobakasu no hime,4,0,5,8
-298,371,fantastic mr. fox,4,0,12,3
-299,372,guillermo del toro's pinocchio,4,5,1,87
-300,373,robots,4,0,12,3
-301,374,space jam: a new legacy,4,0,12,3
-302,375,atlantis: the lost empire,4,13,0,6
-303,376,brave,4,0,12,3
-304,377,the princess and the frog,4,0,12,3
-305,378,how to train your dragon: the hidden world,4,13,0,6
-306,379,shrek 2,4,0,12,3
-307,380,puss in boots: the last wish,4,0,12,3
-308,381,hotel transylvania,4,0,12,3
-309,382,treasure planet,4,0,1,27
-310,383,tom & jerry,4,0,12,3
-311,384,megamind,4,13,12,41
-312,385,gekijouban jujutsu kaisen 0,4,13,16,22
-313,386,hopper et le hamster des ténèbres,4,0,12,3
-314,387,cars 3,4,0,12,3
-315,394,the batman,7,3,5,43
-316,398,spider-man: no way home,7,0,16,0
-317,401,thor,7,0,16,0
-318,403,rocketry: the nambi effect,7,12,5,46
-319,404,fantastic beasts: the secrets of dumbledore,7,0,16,0
-320,410,12 strong,7,5,7,5
-321,411,the marvels,7,0,16,0
-322,412,avengers: endgame,7,0,5,51
-323,413,dune: part one,7,0,5,51
-324,416,thor: the dark world,7,0,16,0
-325,417,eternals,7,0,16,0
-326,425,the woman king,7,5,7,5
-327,426,black adam,7,4,10,95
-328,428,avengers: infinity war,7,0,10,11
-329,429,the lord of the rings: the fellowship of the ring,7,0,5,51
-330,432,major,7,12,5,46
-331,433,star wars,7,0,16,0
-332,434,jurassic world,7,0,10,11
-333,436,samaritan,7,5,16,53
-334,437,independence day,7,0,10,11
-335,438,moonfall,7,0,10,11
-336,439,doctor strange,7,0,16,0
-337,442,black widow,7,0,10,11
-338,443,jurassic world: fallen kingdom,7,0,10,11
-339,445,avatar,7,0,16,0
-340,451,gladiator,7,0,5,51
-341,453,captain marvel,7,0,10,11
-342,454,shang-chi and the legend of the ten rings,7,0,16,0
-343,456,pirates of the caribbean: the curse of the black pearl,7,0,16,0
-344,457,heat,7,3,5,43
-345,458,star wars: episode i - the phantom menace,7,0,16,0
-346,461,spider-man: homecoming,7,0,10,11
-347,463,enola holmes,7,0,3,23
-348,464,black panther,7,0,10,11
-349,466,spider-man,7,0,10,11
-350,468,the avengers,7,0,10,11
-351,470,the lord of the rings: the return of the king,7,0,5,51
-352,502,interstellar,0,5,10,34
-353,507,harry potter and the sorcerer's stone,0,1,16,16
-354,537,inglourious basterds,0,5,14,63
-355,549,suicide squad,7,0,16,0
-356,552,iron man,7,0,10,11
-357,555,thelma & louise,0,3,5,31
-358,557,star wars: episode ix - the rise of skywalker,7,0,16,0
-359,561,aquaman,7,0,16,0
-360,562,fantastic beasts: the crimes of grindelwald,0,1,16,16
-361,563,star wars: episode iii - revenge of the sith,7,0,16,0
-362,564,the lost world: jurassic park,7,0,10,11
-363,565,zack snyder's justice league,7,0,16,0
-364,566,elvis,6,5,2,80
-365,574,house of gucci,6,3,5,21
-366,578,death on the nile,2,5,8,55
-367,579,goodfellas,6,3,5,21
-368,605,oppenheimer,6,5,7,85
-369,610,bohemian rhapsody,6,5,2,80
-370,620,tombstone,6,5,7,85
-371,633,catch me if you can,6,3,5,21
-372,659,apocalypse now,3,8,14,20
-373,667,the green mile,2,5,16,93
-374,671,arrival,3,8,10,19
-375,672,oldeuboi,7,5,8,69
-376,675,sicario,7,3,5,43
-377,677,jack reacher,7,8,11,7
-378,678,the voyeurs,3,8,11,73
-379,681,watchmen,7,5,8,69
-380,682,divergent,7,0,8,71
+,index,Anime,P_Genre,S_Genre,T_Genre,Cluster_Id
+0,0,sword art online,4,6,3,0
+1,1,tokyo ghoul,4,3,6,12
+2,2,naruto,4,6,3,0
+3,3,hunter x hunter (2011),4,6,3,0
+4,4,naruto: shippuuden,4,6,3,0
+5,5,code geass: hangyaku no lelouch,4,14,13,27
+6,6,one piece,4,6,3,0
+7,7,nanatsu no taizai,4,6,3,0
+8,8,mirai nikki (tv),4,2,0,62
+9,9,sword art online ii,4,6,3,0
+10,10,mob psycho 100,4,11,2,90
+11,11,bleach,4,6,3,0
+12,12,kiseijuu: sei no kakuritsu,4,7,13,53
+13,13,tokyo ghoul √a,4,3,6,12
+14,14,fairy tail,4,6,3,0
+15,15,code geass: hangyaku no lelouch r2,4,14,13,27
+16,16,neon genesis evangelion,4,4,1,31
+17,17,kill la kill,4,11,11,40
+18,18,soul eater,4,11,3,68
+19,19,psycho-pass,4,0,0,26
+20,20,tengen toppa gurren lagann,4,6,9,19
+21,21,darling in the franxx,4,14,14,87
+22,22,jojo no kimyou na bouken (tv),4,6,2,0
+23,23,elfen lied,4,14,6,14
+24,24,black clover,4,11,3,68
+25,25,overlord,4,6,3,0
+26,26,dungeon ni deai wo motomeru no wa machigatteiru darou ka,4,6,9,19
+27,27,fate/zero,4,3,2,31
+28,28,highschool of the dead,4,7,2,66
+29,29,tate no yuusha no nariagari,4,6,1,32
+30,30,fullmetal alchemist,4,6,1,32
+31,31,durarara!!,4,8,2,24
+32,32,mob psycho 100 ii,4,11,2,90
+33,33,tensei shitara slime datta ken,4,6,9,19
+34,34,owari no seraph,4,14,2,10
+35,35,bungou stray dogs,4,11,7,81
+36,36,vinland saga,4,6,1,32
+37,37,deadman wonderland,4,7,13,53
+38,38,guilty crown,4,14,13,27
+39,39,samurai champloo,4,6,9,19
+40,40,mononoke hime,4,6,3,0
+41,41,dragon ball z,4,6,9,19
+42,42,kuroshitsuji,4,11,7,81
+43,43,jojo no kimyou na bouken part 3: stardust crusaders,4,6,1,32
+44,44,dororo,4,6,2,0
+45,45,tokyo ghoul:re,4,3,6,12
+46,46,log horizon,4,6,3,0
+47,47,fate/zero 2nd season,4,3,2,31
+48,48,nanatsu no taizai: imashime no fukkatsu,4,6,3,0
+49,49,devilman: crybaby,4,4,6,12
+50,50,tokyo revengers,4,14,2,10
+51,51,goblin slayer,4,6,3,0
+52,52,fate/stay night: unlimited blade works,4,3,2,31
+53,53,jojo no kimyou na bouken part 4: diamond wa kudakenai,4,6,9,19
+54,54,mahouka koukou no rettousei,4,15,13,27
+55,55,gintama,4,11,13,63
+56,56,jojo no kimyou na bouken part 3: stardust crusaders 2nd season,4,6,1,32
+57,57,magi: the labyrinth of magic,4,6,3,0
+58,58,sword art online: alicization,4,6,3,0
+59,59,fairy tail (2014),4,6,3,0
+60,60,overlord ii,4,6,3,0
+61,61,fate/stay night,4,3,14,11
+62,62,darker than black: kuro no keiyakusha,4,8,13,1
+63,63,black bullet,4,8,13,1
+64,64,rakudai kishi no cavalry,4,3,14,11
+65,65,baccano!,4,11,7,81
+66,66,high school dxd new,4,11,14,63
+67,67,hellsing ultimate,4,7,2,66
+68,68,kami no tou,4,6,1,32
+69,69,kekkai sensen,4,11,3,68
+70,70,the god of high school,4,3,13,11
+71,71,fate/stay night: unlimited blade works 2nd season,4,3,2,31
+72,72,magi: the kingdom of magic,4,6,3,0
+73,73,overlord iii,4,3,2,31
+74,74,boruto: naruto next generations,4,6,3,0
+75,75,trinity seven,4,11,3,68
+76,76,tensei shitara slime datta ken 2nd season,4,6,9,19
+77,77,akatsuki no yona,4,6,9,19
+78,78,zero no tsukaima,4,6,9,19
+79,79,tokyo ghoul:re 2nd season,4,3,6,12
+80,80,akira,4,6,6,84
+81,81,flcl,4,4,9,82
+82,82,koutetsujou no kabaneri,4,14,3,10
+83,83,banana fish,4,6,1,32
+84,84,high school dxd born,4,11,14,63
+85,85,dragon ball super,4,6,9,19
+86,86,"gate: jieitai kanochi nite, kaku tatakaeri",4,6,3,0
+87,87,inuyasha,4,6,9,19
+88,88,bungou stray dogs 2nd season,4,8,2,24
+89,89,k,4,8,2,24
+90,90,owari no seraph: nagoya kessen-hen,4,14,2,10
+91,91,dungeon ni deai wo motomeru no wa machigatteiru darou ka ii,4,6,9,19
+92,92,accel world,4,15,13,27
+93,93,trigun,4,6,9,19
+94,94,hai to gensou no grimgar,4,6,1,32
+95,95,sword art online movie: ordinal scale,4,6,3,0
+96,96,hellsing,4,7,2,66
+97,97,nanatsu no taizai: seisen no shirushi,4,6,3,0
+98,98,sword art online: alicization - war of underworld,4,6,3,0
+99,99,d.gray-man,4,6,9,19
+100,100,nanatsu no taizai: kamigami no gekirin,4,6,3,0
+101,101,blood lad,4,11,2,90
+102,102,claymore,4,6,3,0
+103,103,shinmai maou no testament,4,3,14,11
+104,104,yuu☆yuu☆hakusho,4,11,2,90
+105,105,gakusen toshi asterisk,4,11,3,68
+106,106,psycho-pass 2,4,0,0,26
+107,107,tate no yuusha no nariagari season 2,4,6,1,32
+108,108,strike the blood,4,3,2,31
+109,109,is: infinite stratos,4,11,13,63
+110,110,kore wa zombie desu ka?,4,11,2,90
+111,111,rokka no yuusha,4,6,3,0
+112,112,arifureta shokugyou de sekai saikyou,4,6,3,0
+113,113,dragon ball gt,4,6,9,19
+114,114,pokemon,4,6,9,19
+115,115,inuyashiki,4,14,13,27
+116,116,tensei shitara slime datta ken 2nd season part 2,4,6,9,19
+117,117,log horizon 2nd season,4,6,3,0
+118,118,86,4,14,13,27
+119,119,zetsuen no tempest,4,14,3,10
+120,120,great pretender,4,6,7,84
+121,121,kenpuu denki berserk,4,6,1,32
+122,122,beelzebub,4,11,2,90
+123,123,gintama°,4,11,13,63
+124,124,ajin,4,7,7,6
+125,125,mondaiji-tachi ga isekai kara kuru sou desu yo?,4,11,3,68
+126,126,hunter x hunter,4,6,3,0
+127,127,the last: naruto the movie,4,6,3,0
+128,128,kuroshitsuji ii,4,11,2,90
+129,129,shinchou yuusha: kono yuusha ga ore tueee kuse ni shinchou sugiru,4,6,9,19
+130,130,katanagatari,4,6,14,53
+131,131,sword art online: alicization - war of underworld 2nd season,4,6,3,0
+132,132,absolute duo,4,15,2,85
+133,133,bungou stray dogs 3rd season,4,8,2,24
+134,134,shakugan no shana,4,14,3,10
+135,135,god eater,4,3,13,11
+136,136,drifters,4,6,9,19
+137,137,"gate: jieitai kanochi nite, kaku tatakaeri part 2",4,6,3,0
+138,138,evangelion: 1.0 you are (not) alone,4,14,13,27
+139,139,kenja no mago,4,11,3,68
+140,140,dungeon ni deai wo motomeru no wa machigatteiru darou ka iii,4,6,9,19
+141,141,musaigen no phantom world,4,11,3,68
+142,142,gintama',4,11,13,63
+143,143,ichiban ushiro no daimaou,4,11,3,68
+144,144,evangelion: 2.0 you can (not) advance,4,14,13,27
+145,145,darwin's game,4,8,13,1
+146,146,zero no tsukaima: futatsuki no kishi,4,6,9,19
+147,147,sousei no onmyouji,4,3,14,11
+148,148,full metal panic!,4,11,13,63
+149,149,rurouni kenshin: meiji kenkaku romantan,4,6,9,19
+150,150,dorohedoro,4,11,3,68
+151,151,fullmetal alchemist: brotherhood,4,6,1,32
+152,159,kono subarashii sekai ni shukufuku wo!,3,11,3,5
+153,161,sen to chihiro no kamikakushi,3,9,2,24
+154,163,dr. stone,3,11,13,18
+155,170,kono subarashii sekai ni shukufuku wo! 2,3,11,3,5
+156,172,made in abyss,3,14,3,57
+157,173,howl no ugoku shiro,3,14,3,57
+158,186,dragon ball,3,11,3,5
+159,190,dr. stone: stone wars,3,11,13,18
+160,197,mushishi,3,3,7,58
+161,198,ookami to koushinryou,3,3,14,72
+162,205,fumetsu no anata e,3,14,2,57
+163,209,kono subarashii sekai ni shukufuku wo! movie: kurenai densetsu,3,11,3,5
+164,217,little witch academia (tv),3,11,3,5
+165,218,satsuriku no tenshi,3,7,0,32
+166,232,majo no takkyuubin,3,11,1,67
+167,235,kaifuku jutsushi no yarinaoshi,3,14,3,57
+168,236,isekai wa smartphone to tomo ni.,3,11,3,5
+169,239,ookami to koushinryou ii,3,3,14,72
+170,240,sora yori mo tooi basho,3,11,1,67
+171,241,fairy tail: final series,4,6,3,0
+172,242,magi: sinbad no bouken (tv),4,6,3,0
+173,243,maoyuu maou yuusha,3,3,14,72
+174,244,itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu.,4,6,9,19
+175,245,tenkuu no shiro laputa,3,3,14,72
+176,246,boruto: naruto the movie,4,6,3,0
+177,247,zero no tsukaima: princesses no rondo,4,6,9,19
+178,248,koukyoushihen eureka seven,3,14,14,87
+179,249,pandora hearts,3,3,7,58
+180,250,dungeon ni deai wo motomeru no wa machigatteiru darou ka gaiden: sword oratoria,4,6,3,0
+181,251,cardcaptor sakura,3,11,1,67
+182,252,zero no tsukaima f,3,3,14,72
+183,253,shingeki no bahamut: genesis,4,6,3,0
+184,254,digimon adventure,4,6,9,19
+185,255,yu☆gi☆oh! duel monsters,4,6,3,0
+186,256,nanatsu no taizai: fundo no shinpan,4,6,3,0
+187,257,hitsugi no chaika,4,6,9,19
+188,258,made in abyss movie 3: fukaki tamashii no reimei,3,14,3,57
+189,259,arslan senki (tv),4,6,1,32
+190,260,"kumo desu ga, nani ka?",4,6,9,19
+191,261,dragon ball kai,4,6,9,19
+192,262,shaman king,4,6,9,19
+193,263,golden boy,3,11,11,40
+194,264,dragon ball super: broly,4,6,3,0
+195,265,kono subarashii sekai ni shukufuku wo! 2: kono subarashii geijutsu ni shukufuku wo!,3,11,3,5
+196,266,madan no ou to vanadis,3,3,14,72
+197,267,berserk,4,6,1,32
+198,268,suisei no gargantia,4,6,13,89
+199,269,detective conan,3,11,7,81
+200,270,ore dake haireru kakushi dungeon,4,6,3,0
+201,271,naruto: shippuuden movie 6 - road to ninja,4,6,3,0
+202,272,wolf's rain,4,6,1,32
+203,273,tales of zestiria the cross,4,6,3,0
+204,274,shoujo shuumatsu ryokou,3,8,13,1
+205,275,tsuki ga michibiku isekai douchuu,4,6,9,19
+206,276,little witch academia,3,11,3,5
+207,277,nejimaki seirei senki: tenkyou no alderamin,4,6,3,0
+208,278,soredemo sekai wa utsukushii,3,3,14,72
+209,279,arifureta shokugyou de sekai saikyou 2nd season,4,6,3,0
+210,280,kino no tabi: the beautiful world,4,6,12,89
+211,281,densetsu no yuusha no densetsu,4,6,3,0
+212,282,isekai cheat magician,4,6,3,0
+213,283,mushishi zoku shou,3,3,7,58
+214,284,deca-dence,4,6,13,89
+215,285,nanatsu no taizai movie 1: tenkuu no torawarebito,4,6,3,0
+216,286,seirei gensouki,4,6,1,32
+217,287,naruto: shippuuden movie 1,4,6,3,0
+218,288,naruto movie 1: dai katsugeki!! yuki hime shinobu houjou dattebayo!,4,6,3,0
+219,289,kanata no astra,3,8,13,1
+220,290,somali to mori no kamisama,3,14,3,57
+221,291,inuyasha: kanketsu-hen,4,6,9,19
+222,292,black cat (tv),3,11,13,18
+223,293,bleach movie 1: memories of nobody,4,6,3,0
+224,294,tsuujou kougeki ga zentai kougeki de ni-kai kougeki no okaasan wa suki desu ka?,3,11,3,5
+225,295,persona 4 the animation,4,6,7,84
+226,296,zero kara hajimeru mahou no sho,4,6,3,0
+227,297,made in abyss: retsujitsu no ougonkyou,3,14,3,57
+228,298,princess connect! re:dive,4,6,9,19
+229,299,pokemon movie 01: mewtwo no gyakushuu,4,6,9,19
+230,300,naruto: shippuuden movie 2 - kizuna,4,6,3,0
+231,301,mushishi zoku shou 2nd season,3,3,7,58
+232,302,one piece film: z,4,6,3,0
+233,303,neko no ongaeshi,3,14,3,57
+234,304,tate no yuusha no nariagari season 3,4,6,1,32
+235,305,"shin no nakama ja nai to yuusha no party wo oidasareta node, henkyou de slow life suru koto ni shimashita",3,3,14,72
+236,306,saihate no paladin,4,6,3,0
+237,307,shaman king (2021),3,11,2,90
+238,308,naruto: shippuuden movie 4 - the lost tower,4,6,3,0
+239,309,bleach movie 2: the diamonddust rebellion - mou hitotsu no hyourinmaru,4,6,3,0
+240,310,ryuugajou nanana no maizoukin,3,11,7,81
+241,311,xian wang de richang shenghuo,3,11,3,5
+242,312,shingeki no bahamut: virgin soul,4,6,3,0
+243,313,goblin slayer: goblin's crown,4,6,3,0
+244,314,one piece film: strong world,4,6,3,0
+245,315,naruto: shippuuden movie 5 - blood prison,4,6,3,0
+246,316,kurenai no buta,4,6,9,19
+247,317,naruto movie 2: dai gekitotsu! maboroshi no chiteiiseki dattebayo!,4,6,3,0
+248,318,tsubasa chronicle,4,6,3,0
+249,319,pokemon: the origin,4,6,9,19
+250,320,bleach movie 3: fade to black - kimi no na wo yobu,4,6,3,0
+251,321,ushio to tora (tv),4,6,9,19
+252,322,log horizon: entaku houkai,4,6,3,0
+253,323,digimon adventure 02,4,6,9,19
+254,324,kamisama no inai nichiyoubi,3,3,7,58
+255,325,"maou-sama, retry!",4,6,3,0
+256,326,berserk: ougon jidai-hen i - haou no tamago,4,6,3,0
+257,327,seirei no moribito,4,6,3,0
+258,328,chrome shelled regios,4,6,3,0
+259,329,edens zero,3,11,3,5
+260,330,sabikui bisco,4,6,3,0
+261,331,fairy tail movie 1: houou no miko,4,6,3,0
+262,332,berserk: ougon jidai-hen iii - kourin,4,6,1,32
+263,333,mo dao zu shi,4,6,3,0
+264,334,no game no life,8,3,11,59
+265,338,seishun buta yarou wa bunny girl senpai no yume wo minai,8,14,14,29
+266,342,hataraku maou-sama!,8,3,14,15
+267,346,high school dxd,8,15,11,4
+268,355,date a live,8,15,13,74
+269,357,golden time,8,14,14,29
+270,358,prison school,8,15,11,4
+271,359,suzumiya haruhi no yuuutsu,8,8,13,17
+272,368,boku wa tomodachi ga sukunai,8,15,11,4
+273,373,yamada-kun to 7-nin no majo,8,8,14,17
+274,375,nisemonogatari,8,8,2,39
+275,376,monster musume no iru nichijou,8,3,14,15
+276,378,nhk ni youkoso!,8,14,14,29
+277,379,eromanga-sensei,8,14,14,29
+278,383,rosario to vampire,8,3,14,15
+279,384,isekai maou to shoukan shoujo no dorei majutsu,8,3,11,59
+280,385,monogatari series: second season,8,8,14,17
+281,388,amagi brilliant park,8,14,3,91
+282,389,saenai heroine no sodatekata,8,15,11,4
+283,392,to love-ru,8,15,13,74
+284,393,kami nomi zo shiru sekai,8,15,2,16
+285,395,kamisama hajimemashita,8,3,14,15
+286,396,date a live ii,8,15,13,74
+287,397,bakuman.,8,14,14,29
+288,401,sankarea,8,7,14,17
+289,405,kiss x sis (tv),8,15,11,4
+290,408,nekomonogatari: kuro,8,15,2,16
+291,413,suzumiya haruhi no yuuutsu (2009),8,8,13,17
+292,417,netoge no yome wa onnanoko ja nai to omotta?,8,15,11,4
+293,419,inu x boku ss,8,15,2,16
+294,420,hajimete no gal,8,15,11,4
+295,423,mayo chiki!,8,15,11,4
+296,426,chobits,8,14,14,29
+297,427,tokyo ravens,4,11,14,63
+298,429,sora no otoshimono,8,15,13,74
+299,430,high school dxd hero,4,11,14,63
+300,431,owarimonogatari,8,8,2,39
+301,433,hentai ouji to warawanai neko.,8,15,2,16
+302,434,ishuzoku reviewers,8,3,11,59
+303,435,mekakucity actors,8,0,2,95
+304,437,yojouhan shinwa taikei,8,8,14,17
+305,439,hanamonogatari,8,8,2,39
+306,440,gakusen toshi asterisk 2nd season,8,3,14,15
+307,441,rosario to vampire capu2,8,3,14,15
+308,442,kekkai sensen & beyond,4,11,3,68
+309,443,tsukimonogatari,8,8,2,39
+310,444,"dakara boku wa, h ga dekinai.",8,15,2,16
+311,445,mieruko-chan,8,7,2,39
+312,446,otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta...,8,14,3,91
+313,447,sekirei,4,11,11,40
+314,448,mairimashita! iruma-kun,8,3,2,88
+315,450,kuroshitsuji: book of circus,4,11,7,81
+316,451,kami nomi zo shiru sekai ii,8,15,2,16
+317,452,b-gata h-kei,8,15,11,4
+318,453,is: infinite stratos 2,4,11,13,63
+319,454,campione!: matsurowanu kamigami to kamigoroshi no maou,8,3,14,15
+320,457,neon genesis evangelion: the end of evangelion,2,14,13,9
+321,459,serial experiments lain,2,14,7,46
+322,460,perfect blue,2,14,6,46
+323,461,paprika,2,3,6,99
+324,462,mousou dairinin,2,14,7,46
+325,463,mawaru penguindrum,2,11,1,67
+326,464,boogiepop wa warawanai (2019),2,14,6,46
+327,465,tenshi no tamago,2,14,3,57
+328,466,flcl progressive,4,4,9,82
+329,467,boogiepop wa warawanai,2,14,6,46
+330,468,yami shibai,2,7,2,28
+331,469,higurashi no naku koro ni sotsu,2,7,7,47
+332,470,flcl alternative,4,4,9,82
+333,471,uzumaki,2,14,6,46
+334,472,mind game,3,4,9,82
+335,473,shoujo kakumei utena: adolescence mokushiroku,2,14,3,57
+336,474,yami shibai 2,2,7,2,28
+337,475,nihon animator mihonichi,4,4,3,31
+338,476,panty & stocking in sanitarybox,4,4,9,82
+339,477,genius party,4,4,3,31
+340,478,yami shibai 3,2,7,2,28
+341,479,yami shibai 4,2,7,2,28
+342,480,yami shibai 5,2,7,2,28
+343,481,yami shibai 6,2,7,2,28
+344,482,genius party beyond,2,3,13,72
+345,483,yami shibai 7,2,7,2,28
+346,484,kaze no na wa amnesia,4,4,1,31
+347,485,flcl: grunge,4,4,9,82
+348,486,yami shibai 8,2,7,2,28
+349,487,1001 nights,2,3,14,72
+350,488,tsukuyomi: moon phase special,2,11,12,65
+351,489,re:cycle of the penguindrum,2,11,1,67
+352,490,koroshiya 1 the animation: episode 0,4,4,1,31
+353,491,yami shibai 9,2,7,2,28
+354,492,tamala 2010: a punk cat in space,2,11,13,18
+355,493,gosenzo-sama banbanzai!,2,11,1,67
+356,494,atama yama,2,11,3,5
+357,495,yami shibai 10,2,7,2,28
+358,496,kago shintarou anime sakuhin shuu,2,11,6,22
+359,497,flcl: shoegaze,4,4,9,82
+360,498,airy me,2,14,6,46
+361,499,extra,4,4,6,12
+362,500,ryokunohara meikyuu,2,1,1,48
+363,501,seisai,2,3,6,99
+364,502,survival,2,14,2,38
+365,503,x densha de ikou,2,8,2,28
+366,504,alexander senki movie,4,6,4,0
+367,505,alice in dreamland,3,4,3,31
+368,506,flying luna clipper,2,11,11,65
+369,507,shui naodai,2,3,13,72
+370,508,alice in voodooland,2,3,6,99
+371,509,animation!,3,4,9,82
+372,510,yakusoku no neverland,6,0,0,42
+373,511,another,5,8,2,71
+374,513,bakemonogatari,6,15,2,85
+375,517,monster,10,8,0,7
+376,524,higurashi no naku koro ni,5,8,2,71
+377,525,shinsekai yori,10,7,7,35
+378,533,suzumiya haruhi no shoushitsu,6,0,2,55
+379,534,vampire knight,10,8,14,44
+380,537,shiki,5,8,2,71
+381,539,higashi no eden,6,15,13,64
+382,541,gosick,10,8,14,44
+383,545,durarara!!x2 shou,4,8,2,24
+384,546,higurashi no naku koro ni kai,6,2,0,8
+385,548,gleipnir,4,8,2,24
+386,549,kizumonogatari iii: reiketsu-hen,4,8,2,24
+387,550,gakkougurashi!,5,8,12,1
+388,552,no.6,4,14,7,94
+389,553,kizumonogatari ii: nekketsu-hen,4,8,2,24
+390,554,houseki no kuni,4,14,3,10
+391,557,"sekai saikou no ansatsusha, isekai kizoku ni tensei suru",4,14,3,10
+392,558,kara no kyoukai movie 1: fukan fuukei,4,8,2,24
+393,559,darker than black: ryuusei no gemini,4,8,13,1
+394,561,kyokou suiri,6,15,2,85
+395,562,tasogare otome x amnesia,5,8,14,1
+396,563,durarara!!x2 ten,4,8,2,24
+397,566,owarimonogatari 2nd season,8,8,2,39
+398,567,blood+,4,14,6,14
+399,569,durarara!!x2 ketsu,4,8,2,24
+400,570,corpse party: tortured souls - bougyakusareta tamashii no jukyou,5,8,2,71
+401,572,vampire knight: guilty,10,8,14,44
+402,573,mahou shoujo madoka★magica movie 3: hangyaku no monogatari,10,8,0,7
+403,574,jigoku shoujo,5,8,2,71
+404,575,blood-c,4,7,7,6
+405,576,danganronpa 3: the end of kibougamine gakuen - mirai-hen,4,7,7,6
+406,577,gokukoku no brynhildr,10,8,13,44
+407,578,kemono jihen,4,8,2,24
+408,580,b: the beginning,4,8,2,24
+409,581,"tantei wa mou, shindeiru.",8,14,7,51
+410,584,xxxholic,8,14,7,51
+411,585,danganronpa 3: the end of kibougamine gakuen - zetsubou-hen,4,7,7,6
+412,586,c: the money of soul and possibility control,4,8,0,76
+413,587,hamatora the animation,8,14,7,51
+414,588,mononoke,1,7,7,47
+415,590,amnesia,1,8,14,1
+416,591,chäos;head,6,0,2,55
+417,593,ajin part 2,4,7,7,6
+418,595,taboo tattoo,4,8,2,24
+419,596,tenkuu shinpan,4,7,7,6
+420,597,summertime render,6,2,0,8
+421,598,haibane renmei,10,3,7,23
+422,600,darker than black: kuro no keiyakusha gaiden,4,8,13,1
+423,602,ef: a tale of memories.,10,8,14,44
+424,603,higurashi no naku koro ni gou,5,8,2,71
+425,605,gankutsuou,10,8,13,44
+426,606,koyomimonogatari,8,8,2,39
+427,608,bungou stray dogs: dead apple,4,11,7,81
+428,609,kara no kyoukai movie 2: satsujin kousatsu (zen),4,8,14,1
+429,610,kuroshitsuji: book of murder,4,11,7,81
+430,611,ousama game the animation,10,7,7,35
+431,612,kara no kyoukai movie 5: mujun rasen,4,14,7,94
+432,613,ghost hunt,5,8,2,71
+433,614,tiger & bunny,4,11,7,81
+434,615,koukaku kidoutai: stand alone complex 2nd gig,4,8,13,1
+435,616,kara no kyoukai movie 3: tsuukaku zanryuu,4,14,7,94
+436,619,kujira no kora wa sajou ni utau,10,3,7,23
+437,620,mayoiga,10,7,7,35
+438,621,umineko no naku koro ni,5,8,2,71
+439,622,karneval (tv),4,3,7,58
+440,623,zoku owarimonogatari,8,8,2,39
+441,624,sakurako-san no ashimoto ni wa shitai ga umatteiru,10,8,0,7
+442,625,kara no kyoukai movie 4: garan no dou,4,8,2,24
+443,627,"kono naka ni hitori, imouto ga iru!",8,8,14,17
+444,628,shoujo kakumei utena,8,14,3,91
+445,629,kara no kyoukai movie 7: satsujin kousatsu (go),4,8,14,1
+446,630,higurashi no naku koro ni rei,6,2,0,8
+447,631,another: the other - inga,5,8,0,76
+448,632,kara no kyoukai movie 6: boukyaku rokuon,4,8,14,1
+449,633,gakkou no kaidan,5,8,2,71
+450,634,kuroshitsuji movie: book of the atlantic,4,11,7,81
+451,635,.hack//sign,3,3,7,58
+452,636,kokkoku,10,8,2,75
+453,637,robotics;notes,10,8,13,44
+454,638,baccano! specials,4,11,7,81
+455,639,danganronpa 3: the end of kibougamine gakuen - kibou-hen,4,7,7,6
+456,640,higashi no eden movie i: the king of eden,6,15,13,64
+457,641,re:␣hamatora,8,14,7,51
+458,642,ef: a tale of melodies.,10,8,14,44
+459,643,shingetsutan tsukihime,4,7,7,6
+460,644,princess tutu,8,14,3,91
+461,645,jigoku shoujo futakomori,5,8,2,71
+462,646,acca: 13-ku kansatsu-ka,10,3,7,23
+463,647,bungou stray dogs: hitori ayumu,4,8,2,24
+464,648,itou junji: collection,10,7,7,35
+465,649,dantalian no shoka,4,8,2,24
+466,650,shinreigari,6,0,2,55
+467,651,higashi no eden movie ii: paradise lost,6,15,13,64
+468,652,kaiba,3,8,14,1
+469,653,dennou coil,3,11,1,67
+470,654,lord el-melloi ii sei no jikenbo: rail zeppelin grace note,1,8,2,28
+471,655,loveless,4,1,1,48
+472,656,xxxholic: kei,8,14,7,51
+473,657,mushishi: hihamukage,3,3,7,58
+474,658,kishibe rohan wa ugokanai,4,8,2,24
+475,659,shinrei tantei yakumo,5,8,2,71
+476,660,"gyakuten saiban: sono ""shinjitsu"", igi ari!",8,14,7,51
+477,661,chäos;child,6,0,2,55
+478,663,7 seeds,3,14,7,94
+479,664,mushishi zoku shou: suzu no shizuku,3,3,7,58
+480,665,getbackers,4,11,1,34
+481,666,karakuri circus,4,6,1,32
+482,667,tsubasa chronicle 2nd season,4,6,1,32
+483,668,rahxephon,4,14,7,94
+484,669,makai ouji: devils and realist,8,3,7,80
+485,670,"trickster: edogawa ranpo ""shounen tanteidan"" yori",10,8,13,44
+486,671,witch hunter robin,4,14,7,94
+487,672,kara no kyoukai movie: mirai fukuin,10,8,2,75
+488,673,lupin iii: cagliostro no shiro,4,6,9,19
+489,674,noir,4,14,7,94
+490,675,urasekai picnic,3,3,8,58
+491,676,made in abyss movie 2: hourou suru tasogare,3,14,3,57
+492,677,made in abyss movie 1: tabidachi no yoake,3,14,3,57
+493,678,seikimatsu occult gakuin,8,8,13,17
+494,680,steins;gate,10,0,0,69
+495,682,re:zero kara hajimeru isekai seikatsu,10,3,0,20
+496,685,death parade,10,2,0,20
+497,686,violet evergarden,10,3,12,41
+498,688,ano hi mita hana no namae wo bokutachi wa mada shiranai.,10,13,2,33
+499,693,clannad,10,15,2,49
+500,699,clannad: after story,10,15,2,49
+501,702,mushoku tensei: isekai ittara honki dasu,10,3,11,41
+502,705,re:zero kara hajimeru isekai seikatsu 2nd season,10,3,0,20
+503,706,relife,10,15,12,54
+504,709,byousoku 5 centimeter,10,15,12,54
+505,710,plastic memories,10,15,13,21
+506,711,tenki no ko,10,3,14,60
+507,712,ao haru ride,10,15,12,54
+508,713,kimi ni todoke,10,15,12,54
+509,715,kimi no suizou wo tabetai,10,15,12,54
+510,717,no game no life: zero,10,3,14,60
+511,718,steins;gate 0,10,0,0,69
+512,719,kokoro connect,10,15,2,49
+513,720,kotonoha no niwa,10,15,12,54
+514,721,hotarubi no mori e,10,15,2,49
+515,722,orange,10,15,13,21
+516,725,toki wo kakeru shoujo,10,15,13,21
+517,726,re:zero kara hajimeru isekai seikatsu 2nd season part 2,10,3,0,20
+518,730,fruits basket 1st season,10,3,14,60
+519,731,kiznaiver,10,15,13,21
+520,737,mushoku tensei: isekai ittara honki dasu part 2,10,3,11,41
+521,738,seishun buta yarou wa yumemiru shoujo no yume wo minai,10,15,2,49
+522,739,akagami no shirayuki-hime,10,3,14,60
+523,747,nana,10,15,12,54
+524,748,nagi no asu kara,10,3,14,60
+525,752,fruits basket,10,3,14,60
+526,757,natsume yuujinchou,10,13,2,33
+527,758,given,0,14,14,50
+528,760,citrus,10,10,14,56
+529,761,violet evergarden movie,10,3,12,41
+530,762,"yosuga no sora: in solitude, where we are least alone.",10,15,11,54
+531,765,fate/apocrypha,4,14,3,10
+532,766,chihayafuru,10,13,5,45
+533,767,fruits basket 2nd season,10,15,2,49
+534,769,kimi ni todoke 2nd season,10,15,12,54
+535,774,evangelion: 3.0 you can (not) redo,4,14,13,27
+536,777,fruits basket: the final,10,15,2,49
+537,778,ano natsu de matteru,10,15,13,21
+538,779,shuumatsu nani shitemasu ka? isogashii desu ka? sukutte moratte ii desu ka?,10,3,14,60
+539,782,nakitai watashi wa neko wo kaburu,8,14,14,29
+540,784,violet evergarden gaiden: eien to jidou shuki ningyou,10,3,12,41
+541,787,86 part 2,4,14,13,27
+542,788,gantz,4,14,6,14
+543,789,bakuman. 2nd season,8,14,14,29
+544,790,akagami no shirayuki-hime 2nd season,10,3,14,60
+545,793,kotoura-san,8,14,14,29
+546,794,josee to tora to sakana-tachi,10,15,12,54
+547,795,phantom: requiem for the phantom,4,14,0,43
+548,796,fullmetal alchemist: the conqueror of shamballa,8,14,3,91
+549,798,bakuman. 3rd season,8,14,14,29
+550,799,beck,8,14,12,61
+551,800,mimi wo sumaseba,10,15,12,54
+552,802,evangelion: 3.0+1.0 thrice upon a time,4,14,13,27
+553,803,freezing,4,14,14,87
+554,804,nanbaka,4,11,1,34
+555,805,ballroom e youkoso,8,14,14,29
+556,806,nodame cantabile,8,14,14,29
+557,807,shakugan no shana ii (second),4,14,3,10
+558,809,araburu kisetsu no otome-domo yo.,8,14,14,29
+559,810,yagate kimi ni naru,10,10,14,56
+560,812,air,10,15,12,54
+561,813,"violet evergarden: kitto ""ai"" wo shiru hi ga kuru no darou",10,3,12,41
+562,814,code geass: fukkatsu no lelouch,4,14,13,27
+563,816,yesterday wo utatte,10,15,12,54
+564,817,grancrest senki,4,14,3,10
+565,818,bokutachi no remake,10,15,12,54
+566,819,little busters!,8,14,12,61
+567,820,just because!,10,15,12,54
+568,821,ano hi mita hana no namae wo bokutachi wa mada shiranai. movie,10,13,2,33
+569,822,fuuka,10,15,11,54
+570,853,kyoukai no kanata,1,13,2,38
+571,944,re:creators,4,3,13,11
+572,957,fate/stay night movie: heaven's feel - i. presage flower,4,3,2,31
+573,963,hagure yuusha no aesthetica,4,3,11,36
+574,970,shinmai maou no testament burst,4,3,14,11
+575,971,saijaku muhai no bahamut,4,3,14,11
+576,976,plunderer,4,3,11,36
+577,978,kamisama hajimemashita◎,8,3,14,15
+578,982,seireitsukai no blade dance,4,11,3,68
+579,983,isekai maou to shoukan shoujo no dorei majutsu ω,8,3,11,59
+580,984,hataraku maou-sama!!,8,3,14,15
+581,985,fate/stay night movie: heaven's feel - ii. lost butterfly,4,3,2,31
+582,1030,happy sugar life,10,10,6,78
+583,1033,"tokyo ghoul: ""jack""",4,3,6,12
+584,1036,terra formars,4,14,6,14
+585,1037,mahou shoujo site,10,7,2,75
+586,1042,"tokyo ghoul: ""pinto""",4,3,6,12
+587,1043,berserk: ougon jidai-hen ii - doldrey kouryaku,4,6,1,32
+588,1044,"elfen lied: tooriame nite arui wa, shoujo wa ikani shite sono shinjou ni itatta ka? - regenschauer",10,7,2,75
+589,1047,mnemosyne: mnemosyne no musume-tachi,4,10,6,30
+590,1049,vampire hunter d (2000),4,14,3,10
+591,1050,berserk 2nd season,4,6,1,32
+592,1052,gantz 2nd stage,4,14,6,14
+593,1055,zombie-loan,4,7,2,66
+594,1056,deadman wonderland: akai knife tsukai,4,7,13,53
+595,1057,zetman,4,14,6,14
+596,1059,juubee ninpuuchou,3,3,6,12
+597,1061,shikabane hime: aka,4,7,2,66
+598,1062,koutetsujou no kabaneri movie 3: unato kessen,4,14,3,10
+599,1063,jojo no kimyou na bouken,3,14,3,57
+600,1064,memories,10,7,13,44
+601,1065,sankarea ova,8,7,14,17
+602,1067,super danganronpa 2.5: komaeda nagito to sekai no hakaimono,4,7,7,6
+603,1069,blood-c: the last dark,4,7,2,66
+604,1070,kurozuka,4,14,6,14
+605,1071,gantz:o,4,14,6,14
+606,1072,hellsing: the dawn,4,7,2,66
+607,1073,terra formars: revenge,4,14,6,14
+608,1074,tokyo majin gakuen kenpucho: tou,4,14,3,10
+609,1076,sankarea: wagahai mo... zombie de aru...,8,7,14,17
+610,1077,vampire hunter d,4,7,13,53
+611,1078,kaibutsu oujo,4,11,6,30
+612,1079,blue gender,3,14,6,14
+613,1080,tasogare otome x amnesia: taima otome,5,8,14,1
+614,1081,jojo no kimyou na bouken: adventure,3,14,3,57
+615,1082,shikabane hime: kuro,4,7,2,66
+616,1083,ookamikakushi,4,7,7,6
+617,1084,kemonozume,4,7,14,53
+618,1085,ayakashi: japanese classic horror,1,7,7,47
+619,1086,shiki specials,5,8,2,71
+620,1087,cossette no shouzou,10,7,14,44
+621,1088,higurashi no naku koro ni kaku: outbreak,5,8,0,76
+622,1089,gibiate,4,3,6,12
+623,1090,jojo no kimyou na bouken: phantom blood,4,6,6,84
+624,1091,petshop of horrors,5,8,2,71
+625,1092,ayashi no ceres,3,14,6,14
+626,1093,jigoku shoujo: yoi no togi,5,8,2,71
+627,1094,yami no matsuei,0,11,1,73
+628,1095,gegege no kitarou (2018),8,7,2,39
+629,1096,youjuu toshi,4,6,1,32
+630,1098,dorohedoro: ma no omake,4,11,3,68
+631,1099,koutetsujou no kabaneri movie 1: tsudou hikari,4,14,3,10
+632,1100,tokkou,4,11,6,30
+633,1101,koutetsujou no kabaneri movie 2: moeru inochi,4,14,3,10
+634,1102,ajin ova,4,7,7,6
+635,1103,ajin part 1: shoudou,4,7,7,6
+636,1104,hellsing: digest for freaks,4,7,2,66
+637,1105,juubee ninpuuchou: ryuuhougyoku-hen,3,7,2,66
+638,1106,sankaku mado no sotogawa wa yoru,0,14,6,46
+639,1107,kyuuketsuhime miyu (tv),4,14,6,14
+640,1108,tokyo majin gakuen kenpucho: tou dai ni maku,4,14,3,10
+641,1109,x/1999,4,14,3,10
+642,1110,kyougoku natsuhiko: kousetsu hyaku monogatari,1,7,7,47
+643,1111,terra formars: bugs 2-hen,4,7,13,53
+644,1113,biohazard: degeneration,4,7,13,53
+645,1114,genocyber,4,7,13,53
+646,1115,kagewani,5,8,2,71
+647,1116,tomie,10,7,2,75
+648,1117,supernatural the animation,4,7,2,66
+649,1118,manie-manie: meikyuu monogatari,3,3,6,12
+650,1119,devilman,4,7,2,66
+651,1120,ayakashi,4,3,6,12
+652,1121,zombie-loan specials,4,7,2,66
+653,1122,hells,3,11,6,22
+654,1123,blue seed,4,6,9,19
+655,1124,devilman: tanjou-hen,5,0,2,55
+656,1126,blade,4,14,6,14
+657,1127,3x3 eyes,4,3,6,12
+658,1128,ajin part 2: shoutotsu,4,7,7,6
+659,1129,takahashi rumiko gekijou ningyo no mori,10,3,6,23
+660,1131,ajin part 3: shougeki,4,7,7,6
+661,1132,biohazard: damnation,4,7,13,53
+662,1133,devilman lady,4,14,6,14
+663,1134,enzai,0,14,6,46
+664,1135,devilman: yochou sirene-hen,5,0,2,55
+665,1136,makai toshi shinjuku,3,7,14,53
+666,1137,kyuuketsuhime miyu,4,14,6,14
+667,1138,biohazard: vendetta,4,7,13,53
+668,1139,kikoushi enma,1,7,2,28
+669,1141,night walker: mayonaka no tantei,4,7,7,6
+670,1142,jigoku sensei nube,3,11,6,22
+671,1144,kagewani: shou,5,8,2,71
+672,1145,boukyaku no senritsu,3,3,6,12
+673,1146,blood-c: special edition,4,7,2,66
+674,1147,highlander: the search for vengeance,4,7,13,53
+675,1148,ad police,3,7,7,6
+676,1149,arc the lad,4,6,3,0
+677,1150,kaidan restaurant,5,8,2,71
+678,1151,berserk: majo no tsuisou,4,6,1,32
+679,1152,"shikabane hime: kuro – soredemo, hito to shite",4,6,1,32
+680,1153,ajin part 2 ova,4,7,7,6
+681,1154,betterman,4,6,1,32
+682,1155,3x3 eyes: seima densetsu,4,6,3,0
+683,1156,change!! getter robo: sekai saigo no hi,4,6,6,84
+684,1157,gakkou no kaidan: kubinashi rider!! shi no noroi,5,8,2,71
+685,1158,silent möbius,4,11,1,34
+686,1159,interlude,3,7,7,6
+687,1160,ane naru mono,5,15,2,85
+688,1161,ushio to tora,4,11,6,30
+689,1162,berserk recap,4,6,1,32
+690,1164,kishin douji zenki,4,11,1,34
+691,1165,aru zombie shoujo no sainan (ona),4,7,2,66
+692,1166,biohazard: infinite darkness,4,7,13,53
+693,1167,kyoushoku soukou guyver (1989),4,7,13,53
+694,1168,kaibutsu oujo (ova),4,11,6,30
+695,1169,litchi de hikari club,8,14,6,51
+696,1170,violence jack: harlem bomber-hen,4,14,6,14
+697,1171,himekishi lilia,1,7,2,28
+698,1172,mamono hunter youko,8,3,6,80
+699,1265,kaze no stigma,4,15,2,85
+700,1290,hidan no aria,4,11,14,63
+701,1294,to love-ru darkness,8,15,13,74
+702,1295,date a live iii,8,15,13,74
+703,1296,hundred,4,15,13,27
+704,1299,renai boukun,8,15,2,16
+705,1301,saenai heroine no sodatekata ♭,8,15,11,4
+706,1304,kishuku gakkou no juliet,4,11,14,63
+707,1305,kami nomi zo shiru sekai: megami-hen,8,15,2,16
+708,1311,kiss x sis,8,15,11,4
+709,1313,mahouka koukou no rettousei: raihousha-hen,4,15,13,27
+710,1369,vivy: fluorite eye's song,4,0,0,26
+711,1378,world trigger,4,0,2,48
+712,1390,motto to love-ru,8,0,11,37
+713,1396,gintama': enchousen,4,11,13,63
+714,1397,denpa onna to seishun otoko,8,0,12,37
+715,1400,gintama.,4,11,13,63
+716,1401,sora no otoshimono: forte,8,15,13,74
+717,1404,masou gakuen hxh,4,11,3,68
+718,1409,psycho-pass 3,4,0,0,26
+719,1410,to love-ru darkness 2nd,8,15,13,74
+720,1412,planetes,10,15,13,21
+721,1413,texhnolyze,4,14,13,27
+722,1414,punch line,8,0,2,95
+723,1416,gintama movie 2: kanketsu-hen - yorozuya yo eien nare,4,11,13,63
+724,1418,canaan,4,0,2,48
+725,1419,mobile suit gundam: iron-blooded orphans,4,14,13,27
+726,1420,kantai collection: kancolle,4,0,12,25
+727,1421,mobile suit gundam 00,4,14,13,27
+728,1423,hello world,10,15,13,21
+729,1424,"kumo no mukou, yakusoku no basho",10,15,13,21
+730,1428,date a live iv,8,15,13,74
+731,1429,asobi ni iku yo!,8,15,13,74
+732,1430,date a live: date to date,8,15,13,74
+733,1431,uq holder!: mahou sensei negima! 2,4,3,13,11
+734,1432,gintama.: shirogane no tamashii-hen,4,11,13,63
+735,1433,gunslinger girl,4,14,13,27
+736,1434,uchuu kyoudai,8,0,12,37
+737,1435,flip flappers,3,11,13,18
+738,1436,gintama.: porori-hen,4,11,13,63
+739,1437,no guns life,4,14,13,27
+740,1438,gungrave,4,14,13,27
+741,1439,nomad: megalo box 2,10,0,5,93
+742,1441,saint seiya,3,3,13,72
+743,1443,mahouka koukou no rettousei movie: hoshi wo yobu shoujo,4,0,2,48
+744,1444,kyoukaisenjou no horizon,4,3,13,11
+745,1446,killing bites,4,0,11,25
+746,1447,gintama.: shirogane no tamashii-hen - kouhan-sen,4,11,13,63
+747,1448,onegai☆teacher,10,15,13,21
+748,1449,to love-ru ova,8,0,11,37
+749,1450,last exile,4,6,13,89
+750,1451,tokyo esp,4,11,13,63
+751,1453,beatless,4,14,14,87
+752,1454,strike witches,4,0,11,25
+753,1456,tsuritama,8,0,12,37
+754,1457,divine gate,4,3,13,11
+755,1458,utawarerumono,4,14,3,10
+756,1459,mobile suit gundam seed,4,14,14,87
+757,1460,freezing vibration,4,14,14,87
+758,1462,casshern sins,4,6,1,32
+759,1463,aria the animation,1,0,12,52
+760,1466,chihayafuru 2,10,13,5,45
+761,1467,yowamushi pedal,8,14,5,2
+762,1469,walkure romanze,11,5,11,97
+763,1470,chihayafuru 3,10,13,5,45
+764,1471,cross game,10,15,5,77
+765,1472,suzuka,10,15,5,77
+766,1473,bakuten shoot beyblade,4,6,9,19
+767,1474,2.43: seiin koukou danshi volley-bu,10,13,5,45
+768,1475,major s1,8,14,5,2
+769,1476,metal fight beyblade,3,11,5,22
+770,1477,ashita no joe,4,14,12,27
+771,1478,ro-kyu-bu!,8,5,11,83
+772,1479,major s2,8,14,5,2
+773,1480,major s5,8,14,14,29
+774,1481,mobile fighter g gundam,3,11,1,67
+775,1482,air gear: kuro no hane to nemuri no mori - break on the sky,4,11,5,30
+776,1483,bakuten shoot beyblade 2002,4,6,9,19
+777,1484,major s4,8,14,5,2
+778,1485,major s6,8,14,5,2
+779,1486,kidou tenshi angelic layer,8,14,13,29
+780,1487,houkago teibou nisshi,8,13,5,2
+781,1488,sekai de ichiban tsuyoku naritai!,4,5,11,89
+782,1489,battery,10,13,5,45
+783,1490,ginban kaleidoscope,10,15,5,77
+784,1491,metal fight beyblade: baku,3,11,5,22
+785,1492,bakuten shoot beyblade g revolution,4,6,9,19
+786,1493,ashita no joe 2,4,14,12,27
+787,1494,one piece: yume no soccer ou!,8,3,5,80
+788,1495,detective conan movie 16: the eleventh striker,3,11,7,81
+789,1496,kenkou zenrakei suieibu umishou,8,5,11,83
+790,1497,skate-leading☆stars,8,14,5,2
+791,1498,tribe nine,4,0,5,79
+792,1499,ro-kyu-bu! ss,8,5,11,83
+793,1500,rifle is beautiful,8,13,5,2
+794,1501,major: world series,8,14,5,2
+795,1502,one piece: mezase! kaizoku yakyuu ou,8,3,5,80
+796,1503,touch,10,15,12,54
+797,1504,major 2nd,8,14,5,2
+798,1505,major: message,8,14,5,2
+799,1506,zoids shinseiki/zero,3,11,13,18
+800,1507,beyblade burst,4,6,13,89
+801,1508,softenni,8,5,11,83
+802,1509,hungry heart: wild striker,8,13,5,2
+803,1510,hantsu x trash,8,15,5,2
+804,1511,mix: meisei story,10,15,5,77
+805,1512,tiger mask w,4,14,5,14
+806,1537,"slime taoshite 300-nen, shiranai uchi ni level max ni nattemashita",8,3,12,59
+807,1538,acchi kocchi,8,15,12,61
+808,1541,amaama to inazuma,8,12,12,13
+809,1547,tensura nikki: tensei shitara slime datta ken,8,3,12,59
+810,1553,koi wa ameagari no you ni,10,15,12,54
+811,1554,tada-kun wa koi wo shinai,8,15,12,61
+812,1556,mangaka-san to assistant-san to the animation,8,13,11,13
+813,1557,kanon (2006),10,15,12,54
+814,1559,love hina,8,15,12,61
+815,1560,hachimitsu to clover,8,14,14,29
+816,1561,flying witch,8,13,2,70
+817,1562,sakura trick,8,10,14,98
+818,1564,kyoukai no kanata movie 2: i'll be here - mirai-hen,1,13,2,38
+819,1565,chuunibyou demo koi ga shitai! movie: take on me,8,14,14,29
+820,1566,doukyuusei (movie),0,15,12,86
+821,1567,kanokon,8,15,12,61
+822,1568,natsume yuujinchou san,10,13,2,33
+823,1569,ranma ½,8,3,12,59
+824,1571,zoku natsume yuujinchou,10,13,2,33
+825,1572,white album 2,10,15,12,54
+826,1574,natsume yuujinchou shi,10,13,2,33
+827,1575,bokura ga ita,10,15,12,54
+828,1577,isekai shokudou,1,12,12,65
+829,1578,nijiiro days,8,15,12,61
+830,1579,kareshi kanojo no jijou,8,14,14,29
+831,1581,paradise kiss,8,14,14,29
+832,1582,given movie,0,14,14,50
+833,1583,osake wa fuufu ni natte kara,8,12,14,92
+834,1584,papa no iukoto wo kikinasai!,8,15,12,61
+835,1585,kino no tabi: the beautiful world - the animated series,4,6,12,89
+836,1586,colorful (movie),10,13,2,33
+837,1587,watashi ni tenshi ga maiorita!,8,10,12,98
+838,1589,kimi to boku.,8,14,14,29
+839,1590,natsume yuujinchou roku,10,13,2,33
+840,1591,natsume yuujinchou go,10,13,2,33
+841,1592,adachi to shimamura,7,15,12,61
+842,1594,glasslip,11,13,2,33
+843,1595,shikioriori,10,15,12,54
+844,1596,uchouten kazoku,8,14,3,91
+845,1597,little busters!: refrain,8,14,14,29
+846,1598,kami-tachi ni hirowareta otoko,3,3,12,72
+847,1600,hitorijime my hero,0,14,14,50
+848,1601,seijo no maryoku wa bannou desu,1,15,12,86
+849,1602,yuuki yuuna wa yuusha de aru,10,3,12,41
+850,1603,kimi no iru machi,10,15,12,54
+851,1604,konohana kitan,1,10,12,65
+852,1605,umibe no étranger,0,15,12,86
+853,1606,kimi ga nozomu eien,10,15,12,54
+854,1607,super lovers,0,11,1,73
+855,1608,fate/kaleid liner prisma☆illya 2wei herz!,4,11,3,68
+856,1610,nagato yuki-chan no shoushitsu,8,15,12,61
+857,1611,omoide poroporo,10,15,12,54
+858,1612,urara meirochou,8,3,12,59
+859,1614,miira no kaikata,8,13,2,70
+860,1615,hourou musuko,10,15,12,54
+861,1616,chuunibyou demo koi ga shitai! ren: the rikka wars,8,14,14,29
+862,1617,kyoukai no kanata: shinonome,1,13,2,38
+863,1618,nodame cantabile: paris-hen,8,15,12,61
+864,1619,aria the origination,1,0,12,52
+865,1621,emiya-san chi no kyou no gohan,8,12,12,13
+866,1622,umi ga kikoeru,10,15,12,54
+867,1623,himegoto,8,13,11,13
+868,1624,green green,8,15,12,61
+869,1625,fune wo amu,10,15,12,54
+870,1626,uchi no maid ga uzasugiru!,8,10,12,98
+871,1627,taishou otome otogibanashi,8,15,12,61
+872,1746,kore wa zombie desu ka? of the dead,4,11,2,90
+873,1752,panty & stocking with garterbelt,4,11,2,90
+874,1769,code:breaker,4,11,2,90
+875,1770,seikon no qwaser,4,2,11,36
+876,1772,witch craft works,4,3,2,31
+877,1773,overlord iv,4,3,2,31
+878,1775,fate/stay night: unlimited blade works prologue,4,3,2,31
+879,1777,taimadou gakuen 35 shiken shoutai,4,3,14,11
+880,1778,fate/stay night movie: heaven's feel - iii. spring song,4,3,2,31
+881,1780,highschool of the dead: drifters of the dead,8,2,11,59
+882,1782,seiken tsukai no world break,4,3,14,11
+883,1790,yuragi-sou no yuuna-san,8,15,2,16
+884,1794,servamp,4,11,1,34
+885,1798,kokoro connect: michi random,10,15,2,49
+886,1799,jitsu wa watashi wa,8,3,14,15
+887,1801,fate/grand order: zettai majuu sensen babylonia,4,3,2,31
+888,1803,devils line,4,14,14,87
+889,1833,ga-rei: zero,4,2,0,62
+890,1835,death billiards,10,2,0,20
+891,1837,re:zero kara hajimeru isekai seikatsu - hyouketsu no kizuna,10,3,0,20
+892,1846,mahou shoujo ikusei keikaku,4,3,2,31
+893,1850,shigofumi,10,3,2,20
+894,1851,b: the beginning succession,4,8,2,24
+895,1852,ibara no ou,4,8,13,1
+896,1855,mouryou no hako,6,2,0,8
+897,1856,under the dog,4,0,0,26
+898,1857,super crooks,4,14,0,43
+899,1858,imawa no kuni no alice,4,2,0,62
+900,1859,mahou shoujo madoka★magica movie 4: walpurgis no kaiten,10,8,0,7
+901,1860,yakusoku no neverland 2nd season: michishirube,6,0,0,42
+902,1861,dr. stone: stone wars - kaisen zenya special eizou,3,0,0,26
+903,1862,kara no kyoukai remix: gate of seventh heaven,4,8,14,1
+904,1863,golgo 13 (tv),4,6,1,32
+905,1864,black jack,10,8,0,7
+906,1865,higashi no eden: air communication,6,15,13,64
+907,1867,fantastic children,3,3,7,58
+908,1868,shion no ou,10,8,0,7
+909,1869,arve rezzle: kikaijikake no yousei-tachi,4,14,7,94
+910,1871,sentou yousei yukikaze,4,14,13,27
+911,1872,loups=garous,6,0,0,42
+912,1873,vivy: fluorite eye's song - to make everyone happy with my singing,4,0,0,26
+913,1874,yojouhan time machine blues,8,8,14,17
+914,1875,shigofumi: sore kara,10,3,0,20
+915,1878,psycho-pass movie: providence,4,8,13,1
+916,1879,yuugo: koushounin,4,14,7,94
+917,1880,karakurizoushi ayatsuri sakon,5,8,0,76
+918,1881,monster extra: hottan,10,8,0,7
+919,1882,biohazard 4: incubate,4,7,7,6
+920,1883,koroshiya-san: the hired gun,4,11,0,34
+921,1884,mouryou no hako: chuuzenji atsuko no jikenbo - hako no yurei no koto,6,2,0,8
+922,1885,duan nao,6,0,0,42
+923,1886,mo ri shu guang,4,1,6,79
+924,1887,collar x malice,6,15,0,43
+925,1888,sanctuary,4,14,0,43
+926,1889,ninja ryuukenden,4,0,2,48
+927,1890,shuranosuke zanmaken: shikamamon no otoko,4,2,0,62
+928,1891,ling long: incarnation,4,14,6,14
+929,1892,bloody night,5,2,0,62
+930,1893,chainsaw bunny,8,7,2,39
+931,1894,zhongguo jingqi xiansheng,8,2,0,88
+932,1895,xue se cang qiong,4,6,3,0
+933,1896,meisou! underworld,4,2,0,62
+934,1897,dead girl trailer,5,2,0,62
+935,1898,osiris no tenbin,10,2,0,20
+936,1899,min diao ju yi wen lu,4,6,2,0
+937,1900,kizuoibito,4,6,0,32
+938,1901,monster special edition,10,8,0,7
+939,1902,chainsaw maid episode 0,8,7,2,39
+940,1903,ling long: incarnation part 2,4,14,6,14
+941,1904,na bbeun sang sa,10,15,12,54
+942,1905,tomoe ga yuku!,4,14,14,87
+943,1906,akuma-kun (ona),5,2,0,62
+944,1907,ling long: incarnation middle chapter,4,14,6,14
+945,1908,ling long: incarnation final chapter,4,14,6,14
+946,1909,chainsaw bunny: deleted scene,5,2,0,62
+947,1910,junk head,4,6,9,19
+948,1911,ling long: incarnation special,4,14,6,14
+949,1912,osiris no tenbin: season 2,10,2,0,20
+950,1913,shin gakkou no yuurei,5,2,0,62
+951,1914,don't cry (movie),4,0,0,26
+952,1915,re:zero kara hajimeru isekai seikatsu - memory snow announcement,8,3,0,88
+953,1916,ori no naka no soloist pv,4,14,0,43
+954,1917,ben-to,4,11,10,40
+955,1921,kakuriyo no yadomeshi,10,12,14,56
+956,1922,toriko,4,6,9,19
+957,1924,bartender,10,12,12,13
+958,1925,koufuku graffiti,8,12,12,13
+959,1926,isekai shokudou 2,1,12,12,65
+960,1927,moyashimon,8,12,2,70
+961,1928,naruto: shippuuden - sunny side battle,8,3,10,3
+962,1929,ramen daisuki koizumi-san,8,12,12,13
+963,1930,bonjour♪koiaji pâtisserie,9,15,12,54
+964,1931,takunomi.,8,12,12,13
+965,1932,ristorante paradiso,10,12,14,56
+966,1933,seiyou kottou yougashiten: antique,0,11,10,96
+967,1934,pan de peace!,8,12,12,13
+968,1935,osake wa fuufu ni natte kara: yuzu atsukan,8,12,14,92
+969,1936,moyashimon returns,8,12,2,70
+970,1937,meng qi shi shen,8,14,10,4
+971,1938,chuuka ichiban!,4,11,1,34
+972,1939,piace: watashi no italian,8,12,12,13
+973,1940,maiko-san chi no makanai-san,8,12,12,13
+974,1941,kirakira☆precure a la mode,4,3,10,36
+975,1942,nu wushen de canzhuo,8,12,12,13
+976,1943,toriko: jump super anime tour 2009 special,4,6,9,19
+977,1944,toriko 3d: kaimaku gourmet adventure!!,4,6,9,19
+978,1945,nu wushen de canzhuo ii,8,12,12,13
+979,1946,kakutou ryouri densetsu bistro recipe,3,11,3,5
+980,1947,meng qi shi shen: zaijie liangyuan,3,11,1,67
+981,1948,crayon shin-chan movie 21: bakauma! b-kyuu gourmet survival battle!!,3,11,10,40
+982,1949,dae jang geum: jang geum's dream,3,11,10,40
+983,1950,hitorigurashi no shougakusei,8,12,12,13
+984,1951,toriko: barbarian ivy wo hokaku seyo!,4,6,9,19
+985,1952,oishinbo,8,12,12,13
+986,1953,hakata mentai! pirikarako-chan,8,12,12,13
+987,1954,dungeon meshi,8,3,10,3
+988,1955,doamaiger d,4,11,10,40
+989,1956,dae jang geum: jang geum's dream 2,3,11,10,40
+990,1957,kung fu liaoli niang,4,3,10,36
+991,1958,meng qi shi shen: huanxi zhui hun,8,14,10,4
+992,1959,"eikoku ikka, nihon wo taberu",8,12,12,13
+993,1960,oishinbo: nichibei kome sensou,8,12,12,13
+994,1961,"oishinbo: kyuukyoku tai shikou, chouju ryouri taiketsu!!",8,12,12,13
+995,1962,okashi na tensei,1,12,12,65
+996,1963,dosukoi sushi zumou,8,12,5,2
+997,1964,oh! my konbu,8,12,12,13
+998,1965,"eikoku ikka, nihon wo taberu: english ikka, shougatsu wo taberu",8,12,12,13
+999,1966,mini moni the movie: okashi na daibouken!,3,3,10,36

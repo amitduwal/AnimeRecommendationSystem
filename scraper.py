@@ -117,12 +117,31 @@ if __name__ == "__main__":
     import os
     os.system('cls')
     print('MyAnimeList Scraper')
+
+
+    genre_list = ["1/Action",
+                    "2/Adventure",
+                    "4/Comedy",
+                    "5/Avant_Garde",
+                    "7/Mystery",
+                    "8/Drama",
+                    "10/Fantasy",
+                    "14/Horror",
+                    "22/Romance",
+                    "24/Sci-Fi",
+                    "30/Sports",
+                    "36/Slice_of_Life",
+                    "37/Supernatural",
+                    "41/Suspense",
+                    "47/Gourmet"
+    ]
     
-    number_of_genres  = int(input("Enter number of genres to scrap: "))
-    for i in range(number_of_genres):
-        genre = input('Enter a genre: ')
+    # number_of_genres  = int(input("Enter number of genres to scrap: "))
+    for genre in genre_list:
+        # genre = input('Enter a genre: ')
         
-        for i in range(1,6):
-            url1 = f"https://myanimelist.net/anime/genre/1/{genre}?page={str(i)}"
+        for i in range(1,3):
+            url1 = f"https://myanimelist.net/anime/genre/{genre}?page={str(i)}"
             data_set(url1)
+            print(f'Scraping page {url1}')
         
