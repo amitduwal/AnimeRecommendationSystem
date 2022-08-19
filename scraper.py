@@ -118,7 +118,10 @@ if __name__ == "__main__":
     os.system('cls')
     print('MyAnimeList Scraper')
 
-
+    # 1 is index associated with action
+    # indexes necessary 
+    # 1/Adventure would give action genre anime with adventure genre, so correct index necessary  
+    # MAL website
     genre_list = ["1/Action",
                     "2/Adventure",
                     "4/Comedy",
