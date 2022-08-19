@@ -1,6 +1,7 @@
 import clustering_code
 import os
 
+
 def clean_t_dataset():
     try:
         os.remove('Dataset_to_plot.csv')
@@ -13,6 +14,7 @@ def get_anime_name():
     if type(animes) == int:#for return 0
         pass
     else:
+        print(f"If you liked {input_anime} you might also like: ")
         print(animes)
 
 get_anime_name()

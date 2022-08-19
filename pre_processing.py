@@ -1,5 +1,9 @@
 import pandas as pd
 import numpy as np
+
+import warnings
+warnings.filterwarnings("ignore")
+
 def assign_Genre_values(df):
     p_values=df.to_list()
     #Converting p_values to set so that we get the core types of genre present on it.
